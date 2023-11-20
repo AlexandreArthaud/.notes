@@ -114,6 +114,15 @@ sautján : seventeen
 átján : eighteen
 nítján : nineteen
 tuttugu : twenty
+þrjátíu : thirty
+fjörutíu : forty
+fimmtíu : fifty
+sextíu : sixty
+sjötíu : seventy
+áttatíu : eighty
+níutíu : ninety
+hundrað {hundruð} : hundred <neuter forms of numeral is used for many hundred: tvö hundruð, etc>
+þúsund : thousand <neuter forms of numeral is used for many thousands: tvö þúsund, etc> 
 tala {f tölu tölur} : number
 minn {mitt min} : my <used after the noun, not before>
 þinn {þitt þín} : your <used after the noun, not before>
@@ -180,20 +189,126 @@ kústur : broom
 blýantur : pencil
 ostur : cheese
 kaka : cake / cookie
-
-í rétta röð : in the right order
-á mánudag : on Monday <sidenote: Icelandic starts the week on Sunday>
+hálf- : half
+fara {fór fóru farið} : to go
+við {okkur} : we
+átt {f} : direction
+eiga {á-att-á-eigum-eigið-eiga átti átt} : to have
+heima : at home 
+kortér {n} : quarter
+yfir [DAT/ACC] : above
+mínúta : minute
+geta {gat gátum getað/getið} : to be able <followed with supine form of verb>
+aðstoða : to help
+ætla : to intend / to mean to / to be going to <followed by marked infinitive with að>
+fá {fékk fengu fengið} : to get / to receive
+kort {n} : map ; card
+  SIM-kort / símakort : SIM card
+einhver {eitthvert/eitthvað} -e-r : someboy ; something
+fleiri #adj : more
+króna : crown <generic name for various currencies of Nordic countries  (and Estonia, Czechia, Slovakia), including that of Iceland>
+draga {dró drógu dregið} : to drag
+kosta : to cost
+tyggjó {n} : chewing gum
+mjólk {f} : milk
+kex {n} : cookie
+brauð {n} : bread
+samloka : sandwich
+kaffi {n} : coffee
+fínn : fine
+taka {tók tóku tekið} : to take
+  taka [vehicle] : to take the [vehicle]
+helgi {f} : weekend <technically refers to any two holidays in a row, but usually used for the weekend>
+  um helgina : on the weekend / this weekend
+um [ACC] : about
+þvo {þvoði þvegið þvægi} : to wash <to do laundry>
+  þvo föt : to wash clothes
+keyra : to drive
+skera {skar skáru skorið} : to cut / to slice
+versla : to shop
+sópa : to sweep <with a broom?>
+vaska : to wash
+  vaska upp : to do the dishes
+velkominn : welcome
+skápur : cupboard / closet ; locket
+þarna : over there
+stofa : living room ; classroom
+  kaffistofa : coffee room <seems to refer to a sort of living room where people might drink coffee, in some kind of working place for example>
+starfsfólk : staff / personnel
+  starf {n starfs störf} : work / job
+  fólk {n} : people
+klósett {n} : toilet ; bathroom
+byrja : to begin
+stór : big / great
+þurfa [ACC/GEN] {þarf þurfti þurft} : to need
+kvöld {n} : evening
+vakt {f} : shift / watch ; guard
+  kvöldvakt : evening shift
+  að vinna kvöldvakt : to work the evening shift
+sund {n} : swimming
+eftir : after
+vinna : job ; work
+líka : also
+bíó {n} : cinema / movie theater
+föt {npl} : clothes
+borð {n} : table
+ryksuga : vacuum cleaner
+sjónvarp : TV / television
+vél {f} : machine
+  þvottavél {f} : washing machine
+  kaffivél : coffee machine
+krossgáta : crossword
+  kross {m} : cross
+  gáta : riddle
+matur : food ; meal
+tími : hour ; lesson
+  kaffitími : coffee hour
+  matartími : mealtime
+  vinnutími : work time
+  frítimi : free time
+til [GEN] : to
+núna : now
+koma {kom komu komið} : to come
+sykur {m/n} : sugar
+uppi : above 
+hægri : right
+  til hægri : to the right
+vinstri : left
+  til vinstri : to the left
+borða : to eat <only prepared food, not anothing living being (ex:a wolf eating a sheep), for this see éta>
+niðri : below
+bróðir {m bróður bræður} : brother
+systir {f systur_} : sister
+sonur {m sonar synir} : son
+dóttir {f dóttur dætur} : daughter
+ari #poetic : eage
+hlusta : to listen
+mamma : mom
+pabbi : dad
+flokkun : sorting / classification
+orð {n} : word
+sitja {sat sátu setið} : to sit
+mynd : image ; movie / film
+salur : hall <large room: meeting room, cinema room, etc.>
 
 hæ : hi
 halló : hello
 heyrðu : hey
+ha? : huh? / what?
 góðan dag(inn) : good day ; good morning
 á morgun : tomorrow
 í dag : today
+í kvöld : tonight
+
+í rétta röð : in the right order
+á mánudag : on Monday <sidenote: Icelandic starts the week on Sunday>
+á X krónur : for X crowns
+
 hvað heitir þú? / hvað heitirðu? : what's your name?
 eg heiti X : my name is X
 hvað segirðu (gott)? / hvað segir þú? : how are you?
 allt gott : good / I'm fine <answer to 'how are you?'>
+allt fínt : good / I'm fine <answer to 'how are you?'>
 ert þú / ertu ...? : are you ...?
 ert þú með penna? / ertu með penna? : do you have a pen?
 frá hvaða landi ert þú? / frá hvaða landi ertu? : what country are you from?
@@ -208,6 +323,28 @@ hvað er síminn á [X:DAT]? : what's the phone number for X?
 takk fyrir : thank you / thanks
 gjörðu svo vel : here you go <when handing over something>
 sjáumst : see you later / see you soon
+hvað er klukkan? : what time is it?
+klukkan er.... hálf ellefu : it's half past ten / it's 10:30
+ég er að fara að vinna klukkan ellefu : I'm going to work at eleven o'clock
+Við sjáumst á miðvikudag! : see you on Wednesday!
+klukkan er eitt : it's one o'clock <the neuter form of the number seems to be used in such phrases>
+klukkan er kortér í tvö : it's a quarter to two
+klukkan er korter yfir átta : it's a quarter past eight
+klukkan er tuttugu minútúr í fimm : it's twenty to five
+hvar áttu heima? : where do you live? <litteraly: "where do you have at home">
+eitthvað fleira? : anything else?
+hvað kostar X? : how much does X cost?
+ég ætla að taka strætó klukkan korter í níu. : I will take the bus at a quarter to nine
+símtal : phone call/conversation
+klukkan hvað ...? klukka átta : at what time ...? at eight
+ertu búinn að ...? : are you done ...?
+ætlarðu í sund? : are you going swimming
+Það er kaffitími klukkan hálf ellefu til ellefu og matartími klukkan korter yfir tólf : coffee hour is from half past ten to eleven and mealtime is at a quarter past twelve
+komum í kaffi! : let's go for coffee!
+um kvöld : in the afternoon / PM <after an hour>
+um morgun : in the morning / AM <after an hour>
+
+To sort: á Bárugötu, í Úthlíð
 ```
 
 ```aln:geopolitics
@@ -267,6 +404,7 @@ portúgalska {portúgölsku} : Portuguese language
 ```aln:names
 Ásta : =fn <from an old diminutive of Ástríðr>
 Halla : =fn <female form of Hallr, from Old Norse hallr "flat stone, hill">
+Ari : =mn <originally meaning "eagle" in Old Norse, in modern Icelandic only in poetic contexts>
 ```
 
 ```aln:sandbox
