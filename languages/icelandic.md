@@ -30,7 +30,7 @@ YN questions are asked by changing the word order from SVO to VSO, like in Engli
 
 ég {mig mér mín} : I
 heita : to be called
-hvað {fem:hver} <base form is hver, this seems similar to Latin quis meaning both who and what> : what
+hvað /hvert {fem:hver} <base form is hver, this seems similar to Latin quis meaning both who and what> : what
 þú {þig þér þín} : you
 segja {sagði sagt} : to say
 góður {betri bestur} : good
@@ -269,6 +269,7 @@ tími : hour ; lesson
 til [GEN] : to
 núna : now
 koma {kom komu komið} : to come
+  koma með : to come with
 sykur {m/n} : sugar
 uppi : above 
 hægri : right
@@ -290,19 +291,114 @@ orð {n} : word
 sitja {sat sátu setið} : to sit
 mynd : image ; movie / film
 salur : hall <large room: meeting room, cinema room, etc.>
+miði : ticket [á = to/for]
+fyrirgefa : to forgive
+málfræði {f} : grammar
+bókasafn {n} : librara
+fyrst : first
+við [ACC] : next to
+hlið {f} : side
+við hliðina á : next to
+sundlaug {f} : swimming pool
+fyrir framan : in front of
+fyrir aftan : behind
+framan : on the front side
+aftan : on the back side
+allt í lagi : all right
+lag {n} : layer ; order
+beint áfram : straight ahead
+beint : directly / straight
+áfram : forward
+framhjá [DAT] : past
+bensínstöð {f} : gas station
+úti : outside
+inni : inside
+svar {n} : reply / answer
+þakka : to thank
+karlaklefa : urinal <for men>
+kvennaklefi : urinal <for women>
+sundskýla : swimming trucks
+sturta : shower ; to pour down
+heitur pottur : hot tub
+  heitur : hot
+  pottur : pot ; hot tub / jacuzzi
+sundbolur : swimsuit
+starfsmaður : employee / worker
+opinn : open
+borg {f} : city
+  borgarbókasafn : city library
+geisladiskur : optical disk <especially a compact disk to store data, AKA "CD">
+barn : child
+  barnabók : children's book
+skoða : to check out / to view
+finna {fann fundu fundið} : to find
+gilda : to be valid
+ár {n} : year
+viðskiptavinur : client / customer
+athuga : to look / to check ; to consider
+loka : to close
+lengi : for a long time
+hvað #adv : how
+janúar {m} : January
+febrúar {m} : February
+mars {m} : Mars
+apríl {m} : April
+maí {m} : May
+júní {m} : June
+júlí {m} : July
+ágúst {m} : August
+september {m} : September
+október {m} : October
+nóvember {m} : November
+desember {m} : December
+mánuður : month
+veikur : weak ; sick / ill
+hiti : heat ; fever
+hósti : cough
+kannski : maybe / perhaps
+flensa : flu
+halda {hélt héldu haldið} : to think <to have an opinion> ; to hold [DAT]
+sá {það sú} : that
+kvef {n} : cold <illness>
+magi : stomach
+höfuð : head
+tannpína : toothache
+  tann- : dental
+  pína : pain
+verkur : pain / ache
+  magaverkur : stomach ache
+  höfuðverkur : headache
+hraustur : healthy
+læknir : doctor / medical practitioner
+vottorð : certificate
+bréf {n} : letter <mail>
+panta : to order / to reserve
+ganga {gekk gengu gengið} : to walk
+heilsugæslustöð {n} : health center
+  að panta tíma [á? = in] : to make an appointment
+lögregla : police  
+sjúkrabíll : ambulance car
+slökkvilið : fire brigade
+neyðarlína : hotline
+meira : more
+mjög : very
+pizza : pizza
 
 hæ : hi
 halló : hello
 heyrðu : hey
 ha? : huh? / what?
+æ! : ah! / oh!
 góðan dag(inn) : good day ; good morning
 á morgun : tomorrow
 í dag : today
 í kvöld : tonight
+í eitt ár : for a year
 
 í rétta röð : in the right order
 á mánudag : on Monday <sidenote: Icelandic starts the week on Sunday>
 á X krónur : for X crowns
+á pólsku : in Polish
 
 hvað heitir þú? / hvað heitirðu? : what's your name?
 eg heiti X : my name is X
@@ -319,7 +415,7 @@ afsakið... : excuse me...
 hvað er síminn hjá þér? : what's your phone number?
 síminn hjá mér er X : my phone number is X
 hvað er síminn á [X:DAT]? : what's the phone number for X?
-það er frí á sunnudag : I have Sunday off
+það er frí á sunnudag : I have Sunday off <Icelandic often uses Það (er) as dummy pronoun where English would use 'there is' or another turn of phrase>
 takk fyrir : thank you / thanks
 gjörðu svo vel : here you go <when handing over something>
 sjáumst : see you later / see you soon
@@ -343,8 +439,26 @@ ertu búinn að ...? : are you done ...?
 komum í kaffi! : let's go for coffee!
 um kvöld : in the afternoon / PM <after an hour>
 um morgun : in the morning / AM <after an hour>
+Það eru X krónur : it's X crowns
+fyrirgefðu : excuse me
+þakka þér fyrir : thank you
+hvað ertu búin að vera lengi á Íslandi? : how long have you been living in Iceland?
+ég er búin að vera hérna í tvö ár : I have lived here for two years
+ég er bara búinn að vera eitt ár á Íslandi : I have lived in Iceland for almost eight years
+hvað er að? : what's up? / what's the matter?
+ég er með höfuðverk : I have a headache
+ég er með hita : I have a fever
+ég er með hósta : I have a cough
+ég er með tannpínu : I have a toothache
+ég er með magaverk : I have a stomach ache
+ég er með kvef : I have a cold
+ég er með flensi : I have the flu
+gangi þér vel : good luck
+ég ætla að panta tíma hjá lækni : I want to make an appointment with a doctor
+ég á tíma á miðvikudag klukkan tvö : I have a slot on Wednesday at two <answering someone who wants to make an appontment>
+hvenær fær Ewa tíma hjá lækni? : when does Ewa have an appointment with the doctor?
 
-To sort: á Bárugötu, í Úthlíð
+To sort: á Bárugötu, í Úthlíð, Tryggvagötu
 ```
 
 ```aln:geopolitics
