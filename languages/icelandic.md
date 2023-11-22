@@ -128,6 +128,7 @@ minn {mitt min} : my <used after the noun, not before>
 þinn {þitt þín} : your <used after the noun, not before>
 númer {n} : number
   símanúmer : telephone number
+  bankanúmer : bank account number
 skrá : list / directory
   símaskrá : telephone directory
 á [DAT/ACC] : on ; in
@@ -148,7 +149,7 @@ raða [DAT] : to put in order
 röð {f raðar raðir} : row ; order
 skrifa : to write
 hérna : here
-svo : so <both as in "so..." and "so <adj>">
+svo : so <both as in "so..." and "so <adj>"> ; then
 vel {betur best} : well
 gjöra #archaic : to do <replaced by "gera" in modern Icelandic except a few set phrases>
 gera : to do
@@ -204,6 +205,8 @@ aðstoða : to help
 fá {fékk fengu fengið} : to get / to receive
 kort {n} : map ; card
   SIM-kort / símakort : SIM card
+  skattkort : personal tax credit certificate
+  debetkort : debit card
 einhver {eitthvert/eitthvað} -e-r : someboy ; something
 fleiri #adj : more
 króna : crown <generic name for various currencies of Nordic countries  (and Estonia, Czechia, Slovakia), including that of Iceland>
@@ -234,6 +237,7 @@ skápur : cupboard / closet ; locket
 þarna : over there
 stofa : living room ; classroom
   kaffistofa : coffee room <seems to refer to a sort of living room where people might drink coffee, in some kind of working place for example>
+  skattstofa : inland revenue department
 starfsfólk : staff / personnel
   starf {n starfs störf} : work / job
   fólk {n} : people
@@ -360,8 +364,6 @@ flensa : flu
 halda {hélt héldu haldið} : to think <to have an opinion> ; to hold [DAT]
 sá {það sú} : that
 kvef {n} : cold <illness>
-magi : stomach
-höfuð : head
 tannpína : toothache
   tann- : dental
   pína : pain
@@ -369,9 +371,11 @@ verkur : pain / ache
   magaverkur : stomach ache
   höfuðverkur : headache
 hraustur : healthy
+hress : healthy
 læknir : doctor / medical practitioner
 vottorð : certificate
 bréf {n} : letter <mail>
+  vegabréf : passport
 panta : to order / to reserve
 ganga {gekk gengu gengið} : to walk
 heilsugæslustöð {n} : health center
@@ -383,6 +387,94 @@ neyðarlína : hotline
 meira : more
 mjög : very
 pizza : pizza
+upp : up
+út : out
+bíða : to wait
+kalla [á e-r] : to call
+hjálp {f} : help
+hjúkrunarfræðingur : nurse
+tannlæknir : dentist
+augnlæknir : eye doctor / ophtamologist
+barnalæknir : pediatrician
+líkami {m} : body
+höfuð : head
+hár {n} : hair
+enni {n} : forehead
+auga {n auga augu} : eye
+eyra {n} : eye
+nef {n} : nose
+munnur : mouth
+haka {höku hökur} : chin
+herðar {fpl} : shoulders
+hönd {f handar hendur} : hand
+fingur {m fingurs fingur} : finger
+magi : stomach
+hné {n} : knee
+fótur {m fótar fætur} : foot ; leg
+tá {f táar tær} : toe
+lungnabólga : pneumonia
+lyfseðill : prescription
+apótek {n} : pharmacy
+kaupa {keypti keypt} : to buy
+lyf {n} : medicine / drug
+  verkjalyf : pain killer
+tvisvar : twice
+sinnum : times <between two numerals, or between one numberal and a frequency as in 'fives (times) a day'>
+mega {má mátti mátt} : may / to be allowed
+synda : to swim
+hlæja {hló hlógu hlegið} : to laugh
+hnífur : knife
+hnútur : knot ; hernia
+sömuleiðis : likewise
+plástur : bandage
+krem {n} : cream
+  tannkrem : toothpaste
+tannbursti : toothbrush
+hitamælir : thermometer
+hvernig : how
+líða {leið liðu liðið} : to go by / to pass <of time> ; to feel #impersonal
+heimsókn {f} : visit
+  koma í heimsókn : to come visit
+handa [DAT] : for
+vítamín {n} : vitamin
+blóm {n} : flower
+te {n} : tea
+ber : bare ; naked
+ber {n} : berry
+búa {bjó bjuggu búið} : to live / to reside
+skyr {n} : skyr <yogurt-like product>
+sker {n} : reef
+skýr : clear
+ríkur : rich
+ryk {n} : dust
+reka {rak ráku rekið} : to drive
+byr {m} : fair wind
+næstur : next ; nearest / closest
+ferðalag : trip / journey
+flytja {flutti flutt} : to move <either relocating sth, transitive, or between homes, intransitive>
+frábær : awesome
+dansa : to dance
+drekka {drakk drukku drukkið} : to drink
+vín {n} : wine
+  rauðvín : red wine
+laun {npl} : wages / salary
+skattur : tax / taxes
+ökuskírteini : driver's license / driving licence
+millifæra [á = to?] : to transfer
+reikningur : mathematics ; bill ; account
+peningur : coin ; money <either in plural form or in undeclinable singular>
+á milli [GEN] : between
+færa : to move / to relocate
+opna : to open
+orðaforði : vocabulary
+ríkisskattstjóri : commissioner of the inland revenue
+nýr : new
+sjór {m sjóar/sjós sjóir} : sea
+fylla : : to fill
+  fylla út : to fill out
+blað {n blaðs blöð} : sheet of paper
+skilríki {npl} : identity document
+einmitt : precisely
 
 hæ : hi
 halló : hello
@@ -399,6 +491,7 @@ góðan dag(inn) : good day ; good morning
 á mánudag : on Monday <sidenote: Icelandic starts the week on Sunday>
 á X krónur : for X crowns
 á pólsku : in Polish
+tvisvar sinnum á dag : twice a day
 
 hvað heitir þú? / hvað heitirðu? : what's your name?
 eg heiti X : my name is X
@@ -457,8 +550,55 @@ gangi þér vel : good luck
 ég ætla að panta tíma hjá lækni : I want to make an appointment with a doctor
 ég á tíma á miðvikudag klukkan tvö : I have a slot on Wednesday at two <answering someone who wants to make an appontment>
 hvenær fær Ewa tíma hjá lækni? : when does Ewa have an appointment with the doctor?
+hvað heitir hann? : what's his name?
+hvað ertu búin að vera veik lengi? : have you been sick long?
+ég er búin að vera veik í 5 daga : I've been sick for five days
+hvernig líður þér? : how are you feeling?
+mér líður vel : I feel good
+viltu koma í ferðalag í næstu viku? : do you want to go on a trip with me next week?
 
 To sort: á Bárugötu, í Úthlíð, Tryggvagötu
+```
+
+```aln:god-of-war
+logn : calm
+hugur : mind
+sterkur !starkr : strong
+armur : arm
+hraða : to hasten / to speed up
+nísta : to pierce
+seiður : magic / witchcraft
+
+kaupmaður : shopkeeper ; merchant #dated
+dauði : death
+
+kaupangur : market place
+
+stund {f} : a while ; hour
+  um stund : for a while
+setja {setti sett} : to set
+aldrei !aldri : never
+né : nor <usually used after a first clause with hvorki 'neither'>
+fæða : to give birth to
+  fæddur : born
+sól {f} : sun
+máni : moon
+fengnir/fangnir? some kind of prisoners
+hanga {hékk héngu hangið} : to hang
+drottinn : lord / master / ruler
+himinn : sky ; heavens
+draga {dró drógu  dregið} : to pull
+vagn {m} : cart / wagon
+valda {olli valdið} : to cause
+nótt {f nætur nætur} : night
+elta : to chase
+endalaust : endlessly
+gleypa : to gulp / to swallow
+
+hjarta : heart
+skjöldur {m skjaldar skildir} : shield
+úr : out of
+steinn : stone / rock
 ```
 
 ```aln:geopolitics
@@ -519,6 +659,8 @@ portúgalska {portúgölsku} : Portuguese language
 Ásta : =fn <from an old diminutive of Ástríðr>
 Halla : =fn <female form of Hallr, from Old Norse hallr "flat stone, hill">
 Ari : =mn <originally meaning "eagle" in Old Norse, in modern Icelandic only in poetic contexts>
+Guðrún : =fn <from guð "god" + rún "rune, secret", or possibly form gunnr, guðr "battle">
+Guðmundur : =mn <from guð "god" + mundr "protection">
 ```
 
 ```aln:sandbox
