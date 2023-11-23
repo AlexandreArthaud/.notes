@@ -51,7 +51,7 @@ og : and
 flottur : flashy / stylish
 frá [DAT] : from
 hvaða #indecl : which
-land {n} : land ; country
+land {n lands lönd} : land ; country
 en : and
 já : yes
 nei : no
@@ -139,6 +139,8 @@ heimili {n} : home
 augnablik {n} : moment / blink of an eye <also used as interjection just like German Augenblick or Moment>
 takk : thank you / thanks
 fyrir : for
+bæ : bye
+blessaður : blessed ; hi ; goodbye
 bless : goodbye / bye
 kennitala : social security number ; ID number
 umsókn : application / request
@@ -319,7 +321,7 @@ framhjá [DAT] : past
 bensínstöð {f} : gas station
 úti : outside
 inni : inside
-svar {n} : reply / answer
+svar {n svars svör} : reply / answer
 þakka : to thank
 karlaklefa : urinal <for men>
 kvennaklefi : urinal <for women>
@@ -480,6 +482,7 @@ einmitt : precisely
 hjálpa [DAT] : to help
 sendiferðabíll : delivery van
 anddyri : vestibule / entrance hall
+bað {n} : bath ; bathroom
 baðherbergi {n} : bathroom
 eldhús {n} : kitchen
 geymsla : storage ; storage room
@@ -528,6 +531,66 @@ skoðun {f skoðunar skoðanir} : opinion ; study ; inspection
 útilega : camping
 náttúra : nature
 menning {f} : civilization / culture
+bálkur : partition <of a wall> ; section
+efna : to carry out
+karl {m} : man
+stytta : statue
+hús {n} : house
+verða {varð urðu orðið} : to become <often used for will be>
+efni {n} : fabric ; material ; subject / matter
+texti {m} : text
+kveðja : greeting
+spurning : question
+notkun : use <trivia: this derives from the verb notka, but this verb is archaic now and has been replaced with nota, the term notkun also survives in compounds>
+spurnarfornafn : interrogative pronoun
+sagnorð : verb
+orðaröð : word order
+persónufornafn : personal pronoun
+töluorð : numeral
+ákveðinn : determined ; definite #grammar
+greinir : article #grammar
+hitta : to meet
+þið {ykkur_ ykkar} : you #plural
+bolur : torso ; T-shirt
+peysa : sweater
+belti : belt
+fallegur : beautiful
+gísl {m} : hostage
+alltaf : always
+oft {oftar oftast} : often
+hvaðan : from where
+syngja {söng sungu sungið} : to sing
+bannaður : forbidden / banned
+  bannað að V-ING : V-ING is forbidden
+endilega : absolutely / by all means
+reykja : to smoke
+passa : to fit / to be appropriate ; to look after
+úlpa : thick winter coat / parka / anorak
+handklæði : towel
+greiða : comb
+hárþurrka : hairdryer
+olía : oil
+  solarolía : sun oil
+gleraugu {npl} : glasses
+  sundgleraugu : swimming goggles
+sápa : soap
+sjampó : shampoo
+bekkur : bench
+  sólbekkur : sun bed
+leiðsögumaður : tour guide
+innlögn : intake
+vanta : to lack #impersonal
+tilbúinn : ready
+nú : now
+staður : location / spot
+af [DAT] : off / from
+allur : all / everyone
+margur : many
+mikill : large <in quantity or number> ; great
+umferð : traffic
+varlega : cautiously
+úff : oof
+bakpoki : backpack
 
 í rétta röð : in the right order
 á mánudag : on Monday <sidenote: Icelandic starts the week on Sunday>
@@ -605,6 +668,12 @@ hvernig líður þér? : how are you feeling?
 mér líður vel : I feel good
 viltu koma til mín klukkan 10? : can you come at my place at 10?
 hvar á stóllinn að vera? : where should the chair be?
+tala í síma : to talk on the phone
+komið þið sæl : greetings <an interjection to a group of people?>
+Það vantar einn : one is missing
+forum við af stað : we are off
+hvað eruð þið mörg? : how many are you? <hvað starts the question and is connected with mörg, a form of margur>
+passið ykkur : be careful
 
 To sort: á Bárugötu, í Úthlíð, Tryggvagötu, á Fálkagötu 52, Akureyri, Egilstaðir, Ísafjörðurk
 ```
@@ -685,6 +754,7 @@ Holland : Netherlands
   hollenska : Dutch language
 Ísland : Iceland
   íslenska : Icelandic language
+  Íslendingur : Icelander
   Reykjavík {f} : Reykjavik
   Keflavík : Keflavik <not far from Reykjavik, airport>
   Hagkaup : =hypermarket_chain
@@ -728,6 +798,9 @@ Halla : =fn <female form of Hallr, from Old Norse hallr "flat stone, hill">
 Ari : =mn <originally meaning "eagle" in Old Norse, in modern Icelandic only in poetic contexts>
 Guðrún : =fn <from guð "god" + rún "rune, secret", or possibly form gunnr, guðr "battle">
 Guðmundur : =mn <from guð "god" + mundr "protection">
+Þóra : =fn <from Þórr "Thor", various Old Norse names began with Þórr- as prefix>
+Gísli : =mn <from gísl "hostage" (high born children were sometimes kept as hostage, perhaps this was a name for someone from a noble family)>
+Helga : =fn <from Old Norse heiligir, helga meaning 'happy' or 'lucky', or possibly heilagur 'holy'>
 ```
 
 ```aln:sandbox
