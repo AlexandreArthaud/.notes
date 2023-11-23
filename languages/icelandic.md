@@ -75,7 +75,7 @@ setning {f} : sentence ; clause
 hver : who
 heyra : to hear
 tungumál : language
-  mál : language
+  mál : language ; matter / affair
 smár : small
 að : that <conjunction, introducing new clause> ; to <infinitive particle>
 læra : to learn
@@ -194,7 +194,7 @@ hálf- : half
 fara {fór fóru farið} : to go
 við {okkur} : we
 átt {f} : direction
-eiga {á-att-á-eigum-eigið-eiga átti átt} : to have
+eiga {á-att-á-eigum-eigið-eiga átti átt} : to have ; to have to / should
 heima : at home 
 kortér {n} : quarter
 yfir [DAT/ACC] : above
@@ -261,6 +261,8 @@ sjónvarp : TV / television
 vél {f} : machine
   þvottavél {f} : washing machine
   kaffivél : coffee machine
+  eldavél : kitchen stove
+  uppþvottavél : dishwasher
 krossgáta : crossword
   kross {m} : cross
   gáta : riddle
@@ -272,7 +274,7 @@ tími : hour ; lesson
   frítimi : free time
 til [GEN] : to
 núna : now
-koma {kom komu komið} : to come
+koma {kem-kemur_-komum... kom komu komið} : to come
   koma með : to come with
 sykur {m/n} : sugar
 uppi : above 
@@ -475,7 +477,26 @@ fylla : : to fill
 blað {n blaðs blöð} : sheet of paper
 skilríki {npl} : identity document
 einmitt : precisely
-
+hjálpa [DAT] : to help
+sendiferðabíll : delivery van
+anddyri : vestibule / entrance hall
+baðherbergi {n} : bathroom
+eldhús {n} : kitchen
+geymsla : storage ; storage room
+garður : garden
+svefnherbergi {n} : bedroom
+rúm {n} : room ; bed
+velja {valdi valið} : to choose
+bilaður {bilað biluð} : broken
+hringja [DAT] : to phone
+biðja [ACC um = for] : to ask
+viðgerð : repair
+biluð : broken <seems to be used irrespective of gender, perhaps a participle?>
+vita {veit vissit vitað} : to know
+senda : to send
+hurð {f} : door
+jæja : well then
+spennandi : exciting
 hæ : hi
 halló : hello
 heyrðu : hey
@@ -486,12 +507,38 @@ góðan dag(inn) : good day ; good morning
 í dag : today
 í kvöld : tonight
 í eitt ár : for a year
+upplýsing : enlightenment ; information <in the plural>
+  upplýsingar um : information about
+net {n} : net ; network ; Internet <usually definite>
+  á netinu : on the Internet
+höfuðborg : capital <main city>
+flugvöllur {m flugvallar flugvellir} : airport / airfield
+ferð {f} : trip / tour / journey
+  veiðiferð : fishing trip
+  jöklaferð : glacier tour
+enginn {ekkert engin} : none / no / nobody
+gaman {n} : fun
+prófa : to test / to try ; to examine / to look at
+foss {m} : waterfall
+síga {seig sigu sigið} : to sink
+sig {n} : subsidence <sinking of something to a lower level>
+skoðun {f skoðunar skoðanir} : opinion ; study ; inspection
+  lundaskoðun : bird watching
+  hvalaskoðun : whale watching
+útilega : camping
+náttúra : nature
+menning {f} : civilization / culture
 
 í rétta röð : in the right order
 á mánudag : on Monday <sidenote: Icelandic starts the week on Sunday>
 á X krónur : for X crowns
 á pólsku : in Polish
 tvisvar sinnum á dag : twice a day
+guð minn góður : oh my god <literally 'my good god'>
+Það var ekkert : don't mention it
+ekkert mál : easy peasy
+  ekkert mál fyrir Jón Pál : easy peasy <Jón Páll was an Icelandic strongman and the most prominent athlete of the 1980s. He could easily lift heavy objects, this saying gained popularity since it rhymes with the already common expression ekkert mál>
+haltu áfram : go on
 
 hvað heitir þú? / hvað heitirðu? : what's your name?
 eg heiti X : my name is X
@@ -553,14 +600,20 @@ hvenær fær Ewa tíma hjá lækni? : when does Ewa have an appointment with the
 hvað heitir hann? : what's his name?
 hvað ertu búin að vera veik lengi? : have you been sick long?
 ég er búin að vera veik í 5 daga : I've been sick for five days
+viltu koma í ferðalag í næstu viku? : do you want to go on a trip with me next week?
 hvernig líður þér? : how are you feeling?
 mér líður vel : I feel good
-viltu koma í ferðalag í næstu viku? : do you want to go on a trip with me next week?
+viltu koma til mín klukkan 10? : can you come at my place at 10?
+hvar á stóllinn að vera? : where should the chair be?
 
-To sort: á Bárugötu, í Úthlíð, Tryggvagötu
+To sort: á Bárugötu, í Úthlíð, Tryggvagötu, á Fálkagötu 52, Akureyri, Egilstaðir, Ísafjörðurk
 ```
 
 ```aln:god-of-war
+!dumbr : silent / mute
+!bakrauf : anus
+digur : fat
+bikkja : nag <old horse, originally meant 'bitch' (female dog) in Old Norse>
 logn : calm
 hugur : mind
 sterkur !starkr : strong
@@ -568,11 +621,15 @@ armur : arm
 hraða : to hasten / to speed up
 nísta : to pierce
 seiður : magic / witchcraft
-
+brenna {brann brunnu brunnið} : to burn
 kaupmaður : shopkeeper ; merchant #dated
 dauði : death
-
 kaupangur : market place
+kynslóð : generation ; lineage #obsolete
+aftur : back / backwards ; again
+vagga : cradle
+vopn {n} : weapon
+offra : to sacrifice
 
 stund {f} : a while ; hour
   um stund : for a while
@@ -599,6 +656,16 @@ hjarta : heart
 skjöldur {m skjaldar skildir} : shield
 úr : out of
 steinn : stone / rock
+hefnd : revenge
+niður : down
+leggja {lagði lagt} : to lay
+hlaupa : run
+eigi #dated/formal : not
+fylking {f} : army formation ; crowd
+sam- : co-
+binda : to tie / to bind
+nógu : enough
+at {n ats öt} : fight
 ```
 
 ```aln:geopolitics
@@ -619,7 +686,7 @@ Holland : Netherlands
 Ísland : Iceland
   íslenska : Icelandic language
   Reykjavík {f} : Reykjavik
-  Keflavík : Keflavik
+  Keflavík : Keflavik <not far from Reykjavik, airport>
   Hagkaup : =hypermarket_chain
 Ítalía : Italy
   ítalska {ítölsku} : Italian language
