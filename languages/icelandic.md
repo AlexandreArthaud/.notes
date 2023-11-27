@@ -22,6 +22,86 @@ verb in second person + you = ertu or -ðu
 
 YN questions are asked by changing the word order from SVO to VSO, like in English.
 
+## Culture
+
+### Figures
+
+#### Jón Sigurðsson
+
+Leader of the 19th century Icelandic independence movement.
+
+### Places
+
+#### Reykjavík Cathedral
+
+A cathedral church in Reykjavík. The seat of the Bishop of Iceland and mother church of the
+Evangelical Lutheran Church of Iceland, as well as the parish church of the old city centre and
+environs.
+
+### Music (Song Lyrics)
+
+#### God of War
+
+```txt
+Útlægr Guð
+Smán föður
+Von móður
+Þraut barnsins
+ 
+Útlægr Guð
+Smán föður
+Von móður
+Þraut barnsins
+Stríðs sonur
+ 
+Saurgun sannleiks
+Und svíður
+ 
+Græð kvöl hans
+ 
+Útlægr Guð
+Stormr haturs
+Vex óttinn
+Und svíður
+Ger fortíð upp
+ 
+Guðs plága
+Ég syndir ber
+ 
+Treyst drengnum
+Sefa heift hans
+ 
+Blóðs bölvun
+Óbætanleg
+ 
+Treyst drengnum
+Sefa heift hans
+ 
+Hann mun fara
+Ég hef enga aflausn
+ 
+Útlægr Guð
+Smán föður
+Von móður
+Þraut barnsins
+ 
+Útlægr Guð
+Stormr haturs
+Treyst drengnum
+Sefa heift hans
+ 
+Vex óttinn
+Und svíður
+ 
+Hann þjáist
+Hann þarfnast föður ekki Guðs
+Blóðs bölvun
+Ég hef enga aflausn
+ 
+Und svíður
+Ger fortíð upp
+```
+
 ## Lexicon
 
 ```aln:icelandiconline.com
@@ -46,13 +126,14 @@ hún : she
 þær #feminine : they
 þau : they
 vera {er var voru verið} : to be
+  vera til : to exist / to be available
 réttur : straight ; right / correct
 og : and
 flottur : flashy / stylish
 frá [DAT] : from
 hvaða #indecl : which
 land {n lands lönd} : land ; country
-en : and
+en : but ; and
 já : yes
 nei : no
 eða : or
@@ -103,6 +184,7 @@ sex : six
 sjö : seven
 átta : eigt
 níu : nine
+níundi : ninth
 tíu : ten
 ellefu : eleven
 tólf : twelve
@@ -155,6 +237,7 @@ svo : so <both as in "so..." and "so <adj>"> ; then
 vel {betur best} : well
 gjöra #archaic : to do <replaced by "gera" in modern Icelandic except a few set phrases>
 gera : to do
+  gera upp : to renovate / to do up <a house also more figuratively as in settle an account, etc.>
 vilja {vill vildi viljað} : to want
 hér : here
 sjá {sá sáu séð} :  to see
@@ -192,6 +275,7 @@ kústur : broom
 blýantur : pencil
 ostur : cheese
 kaka : cake / cookie
+  súkkulaðikaka : chocolate cake
 hálf- : half
 fara {fór fóru farið} : to go
 við {okkur} : we
@@ -237,6 +321,7 @@ vaska : to wash
 velkominn : welcome
 skápur : cupboard / closet ; locket
 þarna : over there
+Þar : there
 stofa : living room ; classroom
   kaffistofa : coffee room <seems to refer to a sort of living room where people might drink coffee, in some kind of working place for example>
   skattstofa : inland revenue department
@@ -567,7 +652,7 @@ reykja : to smoke
 passa : to fit / to be appropriate ; to look after
 úlpa : thick winter coat / parka / anorak
 handklæði : towel
-greiða : comb
+greiða : comb <also Old Norse verb for 'disentangle'>
 hárþurrka : hairdryer
 olía : oil
   solarolía : sun oil
@@ -583,14 +668,47 @@ vanta : to lack #impersonal
 tilbúinn : ready
 nú : now
 staður : location / spot
-af [DAT] : off / from
+af [DAT] : off / from ; of
 allur : all / everyone
-margur : many
+margur {fleiri flestur} : many
 mikill : large <in quantity or number> ; great
 umferð : traffic
 varlega : cautiously
 úff : oof
 bakpoki : backpack
+karlmaður : man
+gamall {eldri elstur} : old
+frægur : famous
+stjórnmálamaður : politician
+frelsishetja : freedom hero
+kirkja : church
+dómkirkja : cathedral
+grár : grey / gray
+andstæður : opposite / contrary
+andstæða : opposite
+óþekktur : unknown
+ljótur : ugly ; hateful
+á eftir : after
+gangstétt {f} : sidewalk / pavement
+þröngur : narrow
+gata : street
+rauður : red
+pósthús : post office
+torg {n} : city square
+þýða : to translate ; to mean / to signify
+lækur : brook / stream
+ekki lengur : no longer
+kóngur : king
+hvítur : white
+ríkisstjórn {f} : government
+áður : earlier / before
+fangelsi {n} : prison
+lítill : small ; little
+kaffihús : coffee shop
+þangað : in that direction / there
+bjóða : to offer
+svartur : black
+súkkulaði {n} : chocolate
 
 í rétta röð : in the right order
 á mánudag : on Monday <sidenote: Icelandic starts the week on Sunday>
@@ -675,10 +793,46 @@ forum við af stað : we are off
 hvað eruð þið mörg? : how many are you? <hvað starts the question and is connected with mörg, a form of margur>
 passið ykkur : be careful
 
-To sort: á Bárugötu, í Úthlíð, Tryggvagötu, á Fálkagötu 52, Akureyri, Egilstaðir, Ísafjörðurk
+To sort: á Bárugötu, í Úthlíð, Tryggvagötu, á Fálkagötu 52, Akureyri, Egilstaðir, Ísafjörðurk, Lækjartorg, Pósthússtræti,
+Stjórnarráðshúsið
 ```
 
 ```aln:god-of-war
+útlægur : outlawed
+guð {m} : god
+smán {f} : disgrace / shame
+von {f} : hope ; expectation
+faðir {m; föður feður} : father
+móðir {f; móður mæður} : mother
+þraut {f} : trial / difficult test
+stríð {n} : war
+sannleikur : truth
+und {f} #poetic : wound
+svíða : to singe
+græða : to heal
+kvöl {f; kvalar kvalir} : pain / agony / suffering
+stormur : storm
+hatur {n} : hatred
+vaxa {vex__-vöxum-vaxið óx uxu vaxið} : to grow
+ótti {m} : fear
+fortíð {f} : past
+plága : plague
+treysta : to strengthen [ACC] ; to trust [DAT]
+drengur : boy
+sefa : to soothe
+heift {f} : spite ; rage / anger
+blóð {n} : blood
+bölvun {f; bölvunar bölvanir} : curse
+óbætanlegur : irreplaceable
+munu {mun mundi/myndi} #auxiliary : will
+aflausn {f} : absolution
+þjá : to pain / to cause one to suffer
+  hann þjáist : he's in pain
+þarfnast : to need
+saurga : to defile
+  saurgun : defilement
+
+draugur : ghost
 !dumbr : silent / mute
 !bakrauf : anus
 digur : fat
@@ -699,6 +853,15 @@ aftur : back / backwards ; again
 vagga : cradle
 vopn {n} : weapon
 offra : to sacrifice
+sunnan : from the south
+þoka : fog
+leyna : to hide
+svín {n} : pig / swine
+!hildr {f} : battle
+miðja : middle / center
+frelsi {n} : freedom
+dvergur : dwarf
+aðeins : just / only
 
 stund {f} : a while ; hour
   um stund : for a while
@@ -720,6 +883,18 @@ nótt {f nætur nætur} : night
 elta : to chase
 endalaust : endlessly
 gleypa : to gulp / to swallow
+kveikja : to light / to turn on <a fire, light, etc.>
+gimsteinn : gemstone
+uxi : ox
+!mjonefr : stingy
+veiða : to hunt
+trúa : to believe
+hamar {m hamars hamrar} : hammer ; steep cliff
+ljósta {laust lustu lostið} #archaic/poetic : to hit <archaic, mostly used in set phrases like skelfingu lostinn "horror struck">
+ljós {n} : light
+standa {stóð stóðu staðið} : to stand
+lögur : liquid ; lake / sea
+myrkur : dark
 
 hjarta : heart
 skjöldur {m skjaldar skildir} : shield
@@ -743,6 +918,7 @@ Bandaríkin {npl} : United States
 Brasilía : Brazil
 Danmörk {f} : Denmark
   danska {dönsku} : Danish language
+  danskur : Danish
 England : England
   enska : English language
 Finnland : Finland
@@ -758,6 +934,8 @@ Holland : Netherlands
   Reykjavík {f} : Reykjavik
   Keflavík : Keflavik <not far from Reykjavik, airport>
   Hagkaup : =hypermarket_chain
+  Alþingi {n} : Icelandic parliament
+  Alþingishúsið : the Icelandic parliament house
 Ítalía : Italy
   ítalska {ítölsku} : Italian language
 Japan {n} : Japan
@@ -801,6 +979,8 @@ Guðmundur : =mn <from guð "god" + mundr "protection">
 Þóra : =fn <from Þórr "Thor", various Old Norse names began with Þórr- as prefix>
 Gísli : =mn <from gísl "hostage" (high born children were sometimes kept as hostage, perhaps this was a name for someone from a noble family)>
 Helga : =fn <from Old Norse heiligir, helga meaning 'happy' or 'lucky', or possibly heilagur 'holy'>
+Sigurður : =mn <from Old Norse Sigurðr: sigr "victory" + varðr "guard">
+Vigdís : =fn 
 ```
 
 ```aln:sandbox
