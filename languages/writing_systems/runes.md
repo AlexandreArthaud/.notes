@@ -25,30 +25,30 @@ The Elder Futhark runes were used from the 2nd to the 8th centuries.
 
 ```aln-elder-futhark
 # Rune | Tr | Name | Meaning #
-ᚠ      : f  : fehu : cattle ; wealth
-ᚢ      : u  : ūruz : aurochs / wild ox <another possible etymology is related to water>
-ᚦ      : th : þurisaz : Thurs <another name for giant/jötunn> / þunraz <the god Thunraz>
-ᚨ      : a  : ansuz : god
-ᚱ      : r  : raidō : ride / journey
-ᚲ      : k  : kaunan : ulcer? <or possibly "torch" if name was kenaz>
-ᚷ      : g  : gebō : gift
-ᚹ      : w  : wunjō : joy
-ᚺ / ᚻ  : h  : hagalaz : hail <the precipitation>
-ᚾ      : n  : naudiz : need
-ᛁ      : i  : īsaz : ice
-ᛃ      : j  : jēra : year / good year / harvest
-ᛇ      : i  : eiwaz : yew-tree
-ᛈ      : p  : perþ : unknown <possibly pear-tree>
-ᛉ      : z  : algiz : elk <or possibly protection or defence>
-ᛊ / ᛋ  : s  : sōwilō : sun
-ᛏ      : t  : tīwaz : Tiwaz <a god>
-ᛒ      : b  : berkanan : birch
-ᛖ      : e  : ehwaz : horse
-ᛗ      : m  : mannaz : man
-ᛚ      : l  : laguz : water / lake <or possibly laukaz for "leek">
-ᛜ      : ng : ingwaz : Ingwaz <a god>
-ᛞ      : d  : dagaz : day
-ᛟ      : o  : ōþila / ōþala : heritage / estate / possession
+ᚠ : f : fehu : cattle ; wealth
+ᚢ : u : uruz : aurochs / wild ox <another possible etymology is related to water>
+ᚦ : th : thurisaz : Thurs <another name for giant/jötunn> / þunraz <the god Thunraz>
+ᚨ : a : ansuz : god
+ᚱ : r : raido : ride / journey
+ᚲ : k : kaunan : ulcer? <or possibly "torch" if name was kenaz>
+ᚷ : g : gebo : gift
+ᚹ : w : wunjo : joy
+ᚺ/ᚻ : h : hagalaz : hail <the precipitation>
+ᚾ : n : naudiz : need
+ᛁ : i : isaz : ice
+ᛃ : j : jera : year / good year / harvest
+ᛇ : i : eiwaz : yew-tree
+ᛈ : p : perth : unknown <possibly pear-tree>
+ᛉ : z : algiz : elk <or possibly protection or defence>
+ᛊ/ᛋ : s : sowilo : sun
+ᛏ : t : tiwaz : Tiwaz <a god>
+ᛒ : b : berkanan : birch
+ᛖ : e : ehwaz : horse
+ᛗ : m : mannaz : man
+ᛚ : l : laguz : water / lake <or possibly laukaz for "leek">
+ᛜ : ng : ingwaz : Ingwaz <a god>
+ᛞ : d : dagaz : day
+ᛟ : o : othila / othala : heritage / estate / possession
 ```
 
 ### Younger Futhark

@@ -387,7 +387,7 @@ salur : hall <large room: meeting room, cinema room, etc.>
 miði : ticket [á = to/for]
 fyrirgefa : to forgive
 málfræði {f} : grammar
-bókasafn {n} : librara
+bókasafn {n} : library
 fyrst : first
 við [ACC] : next to
 hlið {f} : side
@@ -831,6 +831,9 @@ aflausn {f} : absolution
 þarfnast : to need
 saurga : to defile
   saurgun : defilement
+snúa : to turn
+hrafn {m} : raven
+vindur : wind
 
 draugur : ghost
 !dumbr : silent / mute

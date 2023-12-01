@@ -3,6 +3,8 @@
 ## Lexicon
 
 ```aln-duolingo
+-ne : =interrogative_enclitic <added at the end of a word, usually first word in a phrase, to make it a question>
+
 sum {sum-es-est-sumus-estis-sunt esse fuī futūrus} : to be
 fēmina : woman ; wife
 vir : man ; husband
@@ -17,7 +19,10 @@ nōmen : name
   nomen mihi est X : my name is X
 quōmodo : how / in what manner
   quōmodo te habes? : how are you doing?
+  quōmodo se habet? : how is he doing? / how is she doing?
   me bene habeō : I am well
+  me male habeō : I am unwell
+  Livia se bene habet : Livia is well
 habeō {2: habēre habuī habitum} : to have
 bene {melius optimē} : well
 dormiō {4: dormīre dormīvī/dormiī dormītum} : to sleep
@@ -35,9 +40,22 @@ māter {f3: mātris} : mother
 pater {m3: patris} : father
 frāter {m3: frātris} : brother
 soror {f3: sorōris} : sister
+agō {4: agere ēgī āctum} : I act ; I do
+  quid agis? : what's up? / how are you?
+male {pēius pessimē} : badly
+sē {suī sibi sēsē/sē suus} : =reflexive_pronoun
+ubi/ubī : where
+habitō {1: habitāre habitāvī habitātum} : to reside
+ita : so ; yes
+minimē : not at all
 ```
 
 ```aln-names
 Mārcus : =mn <both praenomen and cognomen, from the god Mārs + -cus>
 Līvius : =surname <unclear etymology, most obvious connection is with līveō (to be livid) but some Etruscan origin is also possible>
+```
+
+```aln-geopolitics
+Ītalia : Itlay
+  Rōma {loc:Rōmae} : Rome
 ```
