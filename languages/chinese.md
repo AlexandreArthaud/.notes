@@ -225,7 +225,7 @@ so on. One must learn which classifier to use for each word. In the spoken
 language, 个 can be used as a "generic" classifier for most words, but not
 all.
 
-## Literature
+## Culture
 
 ### Poems
 

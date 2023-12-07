@@ -24,7 +24,7 @@ an Old Norse world meaning "clan" or "group".
 The Elder Futhark runes were used from the 2nd to the 8th centuries.
 
 ```aln-elder-futhark
-# Rune | Tr | Name | Meaning #
+#: Rune | Transliteration | Name | Meaning :#
 ᚠ : f : fehu : cattle ; wealth
 ᚢ : u : uruz : aurochs / wild ox <another possible etymology is related to water>
 ᚦ : th : thurisaz : Thurs <another name for giant/jötunn> / þunraz <the god Thunraz>

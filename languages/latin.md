@@ -48,6 +48,17 @@ ubi/ubī : where
 habitō {1: habitāre habitāvī habitātum} : to reside
 ita : so ; yes
 minimē : not at all
+novus : new
+iuvenis : young ; youth
+meus : my
+tuus : your
+fīlia : daughter
+fīlius : son
+num : surely <used at the start of a direct question when the speaker expects a negative answer (the question itself is not negated)>
+sōlus : alone
+cīvitās {f3} : state ; citizenship
+ūniversitās {f3} : universe / whole world ; university #medieval
+et X et Y : both X and Y
 ```
 
 ```aln-names
@@ -56,6 +67,7 @@ Līvius : =surname <unclear etymology, most obvious connection is with līveō (
 ```
 
 ```aln-geopolitics
-Ītalia : Itlay
+Ītalia : Italy
   Rōma {loc:Rōmae} : Rome
+Eborācum : York
 ```
