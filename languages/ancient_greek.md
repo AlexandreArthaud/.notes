@@ -16,4 +16,6 @@
 μέν...δέ : on the one hand...on the other hand
 τις τι : somebody ; something
 ὅς ἥ ὅ : who ; which / that
+γάρ #postposition : for 
+οὐ / οὐκ <before smooth breathing> / οὐχ <before rough breathing> : not <with indicative>
 ```
