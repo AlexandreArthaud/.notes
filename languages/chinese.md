@@ -35,6 +35,23 @@
   说 !說 @shuō : to say
 你去造间木头房子住吧 : go and build a wooden house to live in
   你 @nǐ : you
+  去 @qù : to go
+  造 @zào : to make ; to build
+  间 !間 @jiān : =counter <for small units of housing, more rarely, or in Cantonese, for all buildings>
+  木头 !木頭 @mùtou : wood
+  房子 @fángzi : house
+  住 @zhù : to live / to dwell / to reside
+  吧 @ba : =particle <emphatic final particle>
 春天，小熊走进树林 : in spring, little bear went into the forest
+  春天 @chūntiān : spring
+  走进 !走進 @zǒujìn : to enter
+  树林 !樹林 @shùlín : woods / forest
+  树 !樹 @shù : tree
 树上长满了绿叶，他舍不得砍 : the trees were full of green leaves, and he couldn't bear to cut them down
+  上 @shàng : on #postposition
+  长 !長 @zhǎng : to grow
+  满 !滿 @mǎn : full 
+  了 @le : =particle <after a verb to make it perfective>
+  绿叶 !綠葉 @lǜyè : green leaf ; supporting role actor #figuratively
+  他 @tā : he
 ```
