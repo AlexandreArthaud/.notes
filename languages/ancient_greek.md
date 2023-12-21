@@ -4,6 +4,14 @@
 
 ```aln
 # Illiad
+Ἰλιάς : Iliad
+  Ῑ̓́λῐον : Ilium <another name for the city of Troy>
+  -ᾰ́ς : =nominalizer <with participal function (to shine -> torch, to flee -> exile), collective function (to snow -> snowstorm), young animals, abstract nouns from numerals>
+Ὅμηρος : Homer
+  ὅμηρος : hostage <it was possibly an early nickname and the origin of the name of Homer>
+περιεχόμενο #modern? : content
+ῥαψῳδῐ́ᾱ : recitation of Epic poetry
+
 μῆνιν ἄειδε, θεά, Πηληιάδεω Ἀχιλῆος : goddess, sing the anger of Achilles, Peleus' son
   Ἀχιλλεύς : Achilles
   Πηλεύς : Peleus <father of Achilles>
@@ -34,12 +42,12 @@
 οἰωνοῖσί τε πᾶσι· Διὸς δ’ ἐτελείετο βουλή : and to all the birds, the will of Zeus was being accomplished
   Ζεύς {m3; Διός} : Zeus
   οἰωνός {m2} : large bird / bird of prey
-  τε : and <weaker than και>
+  τε / θ’ <before rough breathing> / τ’ <before smooth breatihng> : and <weaker than και>
   τελέω : to bring about
   βουλή {f1} : will
 ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε : after which they first separated, having quarelled
   ἐκ / ἐξ[V] [GEN] : out of ; after
-  οὗ : of him / of her
+  οὗ {Epic:ACC:μῐν#irregular} : of him / of her
   δή :  but ; and ; =particle <various meanings: temporal (now, already), emphasis (truly), specificity (exactly), irony, of all people>
   ὁ {ἡ τό τώ_ οἱ αἱ τᾰ́} : the <was rare in Epic but became common in Attic> ; that #Epic ; he / she / it #Epic ; who / which / that
   πρῶτᾰ : in the first place 
@@ -92,13 +100,13 @@
   Ᾰ̓πόλλων {m3} : Apollo
   στέμμᾰ : wreath / garland <usually plural>
   ἔχω : to have
-  ἐν [DAT] : in
+  ἐν [DAT] / ἐνὶ [DAT/GEN/ACC] #poetic : in
   χείρ {f3} : hand 
   ἑκηβόλος : sharpshooter <an epiphet of Apollo>
 χρυσέῳ ἀνὰ σκήπτρῳ, καὶ λίσσετο πάντας Ἀχαιούς : with his golden scepter, he beseeched all the Achaeans
   χρῡ́σεος : golden
   ἀνὰ [DAT] : with <introducing means>
-  σκῆπτρον : staff
+  σκῆπτρον : staff ; scepter
   λίσσομαι : to beseech
 Ἀτρεΐδα δὲ μάλιστα δύω, κοσμήτορε λαῶν : above all, two sons of Atreus, commanders of the people
   δύο !δύω : two / 2
@@ -130,4 +138,113 @@
 Ἔνθ’ ἄλλοι μὲν πάντες ἐπευφήμησαν Ἀχαιοὶ : then all the other Achaeans gave their assent
   ἔνθᾰ : there ; then
   ἐπευφημέω : to shout assent ; to sing praises
+αἰδεῖσθαί θ’ ἱερῆα καὶ ἀγλαὰ δέχθαι ἄποινα : to respect the priest and to accept the splendid ransom
+  αἰδέομαι : to fear ; to respect
+  ῐ̔ερεύς : priest
+  ᾱ̓γλᾰός : splendid / shining
+ἀλλ’ οὐκ Ἀτρεΐδῃ Ἀγαμέμνονι ἥνδανε θυμῷ : but it did not please the heart of Agamemnon, son of Atreus
+  Ἀγαμέμνων : Agamemnon <kong of Mycenae, son of Atreus>
+  ἀλλά : but
+  οὐ / οὐκ <before smooth breathing> / οὐχ <before rough breathing> : not <for indicative>
+  ἁνδάνω : to please [DAT]
+  θῡμός : soul
+ἀλλὰ κακῶς ἀφίει, κρατερὸν δ’ ἐπὶ μῦθον ἔτελλε : but he sent away harshly, and he uttered a strong speech
+  κακῶς : badly
+  ἀφῑ́ημῐ : to send forth
+  καρτερός !κρᾰτερός : strong 
+  μῦθος : word / speech <something said> ; tale / story
+  τέλλω : to accomplish / to perform #poetic
+Μή σε, γέρον κοίλῃσιν ἐγὼ παρὰ νηυσὶ κιχείω : may I not find you, old man, by the hollow ships
+  μή : not <for will, thoughts, not indicative>
+  σύ {σοῦ σοί σέ} : you
+  γέρων {m3} : old man
+  κοῖλος : hollow
+  παρὰ [DAT] : near
+  κῐχᾱ́νω : to come upon / to find
+ἢ νῦν δηθύνοντ’ ἢ ὕστερον αὖτις ἰόντα : either lingering or going back again later
+  ἢ : or <can be used as ἢ...ἢ meaning 'either...or'>
+  νῦν : now
+  ῠ̔́στερον [GEN=than] : later 
+  αὖτις #Epic : back ; again
+  εἶμῐ {imperative:ἴθῐ} : to go
+μή νύ τοι οὐ χραίσμῃ σκῆπτρον καὶ στέμμα θεοῖο : lest the staff and the god's wreath fail to be of use to you
+  νῠ : now <a particle used to introduce a point, remonstration or rebuke, in the context of urgency>
+  χράομαι : to use [DAT]
+τὴν δ’ ἐγὼ οὐ λύσω· πρίν μιν καὶ γῆρας ἔπεισιν : and her, I will not release until old age comes upon her
+  πρίν : before
+  γῆρας : old age
+  ἔπειμῐ : to come upon
+ἡμετέρῳ ἐνὶ οἴκῳ ἐν Ἄργεϊ, τηλόθι πάτρης : in our house in Argos, far from the homeland
+  Ἄργος : Argos
+  ἡμέτερος : our
+  οἶκος : house
+  τηλόθι : far away
+  πάτρᾱ !πάτρη : fatherland / homeland
+ἱστὸν ἐποιχομένην καὶ ἐμὸν λέχος ἀντιόωσαν : approaching the loom and sharing my bed
+  ῐ̔στός : mast ; loom <for weaving>
+  ἐποίχομαι : to go to
+  ἐμός  : my
+  λέχος : couch ; bed
+  ἀντιάω  !ἀντιόω : to approach ; to share
+ἀλλ’ ἴθι μή μ’ ἐρέθιζε, σαώτερος ὥς κε νέηαι : but go, do not provoke me, so that you may be safer
+  ἐρεθῐ́ζω : to annoy / to irritate
+  σῶς {mf2/m12; +σᾰώτερος} : safe <safe and sound, alive and well>
+  ὡς : like as ; that <followed by claues> ; thus
+  ᾰ̓́ν /Epic:κε : =particle <expression of potentiality and conditionality in general>
+  νέομαι #Epic : to depart
+Ὣς ἔφατ’· ἔδεισεν δ’ ὁ γέρων καὶ ἐπείθετο μύθῳ : so he spoke, and the old manwas afraid and obeyed his word
+  φημί : to speak
+  δείδω : to fear
+  πείθω : to convince <in active voice> ; to obey <in mediopassive>
+βῆ δ’ ἀκέων παρὰ θῖνα πολυφλοίσβοιο θαλάσσης : he went silently along the shore of the roaring sea
+  βαίνω : to go
+  ἀκέων : soft / silent ; silently
+  θῑ́ς {m3; θῑνός} : shore
+  πολῠ́φλοισβος : loudly roaring <epithet of the sea>
+  θᾰ́λᾰσσᾰ : sea
+πολλὰ δ’ ἔπειτ’ ἀπάνευθε κιὼν ἠρᾶθ’ ὁ γεραιὸς : and then, having gone far away, the old man prayed
+  ἔπειτα : then / thereafter
+  ἀπάνευθε : far off
+  κῐ́ω : to go
+  ἐρᾰ́ω : to love <with sexual passion> ; to pray <in mediopassive?>
+  γεραιός : old
+Ἀπόλλωνι ἄνακτι, τὸν ἠύκομος τέκε Λητώ : to Apollo, the lord, whom the fair-haired Leto bore
+  εὔκομος : lovely-harid   
+  τίκτω : to give birth to
+κλῦθί μευ, Ἀργυρότοξ’, ὃς Χρύσην ἀμφιβέβηκας : hear me, Silver Bow, who encircle Chryse
+  κλύω : to hear [GEN/PAR=sb doing sth]/[ACC=sb]
+  ἀργῠρότοξος : bearer of a silver bow <epiteth of Apollo>
+  ὃς {ἥ ὅ} : who / which
+  ἀμφῐβαίνω : to surround / to protect
+Κίλλάν τε ζαθέην Τενέδοιό τε ἶφι ἀνάσσεις : you rule over sacred Cilla and Tenedos with authority
+  Κίλλα : Cilla <a city in modern Turkey>
+  Τένεδος : Tenedos <now the Turkish island of Bozcaada>
+  ζάθεος : very sacred
+  ἶφι : mightily
+  ἀνάσσω : to rule
+Σμινθεῦ, εἴ ποτέ τοι χαρίεντ’ ἐπὶ νηὸν ἔρεψα : o Smintheus, if ever I have built a pleasing altar for you
+  Σμινθεύς : Smintheus <epiteph of Apollo>
+  εἰ : if
+  ποτέ : at some time
+  χᾰρῐ́εις : graceful
+  ναός : temple ; alter
+  ἐρέφω : to cover with a roof <to buil?>
+ἢ εἰ δή ποτέ τοι κατὰ πίονα μηρί’ ἔκηα : or if ever I burned the rich thighs for you
+  κατὰ [ACC] : according to
+  πῑ́ων : fat ; rich / wealthy
+  μῆρᾰ /μηρίᾰ : thigh-bones
+  καίω {Epic:Aor:ἔκηᾰ} : to burn
+ταύρων ἠδ’ αἰγῶν, τὸδε μοι κρήηνον ἐέλδωρ : of bulls and goats, accomplish my wish
+  ταῦρος : bull
+  ἠδέ : and
+  αἴξ {mf3} : she-goat
+  ὅδε : this
+  κραίνω !κραιαίνω : to accomplish / to fulfil
+  ἐέλδωρ #indeclinable : wish
+τίσειαν Δαναοὶ ἐμὰ δάκρυα σοῖσι βέλεσσιν : may the Danaans pay for my tears with your arrows
+  Δᾰνᾰοί : Danaans <subjects of Danaus (Δᾰνᾰός), a mythical Egyptian king who founded Argos, this refers to the Greeks in the Iliad>
+  τῐ́νω : to pay a price
+  δᾰ́κρῠ : tear
+  σός : your
+  βέλος {n3; βέλους/βέλεος} : arrow
 ```
