@@ -1,4 +1,33 @@
-# Ancient Greek (Attic)
+# Ancient Greek 
+
+## Grammar
+
+### Verbs
+
+#### Overview
+
+Ancient Greek conjugation is complex. There are multiple voices (active, passive, middle), moods
+(indicative, imperative, subjunctive and optative), persons and number (first, second and third
+persons which can all be either singular (ex: I) or plural (ex: we)), as well as tenses (present,
+imperfect, future, aorist, perfect, pluperfect, future perfect). The dual number also exist in the
+second and third person but is very rare.
+
+Not all combination are possible: while all the listed tenses are present in the indicative mood,
+only three exist with the subjunctive and imperative (and it should be noted that tense differences
+in moods other than indicative are more aspect differences than tenses).
+
+Furthermore, a distinction is often made between *athematic* verbs, or "mi-verbs", with endings
+affixed directly to the root, and *thematic* verbs, which present a *thematic* vowel (/o/ or /e/)
+before the ending.
+
+#### Past Tenses (Aorist, Imperfect, Perfect)
+
+To make the past tenses of **indicative** mood, the vowel *ε-*, called an *augment*, is prefixed
+to the verb stem, for example *ἔλυσα (ἔ-λυσα)* means "I freed" (aorist), *ἔλυον* means "I was
+freeing" (imperfect). Again, this augment is only present in the indicative mood.
+
+The perfect tense is formed by "reduplicating" the first consonant, followed by the vowel /e/, for
+example *λέλυκα* for "I have freed" (from the verb λῡ́ω).
 
 ## Lexicon
 
@@ -247,4 +276,13 @@
   δᾰ́κρῠ : tear
   σός : your
   βέλος {n3; βέλους/βέλεος} : arrow
+Ὣς ἔφατ’ εὐχόμενος, τοῦ δ’ ἔκλυε Φοῖβος Ἀπόλλων : so he prayed, and Phoebus Apollo heard him
+  εὔχομαι : to pray
+  φοῖβος : pure ; bright / radiant <in capitalized form, used as epitepth for Helios or Apollo and written in English as 'Phoebus' like in 'Phoebus Apollo'>
+βῆ δὲ κατ’ Οὐλύμποιο καρήνων χωόμενος κῆρ : he came down from the heights of Olympus in fury
+  Ὄλῠμπος !Οὔλυμπος : Olympus <mountain in Greece>
+  κᾰτᾰ́  [ACC] : downwards
+  κάρηνον <usually in plural> : mountain top
+  χώομαι #Epic : to be agitated
+  κῆρ {n3} : heart
 ```
