@@ -27,6 +27,7 @@
 ## Lexicon
 
 ```aln
+
 # Little Bear Lived in a Mountain Cave
   小熊一家住在山洞里 : little bear lived in a mountain cave
     小熊 @xiǎoxióng : little bear
@@ -101,4 +102,5 @@
     束 @shù : bunch / bundle #counter
     美丽 !美麗 @měilì : beautiful
     的 @de : of / 's
+
 ```
