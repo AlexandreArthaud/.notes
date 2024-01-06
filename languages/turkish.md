@@ -25,5 +25,25 @@
   çocuk elma yer : the child eats an apple
   bir elma ye! : eat an apple!
   bir kadın ve bir kız : a woman and a girl / one womand and one girl
+  koşmuyorum : I'm not running
+  seni seviyor : he loves you
+  okula gidiyorum : I'm going to school
+  benimle : with me
+  Ankaraya : to Ankara
+  konuşurum : I speak
+  konuşursun : you speak
+  konuşur : he/she/it speaks
+  konuşuruz : we speak
+  konuşursunuz : you all speak
+  konuşurlar : they speak
+  merhaba, günaydın! : hello, good morning!
+  iyi geceler, görüşürüz! : good night, see you!
+  teşekkür ederim : thank you
+  rica ederim : you're welcome
+  hoş geldiniz, nasılsıniz? : welcome, how are you?
+  iyiyim, teşekkürler : I'm fine, thanks
 
+  canlar : souls
+    can : soul
+  kediler : cats
 ```
