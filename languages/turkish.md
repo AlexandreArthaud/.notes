@@ -1,5 +1,12 @@
 # Turkish
 
+## Culture
+
+### Names
+
+- **Given**
+  - *Unisex*: Nur
+
 ## Lexicon
 
 ```aln
@@ -42,8 +49,24 @@
   rica ederim : you're welcome
   hoş geldiniz, nasılsıniz? : welcome, how are you?
   iyiyim, teşekkürler : I'm fine, thanks
+  hoşca kal * hoşca kalın : goodbye <said by the one who leaves>
+  memnun oldum! : nice to meet you!
+  ben Duo : I'm Duo
+  iyi şanslar : good luck
+  iyi akşamlar : good evening
+  evet veya hayır : yes or no
+  affedersin! : excuse me!
+  güle güle! : goodbye!
+  tebrik ederim! : congratulations!
+  selam! : hi!
+  lütfen! : please!
+  bilmiyorum : I don't know
+  hayır, Türkçe bilmiyorum : no, I don't know Turkish
+  evet, İngilizce biliyorum : yes, I know English
+  tamam! : okay!
+  nasılsın? : how are you?
+  hoş geldin! : welcome!
 
   canlar : souls
-    can : soul
   kediler : cats
 ```

@@ -4,8 +4,6 @@
 
 ### Verbs
 
-#### Overview
-
 Ancient Greek conjugation is complex. There are multiple voices (active, passive, middle), moods
 (indicative, imperative, subjunctive and optative), persons and number (first, second and third
 persons which can all be either singular (ex: I) or plural (ex: we)), as well as tenses (present,
