@@ -273,7 +273,7 @@
     的 @de : of / 's
 
 # Jiang Ping Going To Study Abroad
-  江苹去国外留学。 : Jiang PIng going is going to study abroad
+  江苹去国外留学。 : Jiang Ping is going to study abroad
     江 @jiāng : river <especially the Yangtze> ; =surname
     苹 @píng : =fname
     去 @qù : to go to ; to leave
