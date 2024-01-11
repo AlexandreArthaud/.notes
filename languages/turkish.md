@@ -1,12 +1,5 @@
 # Turkish
 
-## Culture
-
-### Names
-
-- **Given**
-  - *Unisex*: Nur
-
 ## Lexicon
 
 ```aln
@@ -66,6 +59,33 @@
   tamam! : okay!
   nasılsın? : how are you?
   hoş geldin! : welcome!
+  şu, küçük bir çocuk : that is a little child
+  şunlar, çok kolay! : those are very easy!
+  bunlar, çok büyük. : these are very easy
+  bunlar, çok güzel! : these are very beautiful!
+  şu, çok zor. : that is very hard
+  biz makarna yeriz : we eat pasta
+  o kahve içer : he drinks coffee
+  ben peynir ve meyve yerim : I eat cheese and fruit
+  çocuk et yer : the child eats meat
+  biz çay içeriz : we drink tea
+  kız bir çilek yer : the girl eats a strawberry
+  sıcak süt : hot milk
+  genç bir kız : a young girl
+  güzel bir kız : a beautiful girl
+  yaşlı bir adam : an old man
+  çok eski : very old
+  çok yaşlı bir adam : a very old man
+  çok büyük : very big
+  bu, bir elma : this is an apple
+  bu, çok kolay : this is very easy
+  bu ve bunlar : this and these
+  şu ve şunlar : that and those
+  şu, küçük : this is small
+  şu, küçük bir elma : that is a small apple
+  soğuk su iç! : drink cold water!
+  çok sıcak ekmek : very hot bread
+  soğuk ve eski : cold and old
 
   canlar : souls
   kediler : cats

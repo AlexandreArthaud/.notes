@@ -2,9 +2,60 @@
 
 ## Grammar
 
+
+
 ### Counters
 
 - Counters are sometimes duplicated to indicate either "every", "one by one", or abundance (many).
+
+## Topics
+
+### Digital
+
+```aln
+# Brands
+  百度 @Bǎidù : Baidu <main Chinese search engine, also used as a verb like google, literally "hundreds of times">
+    百 @bǎi : hundred
+    度 @dù : degree
+
+# Settings
+  设置 !設置 @shèzhì : to set up ; settings
+    设 !設 @shè : to set up
+    置 @zhì : to set up
+  多语言 !多語言 : multilingual
+    语言 !語言 @yǔyán : language
+      言 @yán : spoken language
+```
+
+### Geopolitics
+
+```aln
+# Languages
+  简体中文 !簡體中文 @jiǎntǐzhōngwén : Simplified Chinese
+    简体 !簡體 @jiǎntǐ : Simplified Chinese
+      简 !簡 @jiǎn : simple
+      体 !體 @tǐ : body
+    中文 @zhōngwén : Chinese language
+      文 @wén : writing ; language <especially the written form of a language>
+  繁体中文 !繁體中文 @fántǐzhōngwén : Traditional Chinese
+    繁体 !繁體 @fántǐ : Traditional Chinese
+      繁 @fán : complicated
+
+# Geography
+  中国 !中國 @Zhōngguó : China
+    汉语 !漢語 @Hànyǔ : Chinese language <usually spoken Chinese>
+      汉 !漢 @hàn : Han <ethnicity, dynasty, rivers>
+      语 !語 @yǔ : language
+    北京 @Běijīng : Beijing
+      北 @běi : north
+      京 @jīng : capital city #bound
+    香港 @Xiānggǎng : Hong Kong
+      香 @xiāng : fragrant
+      港 @gǎng : harbor / port
+    台湾 !臺灣 @Táiwān : Taiwan
+      台 !臺 @tái : tower
+      湾 !灣 @wān : bay / gulf
+```
 
 ## Culture
 
@@ -22,6 +73,36 @@
 冬天，小熊走进了树林。树上站着许多小鸟，小熊舍不得砍。
 一年又一年，小熊没有砍树造房子，还是高高兴兴地住在山洞里……
 树林里的小动物非常感谢小熊，他们送给小熊一束束美丽的鲜花.
+```
+
+#### Three Good Friends
+
+```text
+三个蝴蝶
+
+花园里有三只蝴蝶，一只是红色的，一只是黄色的，一只是白色的。三个好朋友天天都在一起玩，可好了。
+一天，他们正玩得，天突然下起了雨。三只蝴蝶的翅膀都被雨打湿了，浑身冻得发抖。
+
+三只小蝴蝶一起飞到红花那里，对红花说: “红花姐姐，让我们飞到你的叶子下面躲躲雨吧！”
+
+红花说: “红蝴蝶进来吧，其他的快飞开！”
+
+三个好朋友一齐摇摇头: “我们是好朋友，一块儿来，也一块儿走。”
+
+他们又飞到黄花那里，对黄花说: “黄花姐姐，让我们飞到你的叶子下面躲躲雨吧！”黄花说:
+“黄蝴蝶进来吧，其他的快飞开！”
+
+三个好朋友一齐摇摇头: “我们是好朋友，一块儿来，也一块儿走。”
+
+然后，他们又飞到白花那里，对白花说: “白花姐姐，让我们飞到你的叶子下面躲躲雨吧！”
+
+可是白花也说: “白蝴蝶进来吧，其他的快飞开！”
+
+这三个好朋友还是一齐摇摇头，对白花说: “我们是好朋友，一块儿来，也一块儿走。”
+
+这时，太阳公公看见了，赶忙把乌云赶走，叫雨停下。
+
+天终于晴了，这三个好朋友又一起在花丛中跳舞玩游戏了。
 ```
 
 ### Essays
@@ -44,6 +125,26 @@
 祝她一路平安。 我说， 一定要常来信啊。 江苹说，一定。 跟她说 “再见” 的时候， 她哭了， 我也哭了。
 
 回家的路上， 我想， 我们常常说 “再见”， 但是， 有时候 “再见” 是很难的。 我和江苹什么时候能 “再见” 呢？
+```
+
+#### Feeling Sick
+
+```text
+我病了
+
+我病了。　头疼，发烧，嗓子也疼，不想吃东西，晚上咳嗽的很厉害。
+上午同学们都去上课了，我一个人在宿舍里，感到很寂寞。　寂寞了就容易想家。
+我家里人很多，有哥哥，姐姐，还有一个弟弟。　在家的时候，我们常一起玩儿。
+现在，我在北京学习汉语，寂寞的时候就常常想他们。
+
+因为不舒服，所以我今天起得很晚。　起了床就去医院了。　大夫给我检查了一下儿，说我感冒了。
+给我打了一针，还开了一些药。　他说，吃了药病就好了。
+
+老师和同学们知道我病了，都来看我。　林老师听说我不想吃东西，还做了一碗面条给我吃。
+吃了面条，身上出了很多汗，老师说，出了汗可能不发烧了。
+
+下午，果然不发烧了，喜庆也好了。　我用　Ｅｍａｉｌ　个我姐姐发了一封信。
+我说，我在这儿生活得很好，我有很好的老师，还有很多好同学，好朋友，和他们在一起，我感到很愉快。
 ```
 
 ## Lexicon
@@ -86,7 +187,7 @@
       春 @chūn : spring
       天 @tiān : sky
     走进 !走進 @zǒujìn : to enter
-      走 @zǒu : to walk
+      走 @zǒu : to walk ; to go
       进 !進 @jìn : to advance
     树林 !樹林 @shùlín : woods / forest
       树 !樹 @shù : to plant ; tree
@@ -112,7 +213,7 @@
       夏 @xià : summer
     又 @yòu : again ; both ... and <又X又Y>
   树上开满了鲜花， : the trees were full of fresh flowers
-    开 !開 @kāi : to start ; to bloom
+    开 !開 @kāi : to start ; to bloom ; to write out <prescription, check, etc.>
     鲜花 !鮮花 @xiānhuā : fresh flower
       鲜 !鮮 @xiān : fresh
       花 @huā : flower
@@ -139,7 +240,7 @@
     年 @nián : year
     没有 !沒有 @méiyǒu : to not have <either negating 'to have' or like English negative past tense>
       没 !沒 @méi : to not have <either as in 'no X' or negative negator of the verb to have instead of bu>
-      有 @yǒu : to have
+      有 @yǒu : to have ; there is
     砍树 !砍樹 @kǎnshù : to chop down trees
   还是高高兴兴地住在山洞里 : he was still living happily in his mountain cave
     还是 !還是 @háishì : still
@@ -189,7 +290,7 @@
   我和江苹是中学同学 : Jing Ping and I are highschool classmates
     和 @hé : and
     中学 !中學 @zhōngxué : secondary school / middle school <includes both junior high school and high school>
-      中 @zhōng : middle / center
+      中 @zhōng : middle / center ; among
     同学 !同學 @tóngxué : classmate
       同 @tóng : same / identical
   她是我的好朋友 : she's my good friend
@@ -273,7 +374,7 @@
   我们都为她感到高兴。 : we're all very happy for her
     为 !為 @wèi : for
     感到 @gǎndào : to feel
-      到 @dào : to arrive ; =verbal_complement <indicates completion>
+      到 @dào : to arrive ; =verbal_complement <indicates completion> ; to
   她下星期要去美国留学， 我们班的同学都去看她， 给他送行。 : next week she's going to study abroad in America, and all our classmates are going to see her off
     下星期 @xiàxīngqī : next week
       下 @xià : under ; next
@@ -299,7 +400,7 @@
       午 @wǔ : =seventh earthly branch
     四 @sì : four
     点 !點 @diǎn : o'clock
-    就 @jiù : just / precisely <for emphasis>
+    就 @jiù : just / precisely <for emphasis> ; then
     从 !從 @cóng : from <a place or time>
     家里 !家裡 @jiālǐ : home / in one's house
     出发 !出發 @chūfā : to set off
@@ -376,5 +477,226 @@
         么 !麼/麽 @me : =suffix <forms various pronouns and adverbs>
     能 @néng : can / to be able to
     呢 @ne : =particle <sentence final to indicate reciprocal question, or to make a question more indirect, like one is speaking to himself>
+
+# Feeling Sick
+  我病了。 : I'm sick
+    病 @bìng : ill / sick ; to fall ill / to be sick / to be ill
+  头疼，发烧，嗓子也疼， : my head hurts, I have a fever, my throat also hurts
+    头疼 !頭疼 @tóuténg #colloquial : to have a headache
+      疼 @téng : painful / aching / sore <used after body parts to say '(body part) hurts'> 
+    发烧 !發燒 @fāshāo : to have a fever
+      烧 !燒 @shāo : to burn
+    嗓子 @sǎngzi : throat
+      嗓 @sǎng : throat
+  不想吃东西， : I don't want to eat anything
+    吃 /!喫 @chī : to eat
+    东西 !東西 @dōngxi : thing / something
+      西 @xī : west
+  晚上咳嗽的很厉害。 : at night I have a serious cough
+    晚上 @wǎnshang : evening ; night
+      晚 @wǎn : late ; evening ; night
+    咳嗽 @késou : to cough
+      咳 @ké : to cough
+      嗽 @sòu : to cough
+    厉害 !厲害 @lìhài : fierce <of wild animal, sb's temper, words, etc.> ; intense / serious <f illness, heat, cold, etc.> ; strict / stern / severe
+      厉 !厲 @hài : fierce / stern
+      害 @hài : to harm 
+  上午同学们都去上课了， : in the morning my classmates all went to class
+    上午 @shàngwǔ : morning
+    上课 !上課 @shàngkè : to attend class <said of both students and teachers>
+      课 !課 @kè : lesson 
+  我一个人在宿舍里， : I was the only one left in the dormitory
+    一个人 !一個人 @yīgèrén : alone
+    宿舍 @sùshè : dormitory
+      宿 @sù : to stay overnight
+      舍 @shè : lodging place
+  感到很寂寞。 : I feel very lonely
+    寂寞 @jìmò : lonely
+      寂 @jì : lonely
+      寞 @mò : lonely
+  寂寞了就容易想家。 : when you're lonely, it's easy to miss home
+    容易 @róngyì : easy
+      容 @róng : to hold
+      易 @yì : to change
+    想家 @xiǎngjiā : to be homesick / to miss home
+  我家里人很多，有哥哥，姐姐，还有一个弟弟。 : I have a lot of family members, an older brother, older sister, and also a younger brother
+    家里人 !家裡人 @jiālǐrén : family member
+    很多 @hěnduō : many / much / a lot
+    哥哥 @gēge : elder brother / older brother
+      哥 @gē : elder brother / older brother
+    姐姐 @jiějie : elder sister / older sister
+      姐 @jiě : elder sister / older sister
+    还有 !還有 @háiyǒu : and / besides
+    弟弟 @dìdi : younger brother
+      弟 @dì : younger brother
+  在家的时候，我们常一起玩儿。　: when I'm at home, we often play together
+    一起 @yīqǐ : together
+      起 @qǐ : to rise
+  现在，我在北京学习汉语，寂寞的时候就常常想他们。 : right now, I'm in Beijing studying Chinese, and when I'm lonely I miss them
+    现在 !現在 @xiànzài : now
+      现 !現 @xiàn : present / current
+  因为不舒服，所以我今天起得很晚。 : because I don't feel well, I got up late today
+    因为 !因為 @yīnwèi : because <sometimes starting a clause, which is often followed by another clause starting with 所以 "therefore">
+      因 @yīn : reason / cause
+    舒服 @shūfu : comfortable ; well <as in 'not well (sick)', when negated with 不>
+      舒 @shū : to relax 
+      服 @fú : clothes #bound
+    所以 @suǒyǐ : therefore
+      所 @suǒ : place / location #bound
+  起了床就去医院了。 : when I got up, I went to the hospital
+    起床 @qǐchuáng : to get out of bed
+      床 /!牀 @chuáng : bed / couch
+    医院 !醫院 @yīyuàn : hospital
+      医 !醫 @yī : medicinal
+      院 @yuàn : courtyard / yard ; public building
+  大夫给我检查了一下儿，说我感冒了。 : the doctor gave me a quick checkup and said I have a cold
+    大夫 @dàifu #colloquial : doctor
+      夫 @fū : husband ; man
+    检查 !檢查 @jiǎnchá : to examine <with 给 + sb for giving sb medical checkup>
+      检 !檢 @jiǎn : to examine
+      查 @chá : to examine
+    一下儿 !一下兒 @yīxiàr #erhua : give something a go <after verb>
+      一下 @yīxià : give something a go <after verb>
+    感冒 @gǎnmào : cold <illness> ; to catch a cold
+      冒 @mào : to cover #bound
+  给我打了一针，还开了一些药。 : he gave me one shot and also prescribed some medicine
+    打针 !打針 @dǎzhēn : to give an injection
+      打 @dǎ : to hit <used as the first part of many verb object verbs>
+      针 !針 @zhēn : needle
+    一些 @yīxiē : some / a few
+      些 @xiē : some
+    药 !藥 @yào : medicine
+  他说，吃了药病就好了。 : he said, take the medicine and you'll get better
+    吃药 !吃藥 @chīyào : to take medicine
+    好了 @hǎole : that will do
+  老师和同学们知道我病了，都来看我。 : my teacher and classmates know I'm sick, so they all came to see me
+    知道 @zhīdao : to know
+      知 @zhī : to know
+      道 @dào : way / path / road
+  林老师听说我不想吃东西，还做了一碗面条给我吃。 : teacher Lin heard that I didn't want to eat anything, so she made me a bowl of noodles
+    做 @zuò : to do ; to make
+    碗 @wǎn : bowl #counter
+    面条 !麵條 @miàntiáo : noodles
+      面 !麵/麪 @miàn : flour ; noodles
+      条 !條 @tiáo : stip / slip
+  吃了面条，身上出了很多汗， : after I ate the noodles, I began to pour sweat
+    身上 @shēnshàng : one's body
+      身 @shēn : body
+    出汗 @chūhàn : to sweat
+      汗 @hàn : sweat
+  老师说，出了汗可能不发烧了。 : teacher said, if you sweat, maybe your fever will go away
+    可能 @kěnéng : maybe
+      可 @kě : can / may
+  下午，果然不发烧了，喜庆也好了。 : in the afternoon, sure enough my fever was gone, and I was in a good mood
+    果然 @guǒrán : as expected / sure enough
+      然 @rán : thus #bound
+    喜庆 !喜慶 @xǐqìng : happy
+      庆 !慶 @qìng : to celebrate
+    用 @yòng : to use
+  我用Ｅｍａｉｌ个我姐姐发了一封信。 : I emailed my older sister
+    封 @fēng : letter #counter
+  我说，我在这儿生活得很好，我有很好的老师，还有很多好同学，好朋友， : I said, I have a very good life here, I have a good teacher and good classmates and good friends
+    这儿 !這兒 @zhèr : here
+    生活 @shēnghuó : life
+      活 @huó : to exist
+  和他们在一起，我感到很愉快。 : and all together they make me very happy
+    在一起 @zàiyīqǐ : together
+
+# Three Good Friends
+  三个蝴蝶 : three butterflies
+    蝴蝶 @húdié : butterfly
+      蝴 @hú : =only used in hudie
+      蝶 @dié : butterfly
+  花园里有三只蝴蝶，一只是红色的，一只是黄色的，一只是白色的。三 : in the garden there were three butterflies, a red one, a yellow one and a white one
+    花园 !花園 @huāyuán : garden
+      园 !園 @yuán : garden #literary
+    只 !隻 @zhī : =counter <for certain animals like cats, pigs, birds>
+    红色 !紅色 @hóngsè : red
+      红 !紅 @hóng : red
+      色 @sè : color
+    黄色 !黃色 @huángsè : yellow ; pornographic
+      黄 !黃 @huáng : yellow
+    白色 @báisè : white
+      白 @bái : white
+  三个好朋友天天都在一起玩，可好了。 : everyday the three good friends played together, it was great
+    天天 @tiāntiān : everyday
+    可好了 @kěhǎole : great <seems to be a sentence final phrase somewhat like "great" in English "alright, great">
+  一天，他们正玩得，天突然下起了雨。 : one day just as they were playing, it suddenly began to rain
+    一天 @yītiān : one day <either literally or as in 'someday, X happens'>
+    正 @zhèng : in the process of
+    突然 @tūrán : sudden
+      突 @tū : to dash forward
+    起雨 @qǐyǔ #literary : to rain
+      雨 @yǔ : rain
+  三只蝴蝶的翅膀都被雨打湿了， : the three butterflies' wings were drenched by the rain
+    翅膀 @chìbǎng : wing
+      翅 @chì : wing
+      膀 @bǎng : upper arm ; wing
+    被 @bèi : by <introduces the agent of the action>
+    湿 !濕 !/溼 @shī : wet
+  浑身冻得发抖。 : their whole bodies were trembling with cold 
+    浑身 !渾身 @húnshēn : whole body
+      浑 !渾 @hún : muddy
+    冻 !凍 @dòng : cold ; to freeze
+    发抖 !發抖 @fādǒu : to shake
+      抖 @dǒu : to shake
+  三只小蝴蝶一起飞到红花那里，对红花说 : the three butterflies flew together to a red flower, and said to it
+    飞 !飛 @fēi : to fly
+    那里 !那裡 @nàlǐ : there
+      那 @nà : that
+  “红花姐姐，让我们飞到你的叶子下面躲躲雨吧！” : "big sister red flower, let us hide from the ride under your leaves"
+    让 !讓  @ràng : to allow
+    叶子 !葉子 @yèzi : leaf
+    下面 @xiàmiàn : below
+    躲 @duǒ : to hide
+  红花说: “红蝴蝶进来吧，其他的快飞开！” : the red flower said "the red butterfly can come in, but the others must leave"
+    其他 @qítā : other
+      其 @qí : his
+  三个好朋友一齐摇摇头 : the three good friends shook their heads together
+    一齐 !一齊 @yīqí : all at the same time
+      齐 !齊 @qí : uniform
+    摇头 !搖頭 @yáotóu : to shake one's head <signal disagreement>
+      摇 !搖 @yáo : to shake ; to wave
+  “我们是好朋友，一块儿来，也一块儿走。” : "we're good friends, we came together, and we'll leave together"
+    一块儿 !一塊兒 @yīkuàir : together
+      一块 !一塊 @yīkuài : together
+        块 !塊 @kuài : piece
+  然后 !然後 @ránhòu : then / after that
+  可是 @kěshì : however
+  这时，太阳公公看见了， : at this time, Old Man Sun saw what was happening
+    这时 !這時 @zhèshí : at this time
+    太阳 !太陽 @tàiyáng : Sun
+      太 @tài : too <before adj>
+      阳 !陽 @yáng : sun
+    公公 @gōnggong <after noun or name> : father-in-law ; grandfather #dialectal ; old man
+      公 @gōng : fair
+    看见 !看見 @kànjiàn : to see
+  赶忙把乌云赶走， : he hurriedly chased the black clouds away
+    赶忙 !趕忙 @gǎnmáng : hastily / hurriedly
+      赶 !趕 @gǎn : to overtake
+      忙 @máng : busy
+    把 @bǎ : =particle <used before a direct object to change usual SVO>
+    乌云 !烏雲 @wūyún : dark cloud
+      乌 !烏 @wū : crow / raven ; black / dark #bound
+      云 !雲 @yún : cloud
+    赶走 !趕走 @gǎnzǒu : to drive away / to chase away
+  叫雨停下。 : made the rain stop
+    叫 @jiào : to call ; to be called ; to order <ditransitive with another verb>
+    停下 @tíngxià : to stop <cause something to cease moving>
+      停 @tíng : to stop ; to park
+  天终于晴了， : the sky was finally clear
+    终于 !終於 @zhōngyú : at last / finally
+      终 !終 @zhōng : end #bound
+      于 !於 @yú : in / at / on
+    晴 @qíng : clear <of weather>
+  这三个好朋友又一起在花丛中跳舞玩游戏了。 : the three friends went to play and dance among the flowers again
+    花丛 !花叢 @huācóng : cluster of flowers / flowering shrub
+      丛 !叢 @cóng : to collect
+    跳舞 @tiàowǔ : to dnace
+      跳 @tiào : to jump
+      舞 @wǔ : dance
+    游戏 !遊戲 @yóuxì : game
+      游 !遊 @yóu : to travel
+      戏 !戲 @xì : to play
 
 ```
