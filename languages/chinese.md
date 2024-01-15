@@ -2,8 +2,6 @@
 
 ## Grammar
 
-
-
 ### Counters
 
 - Counters are sometimes duplicated to indicate either "every", "one by one", or abundance (many).
@@ -30,19 +28,17 @@
 ### Geopolitics
 
 ```aln
-# Languages
-  简体中文 !簡體中文 @jiǎntǐzhōngwén : Simplified Chinese
-    简体 !簡體 @jiǎntǐ : Simplified Chinese
-      简 !簡 @jiǎn : simple
-      体 !體 @tǐ : body
-    中文 @zhōngwén : Chinese language
-      文 @wén : writing ; language <especially the written form of a language>
-  繁体中文 !繁體中文 @fántǐzhōngwén : Traditional Chinese
-    繁体 !繁體 @fántǐ : Traditional Chinese
-      繁 @fán : complicated
-
-# Geography
+# Political Geography
   中国 !中國 @Zhōngguó : China
+    中文 @zhōngwén : Chinese language <usually written Chinese>
+      文 @wén : writing ; language <especially the written form of a language>
+      简体中文 !簡體中文 @jiǎntǐzhōngwén : Simplified Chinese
+        简体 !簡體 @jiǎntǐ : Simplified Chinese
+          简 !簡 @jiǎn : simple
+          体 !體 @tǐ : body
+       繁体中文 !繁體中文 @fántǐzhōngwén : Traditional Chinese
+          繁体 !繁體 @fántǐ : Traditional Chinese
+            繁 @fán : complicated
     汉语 !漢語 @Hànyǔ : Chinese language <usually spoken Chinese>
       汉 !漢 @hàn : Han <ethnicity, dynasty, rivers>
       语 !語 @yǔ : language
@@ -55,6 +51,12 @@
     台湾 !臺灣 @Táiwān : Taiwan
       台 !臺 @tái : tower
       湾 !灣 @wān : bay / gulf
+
+ 日本 @Rìběn : Japan 
+    日语 !日語 @rìyǔ : Japanese language
+  
+  法国 !法國 @Fǎguó : France
+    法语 !法語 @fǎyǔ : French language
 ```
 
 ## Culture
@@ -147,9 +149,26 @@
 我说，我在这儿生活得很好，我有很好的老师，还有很多好同学，好朋友，和他们在一起，我感到很愉快。
 ```
 
+#### Mr. Wang Works at the University
+
+```text
+王先生在大学工作
+
+王先生是北大的老教师，一九三八年五月二十四号出生，　今年五十八岁。　今天是他的生日。
+他是一位非常有经验的法语老师。这个学期他教大三的学生现代法语语法。
+
+王先生的一位老朋友是老年大学的老师，　他经常在这个大学教日语。
+
+他的一个学生在师大工作。　他有汉语书，法语书和日语书。 他天天教留学生现代汉语。
+现在他有五个男学生，八个女学生。
+```
+
 ## Lexicon
 
 ```aln
+
+# Duolingo
+  你好 @nǐhǎo : hello / hi
 
 # Little Bear Lived in a Mountain Cave
   小熊一家住在山洞里。 : little bear lived in a mountain cave
@@ -165,11 +184,12 @@
       山 @shān : mountain
       洞 @dòng : hole ; cave
     里 !裡 @lǐ : in / inside #postpositional
-  熊爷爷对小熊说,“你去造间木头房子住吧!” : grandfather said to little bear "go and build a wooden house to live in!"
+  熊爷爷对小熊说, : grandfather said to little bear
     爷爷 !爺爺 @yéye #colloquial : paternal grandfather
       爷 !爺 @yé : father #literary ; grandfather
     对 !對 @duì : towards
     说 !說 @shuō : to say
+  “你去造间木头房子住吧!” : "go and build a wooden house to live in!"
     你 @nǐ : you
     去 @qù : to go
     造 @zào : to make ; to build
@@ -192,7 +212,7 @@
     树林 !樹林 @shùlín : woods / forest
       树 !樹 @shù : to plant ; tree
       林 @lín : forest
-  树上长满了绿叶，他舍不得砍。 : the trees were full of green leaves, he couldn't bear to cut them down
+  树上长满了绿叶， : the trees were full of green leaves
     树 !樹 @shù : tree
     上 @shàng : on #postposition
     长 !長 @zhǎng : to grow
@@ -201,6 +221,7 @@
     绿叶 !綠葉 @lǜyè : green leaf ; supporting role actor #figuratively
       绿 !綠 @lǜ : green
       叶 !葉 @yè : leaf
+  他舍不得砍。 : he couldn't bear to cut them down
     他 @tā : he
     舍不得 !捨不得 @shěbude : to be unwilling to
       舍 !捨 @shě : to give up
@@ -236,8 +257,9 @@
       多 @duō : many ; more than / over <after an amount or time?>
     小鸟 !小鳥 @xiǎoniǎo : small bird / little bird ; penis #childish
       鸟 !鳥 @niǎo : bid
-  一年又一年, 小熊没有砍树造房子 : years passed, little bear still hadn't made a home out of the trees
+  一年又一年, : years passed
     年 @nián : year
+  小熊没有砍树造房子 : little bear still hadn't made a home out of the trees
     没有 !沒有 @méiyǒu : to not have <either negating 'to have' or like English negative past tense>
       没 !沒 @méi : to not have <either as in 'no X' or negative negator of the verb to have instead of bu>
       有 @yǒu : to have ; there is
@@ -406,7 +428,7 @@
     出发 !出發 @chūfā : to set off
       出 @chū : to go out
       发 !發 @fā : to issue
-    五 @wǔ : five
+    五 @wǔ : five / 5
     半 @bàn : half
     才 @cái : only / merely / just
   我到的时候， 同学们都已经到了。 : when I arrived, the rest of our classmates were already there
@@ -619,7 +641,7 @@
     白色 @báisè : white
       白 @bái : white
   三个好朋友天天都在一起玩，可好了。 : everyday the three good friends played together, it was great
-    天天 @tiāntiān : everyday
+    天天 @tiāntiān : everyday / every day
     可好了 @kěhǎole : great <seems to be a sentence final phrase somewhat like "great" in English "alright, great">
   一天，他们正玩得，天突然下起了雨。 : one day just as they were playing, it suddenly began to rain
     一天 @yītiān : one day <either literally or as in 'someday, X happens'>
@@ -699,4 +721,56 @@
       游 !遊 @yóu : to travel
       戏 !戲 @xì : to play
 
+# Mr. Wang Works at the University
+  王先生在大学工作 : Mr Wang works at the univeristy
+    王 @wáng : king ; =surname
+    先生 @xiānshēng : mister / sir / gentlemen <used after noun/name, this literally roughly means 'one who was born earlier'>
+      先 @xiān : first / ahead of time
+    工作 @gōngzuò : to work 
+      工 @gōng : work
+      作 @zuò : to work
+  王先生是北大的老教师， : Mr Wang is an old teacher at Beijing University
+    北大 !Běidà : Peking University
+    教师 !教師 @jiàoshī : teacher
+      教 /!敎 @jiào : to teach
+  一九三八年五月二十四号出生， : he was born May 24 1938
+    九 @jiǔ : nine / 9
+    八 @bā : eight / 8
+    五月 @wǔyuè : May
+      月 @yuè : moon ; month
+    二 @èr : two / 2
+    十 @shí : ten / 10
+    号 !號 @hào : name ; number ; day of the month
+    出生 @chūshēng : to be born
+  今年五十八岁。 : he's 58 this year
+    今年 @jīnnián : this year
+    岁 !歲 @suì : Jupiter #literary ; year ; year old <after a number or 几, no need for copular verb to link to subject>
+  今天是他的生日。 : today is his birthday
+    生日 @shēngrì : birthday
+      日 @rì : Sun ; day
+  他是一位非常有经验的法语老师。 : he's a French teacher with a lot of experience
+    位 @wèi : person #counter #polite
+    经验 !經驗 @jīngyàn : experience
+      验 !驗 @yàn : to test
+  这个学期他教大三的学生现代法语语法。 : this semester he's teaching modern French grammar to 3rd year students
+    学期 !學期 @xuéqī : semester / school term
+    大三 @dàsān : third year of university ; third year student
+    现代 !現代 @xiàndài : modern
+      代 @dài : to replace
+    语法 !語法 @yǔfǎ : grammar
+  王先生的一位老朋友是老年大学的老师， : one of Mr Wang's friends is an old university teacher
+    老年 @lǎonián : old / old age
+  他经常在这个大学教日语。 : he often teaches Japanese at this university
+    经常 !經常 @jīngcháng : often
+  他的一个学生在师大工作。 : one of his students works at a normal university
+    师大 !師大 @shīdà : normal university <short for 师范大学, school to train teachers>
+      师范 !師範 @shīfàn : model worthy of study #literary ; normal school
+        范 !範 @fàn : model / pattern
+  他有汉语书，法语书和日语书。 : he has Chinese, French and Japanese books
+    书 !書 @shū : book
+  他天天教留学生现代汉语。 : every day he teaches foreign students modern Chinese
+    留学生 !留學生 @liúxuéshēng : international student
+  现在他有五个男学生，八个女学生。 : right now he has 5 male students and 8 female students
+    男 @nán : man ; male
+    女 @nǚ : woman ; female
 ```
