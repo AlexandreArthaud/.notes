@@ -8,6 +8,22 @@
 
 ## Topics
 
+### Numeric
+
+```aln
+# Numbers
+  一 @yī : one / 1
+  二 @èr : two / 2
+  三 @sān : three / 3
+  四 @sì : four / 4
+  五 @wǔ : five / 5
+  六 @liù : six / 6
+  七 @qī : seven / 7
+  八 @bā : eight / 8
+  九 @jiǔ : nine / 9
+  十 @shí : ten / 10
+```
+
 ### Digital
 
 ```aln
@@ -107,6 +123,46 @@
 天终于晴了，这三个好朋友又一起在花丛中跳舞玩游戏了。
 ```
 
+#### Cat Goes Fishing
+
+```text
+小猫钓鱼
+
+老猫和小猫一块儿在河边钓鱼。
+
+一只蜻蜓飞来了。小猫看见了，放下钓鱼竿，就去捉蜻蜓。蜻蜓飞走了，小猫没捉着，空着手回到河边来。
+小猫一看，老猫钓着了一条大鱼。
+一只蝴蝶飞来了。小猫看见了，放下钓鱼竿，又去捉蝴蝶。蝴蝶飞走了，小猫又没捉着，空着手回到河边来。
+小猫一看，老猫又钓着了一条大鱼。
+
+小猫说: “真气人，我怎么一条小鱼也钓不着？”
+
+老猫看了看小猫，说: “钓鱼就钓鱼，不要这么三心二意的。一会儿捉蜻蜓，一会儿捉蝴蝶，怎么能钓着鱼呢？”
+
+小猫听了老猫的话，就一心一意地钓鱼。
+
+蜻蜓又飞来了，蝴蝶又飞来了，小猫就象没看见一样。不大一会儿，小猫也钓着了一条大鱼。
+```
+
+#### The Little Elephant That Wanted to Fly
+
+```text
+小象也要飞
+
+小象生下来的第三天，跟妈妈来到小河边，看见一只小鸟在天空飞来飞去。小象想：
+“要是我也会飞，可以看到更多的东西，多好呀！”
+
+小象爬到树去学飞“哎哟”一声，摔了一个大跟头。
+
+蛇看见了说:“小象，我们有自己的本事。我不会飞，可是，我会在树上睡觉。”
+
+狮子说:“我也不会飞，可是，我能跳过宽宽的大河。”
+
+老虎说:“我不会飞，可是我会游泳！”
+
+爸爸妈妈对小象说:“我们象的力气大，这是小鸟不能比的。”小象明白了。他用长鼻子一钩，大木头就搬走了。
+```
+
 ### Essays
 
 #### Jiang Ping Going To Study Abroad
@@ -176,7 +232,6 @@
       小 @xiǎo : small / little
       熊 @xióng : bear
     一家 @yījiā : entire family
-      一 @yī : one / 1
       家 @jiā : home
     住 @zhù : to live [in=在]
     在 @zài : to be at/in ; at/in
@@ -194,7 +249,7 @@
     去 @qù : to go
     造 @zào : to make ; to build
     间 !間 @jiān : =counter <for small units of housing, more rarely, or in Cantonese, for all buildings>
-    木头 !木頭 @mùtou : wood
+    木头 !木頭 @mùtou : wood / branch
       木 @mù : tree ; wood 
       头 !頭 @tóu : head
     房子 @fángzi : house
@@ -207,7 +262,7 @@
       春 @chūn : spring
       天 @tiān : sky
     走进 !走進 @zǒujìn : to enter
-      走 @zǒu : to walk ; to go
+      走 @zǒu : to walk ; to go ; away <like English away after other verbs?>
       进 !進 @jìn : to advance
     树林 !樹林 @shùlín : woods / forest
       树 !樹 @shù : to plant ; tree
@@ -215,7 +270,7 @@
   树上长满了绿叶， : the trees were full of green leaves
     树 !樹 @shù : tree
     上 @shàng : on #postposition
-    长 !長 @zhǎng : to grow
+    长 !長 @zhǎng : to grow ; long
     满 !滿 @mǎn : full ; fully
     了 @le : =particle <after a verb to make it perfective>
     绿叶 !綠葉 @lǜyè : green leaf ; supporting role actor #figuratively
@@ -254,7 +309,7 @@
     着 !著 @zhe : =particle <after verb to mark continuous aspect>
     许多 !許多 @xǔduō : many
       许 !許 @xǔ : to allow
-      多 @duō : many ; more than / over <after an amount or time?>
+      多 @duō : many ; more than / over <after an amount or time?> ; more ; so #intensifier <in exclamations>
     小鸟 !小鳥 @xiǎoniǎo : small bird / little bird ; penis #childish
       鸟 !鳥 @niǎo : bid
   一年又一年, : years passed
@@ -388,7 +443,6 @@
         界 @jiè : boundary
     只有 /!衹有 @zhǐyǒu : only / merely / just
       只 /!衹 @zhǐ : only / just / merely
-      三 @sān : three / 3
   这个大学给江苹最高的奖学金。 : this college gave Jiang Ping their highest scholarship
     奖学金 !獎學金 @jiǎngxuéjīn : scholarship
       奖 !獎 @jiǎng : reward / prize
@@ -420,7 +474,6 @@
   我下午四点多就从家里出发了， 五点半才到。 : I left my house a little after four o'clock in the afternoon, and didn't get there until 5:30
     下午 @xiàwǔ : afternoon
       午 @wǔ : =seventh earthly branch
-    四 @sì : four
     点 !點 @diǎn : o'clock
     就 @jiù : just / precisely <for emphasis> ; then
     从 !從 @cóng : from <a place or time>
@@ -428,7 +481,6 @@
     出发 !出發 @chūfā : to set off
       出 @chū : to go out
       发 !發 @fā : to issue
-    五 @wǔ : five / 5
     半 @bàn : half
     才 @cái : only / merely / just
   我到的时候， 同学们都已经到了。 : when I arrived, the rest of our classmates were already there
@@ -551,7 +603,7 @@
     还有 !還有 @háiyǒu : and / besides
     弟弟 @dìdi : younger brother
       弟 @dì : younger brother
-  在家的时候，我们常一起玩儿。　: when I'm at home, we often play together
+  在家的时候，我们常一起玩儿。 : when I'm at home, we often play together
     一起 @yīqǐ : together
       起 @qǐ : to rise
   现在，我在北京学习汉语，寂寞的时候就常常想他们。 : right now, I'm in Beijing studying Chinese, and when I'm lonely I miss them
@@ -600,7 +652,7 @@
     碗 @wǎn : bowl #counter
     面条 !麵條 @miàntiáo : noodles
       面 !麵/麪 @miàn : flour ; noodles
-      条 !條 @tiáo : stip / slip
+      条 !條 @tiáo : strip / slip #counter <counter for long thin things inc. fish, rivers, etc.>
   吃了面条，身上出了很多汗， : after I ate the noodles, I began to pour sweat
     身上 @shēnshàng : one's body
       身 @shēn : body
@@ -734,12 +786,8 @@
     教师 !教師 @jiàoshī : teacher
       教 /!敎 @jiào : to teach
   一九三八年五月二十四号出生， : he was born May 24 1938
-    九 @jiǔ : nine / 9
-    八 @bā : eight / 8
     五月 @wǔyuè : May
       月 @yuè : moon ; month
-    二 @èr : two / 2
-    十 @shí : ten / 10
     号 !號 @hào : name ; number ; day of the month
     出生 @chūshēng : to be born
   今年五十八岁。 : he's 58 this year
@@ -773,4 +821,124 @@
   现在他有五个男学生，八个女学生。 : right now he has 5 male students and 8 female students
     男 @nán : man ; male
     女 @nǚ : woman ; female
+
+# Cat Goes Fishing
+  小猫钓鱼 : little cat goes fishing
+    小猫 !小貓 @xiǎomāo : kitten
+      猫 !貓 @māo : cat 
+    钓鱼 !釣魚 @diàoyú : to fish
+      钓 !釣 @diào : to fish
+      鱼 !魚 @yú : fish
+  老猫和小猫一块儿在河边钓鱼。 : old cat and little cat were fishing together on the riverbank
+    河边 !河邊 @hébiān : riverside / river bank / waterfront
+      河 @hé : river <especially Yellow River or especially smaller rivers>
+  一只蜻蜓飞来了。 : a dragonfly flew over
+    蜻蜓 @qīngtíng : dragonfly
+      蜻 @qīng : dragonfly #bound
+      蜓 @tíng : dragonfly #bound
+  小猫看见了，放下钓鱼竿，就去捉蜻蜓。 : the little cat saw it, put down his fishing pole, and tried to grab the dragonfly
+    放下 @fàngxià : to put down / to lay down
+      放 @fàng : to release ; to put / to place
+    钓鱼竿 !釣魚竿 @diàoyúgān : fishing rod
+      竿 @gān : bamboo pole
+    捉 @zhuō : to grasp ; to catch
+  蜻蜓飞走了，小猫没捉着，空着手回到河边来。 : the dragonfly flew away, and the little cat, unable to grab it, stopped trying and went back to fishing on the riverbank
+    空手 @kōngshǒu : to be empty-handied
+      空 @kōng : empty
+      手 @shǒu : hand
+    回到 @huídào : to return to
+  小猫一看，老猫钓着了一条大鱼。 : as soon as little cat was back, old cat caught a big fish
+    著 @zháo : =particle <after verb to mark it "not done in vain", either successful or continuation>
+  “真气人，我怎么一条小鱼也钓不着？” : how annoying, why is it that I haven't caught even one little fish?
+    真 @zhēn : true / genuine ; really / truly #intensifier
+    气人 !氣人 @qìrén : irritating
+      气 @氣 @qì : gas ; air ; anger ; to annoy
+    怎么 !怎麼 @zěnme : how
+      怎 @zěn : how
+  老猫看了看小猫，说:  : old cat looked him over and said
+  钓鱼就钓鱼，不要这么三心二意的。 : if you're fishing just fish, don't be in two minds about it
+    不要 @bùyào : don't 
+    这么 !這麼 @zhème : so / such #intensifier ; like this / thus
+    三心二意 @sānxīn'èryì : half-hearted
+      心 @xīn : heart
+      意 @yì : wish ; meaning
+  一会儿捉蜻蜓，一会儿捉蝴蝶，怎么能钓着鱼呢？ : if you spend a while catching dragonflies, then you spend another while catching butterflies, how can you catch fish?
+    一会儿 !一會兒 @yīhuìr : a little while
+      会儿 !會兒  @huìr : a moment / a while 
+  小猫听了老猫的话，就一心一意地钓鱼。 : little cat listened to old cat's words and began to fish intently
+    话 !話 @huà : words / talk
+    一心一意 @yīxīnyīyì : wholeheartedly
+  蜻蜓又飞来了，蝴蝶又飞来了，小猫就象没看见一样。 : the dragonfly flew over gain, and the butterfly flew over also, but it was as if little cat didn't see them
+    X象Y一样Z : X is as Y as Z
+    象 @xiàng : elephant ; to resemble
+    一样 !一樣 @yīyàng : same
+      样 !樣 @yàng : appearance / shape
+  不大一会儿，小猫也钓着了一条大鱼。 : not long after that, little cat caught a big fish
+    不(大)一会 @bù(dà)yīhuì : soon after
+
+# The Little Elephant That Wanted to Fly
+  小象也要飞 : the little elephant that wanted to fly
+  小象生下来的第三天， : on the third day after he was born
+    下来 !下來 @xiàlái : to come down ; down <after verbs like English down>
+    第 @dì : =ordinal marker <makes a number into an ordinal, placed before the number, not after like English -th>
+  跟妈妈来到小河边， : went with his mother to the banks of a stream
+    妈妈 !媽媽 @māma : mum / mom / mama
+      妈 !媽 @mā : mom / mum
+    来到 !來到 @láidào : to arrive
+    小河 @xiǎohé : brook / small river
+  看见一只小鸟在天空飞来飞去。 : he saw a bird in the sky flying here and there
+    天空 @tiānkōng : sky
+  小象想：“要是我也会飞，可以看到更多的东西，多好呀！” : little elephant said "if I could fly, I could see even more things, it would be great!"
+    要是 @yàoshi #colloquial : if
+    可以 @kěyǐ : can / may
+    看到 @kàndào : to catch sight of
+    更 @gèng : even more
+    呀 @ya : =particle <equivalent of 啊 after vowels>
+  小象爬到树去学飞“哎哟”一声，摔了一个大跟头。 : in order to learn to fly, little elephant climbed a tree and, with a help of a "aiyo", fell heavily to the ground
+    爬 @pá : to climb
+    哎哟 !哎喲 @āiyō : aiyo <expresses suprise, pain, annoyance, regret, frustrutation, admiraiton. etc.>
+      哎 @āi : =interjection of surprise
+      哟 !喲 @yō : =interjection of suprise
+    一声 !一聲 @yīshēng : sound
+      声 !聲 @shēng : sound
+    摔 @shūai : to fall
+    跟头 !跟頭 @gēntou : fall
+  蛇看见了说: : seeing this, the snake said
+    蛇 @shé : snake
+  小象，我们有自己的本事。 : little elephant, we all have our own abilities.
+    自己 @zìjǐ : self / onself
+      自 @zì : self
+      己 @jǐ : self
+    本事 @běnshi : skill / ability
+      本 @běn : source / origin / root
+      事 @shì : thing / matter
+  我不会飞，可是，我会在树上睡觉。 : I can't fly, but I can sleep in a tree
+    睡觉 !睡覺 @shuìjiào : to sleep / to go to bed
+      睡 @shuì : to sleep
+      觉 !覺 @jué : to feel
+  狮子说: : lion said
+    狮 !獅 @shī : lion
+  我也不会飞，可是，我能跳过宽宽的大河。 : I also can't fly, but I can jump across a wide river
+    跳过 !跳過 @tiàoguò : to jump over / to jump across
+      过 !過 @guò : to cross ; =particle <after a verb to indicates it occurred before: ever, already, etc.>
+    宽 !寬 @kuān : wide
+  老虎说: : tiger said
+    老虎 @lǎohǔ : tiger
+      虎 @hǔ : tiger
+  我不会飞，可是我会游泳！ : I can't fly, but I can swim!
+    游泳 @yóuyǒng : to swim
+      泳 @yǒng : to swim
+  爸爸妈妈对小象说: : little elephant's father and mother said to him
+    爸爸 @bàba : dad / papa
+      爸 @bà : dad
+    爸爸妈妈 !爸爸媽媽 @bàbamāma : mum and dad / parents
+  我们象的力气大，这是小鸟不能比的。 : we elephants have a great strength, incomparably greater than that little bird's
+    力气 !力氣 @lìqi : physical strength
+  小象明白了 : little elephant understood
+    明白 @míngbai : to understand
+      明 @míng : bright ; =dynasty
+  他用长鼻子一钩，大木头就搬走了。 : he used his long nose as a hook and moved a large branch
+    鼻子 @bízi : nose
+    钩 !鉤 /!鈎 @gōu : hook
+    搬 @bān : to move
 ```
