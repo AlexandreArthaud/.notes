@@ -1,14 +1,10 @@
-# Chinese (Standard Mandarin)
+# Chinese 
 
-## Grammar
+## Grammatical Notes
 
-### Counters
+### Numbers & Counters
 
 - Counters are sometimes duplicated to indicate either "every", "one by one", or abundance (many).
-
-## Topics
-
-### Numeric
 
 ```aln
 # Numbers
@@ -24,7 +20,13 @@
   十 @shí : ten / 10
 ```
 
+## Cultural Notes
+
 ### Digital
+
+- China has a sovereign digital ecosystem, so in China, many local brands such as Baidu (search
+  engine) are as famous as Google internationally, and may be used in daily language, the same way
+  Google is often used as a verb.
 
 ```aln
 # Brands
@@ -43,43 +45,132 @@
 
 ### Geopolitics
 
-```aln
-# Political Geography
-  中国 !中國 @Zhōngguó : China
-    中文 @zhōngwén : Chinese language <usually written Chinese>
-      文 @wén : writing ; language <especially the written form of a language>
-      简体中文 !簡體中文 @jiǎntǐzhōngwén : Simplified Chinese
-        简体 !簡體 @jiǎntǐ : Simplified Chinese
-          简 !簡 @jiǎn : simple
-          体 !體 @tǐ : body
-       繁体中文 !繁體中文 @fántǐzhōngwén : Traditional Chinese
-          繁体 !繁體 @fántǐ : Traditional Chinese
-            繁 @fán : complicated
-    汉语 !漢語 @Hànyǔ : Chinese language <usually spoken Chinese>
-      汉 !漢 @hàn : Han <ethnicity, dynasty, rivers>
-      语 !語 @yǔ : language
-    北京 @Běijīng : Beijing
-      北 @běi : north
-      京 @jīng : capital city #bound
-    香港 @Xiānggǎng : Hong Kong
-      香 @xiāng : fragrant
-      港 @gǎng : harbor / port
-    台湾 !臺灣 @Táiwān : Taiwan
-      台 !臺 @tái : tower
-      湾 !灣 @wān : bay / gulf
+- A common misconception from Chinese beginner learners is that the name of foreign countries in
+  Chinese such as 美国 for America is meant literally based on the character. However, they are
+  usually intended to be phonetic, 美 means 'beautiful', but in the case of America this is just 
+  short for an older phonetic transcription. This is the case for most countries (except those close
+  to China like Japan which might have names that were originally litteral). Chinese diplomats did
+  make an effort to choose "positive" characters. For America, many other characters could have been
+  used for the sound "mei", but 美 meaning beautiful is more prestigious. However, this does not 
+  mean in any way that the Chinese think "beautiful country" when saying "America".
 
- 日本 @Rìběn : Japan 
-    日语 !日語 @rìyǔ : Japanese language
-  
-  法国 !法國 @Fǎguó : France
-    法语 !法語 @fǎyǔ : French language
+```aln
+中国 !中國 @Zhōngguó : China
+  中文 @zhōngwén : Chinese language <usually written Chinese>
+    文 @wén : writing ; language <especially the written form of a language>
+    简体中文 !簡體中文 @jiǎntǐzhōngwén : Simplified Chinese
+      简体 !簡體 @jiǎntǐ : Simplified Chinese
+        简 !簡 @jiǎn : simple
+        体 !體 @tǐ : body
+      繁体中文 !繁體中文 @fántǐzhōngwén : Traditional Chinese
+        繁体 !繁體 @fántǐ : Traditional Chinese
+          繁 @fán : complicated
+  汉语 !漢語 @Hànyǔ : Chinese language <usually spoken Chinese>
+    汉 !漢 @hàn : Han <ethnicity, dynasty, rivers>
+    语 !語 @yǔ : language
+  北京 @Běijīng : Beijing
+    北 @běi : north
+    京 @jīng : capital city #bound
+  香港 @Xiānggǎng : Hong Kong
+    香 @xiāng : fragrant
+    港 @gǎng : harbor / port
+  台湾 !臺灣 @Táiwān : Taiwan
+    台 !臺 @tái : tower
+    湾 !灣 @wān : bay / gulf
+
+日本 @Rìběn : Japan 
+  日语 !日語 @rìyǔ : Japanese language
+
+法国 !法國 @Fǎguó : France
+  法语 !法語 @fǎyǔ : French language
 ```
 
-## Culture
+## Texts
 
-### Children's Stories
+### The Desert (Joke)
 
-#### Little Bear Lived in a Mountain Cave
+```text
+沙漠
+
+老师: “沙漠是一块又长又宽的地方，上面光光的，什么东西都不长。”
+小学生: “老师，我明白了。我爸爸的秃头就是一片沙漠。”
+```
+
+```aln
+小学生 !小學生 @xiǎoxuéshēng : primary school student
+  小学 !小學 @xiǎoxué : primary school
+沙漠是一块又长又宽的地方， : a desert is a long, wide place
+  沙漠 @shāmò : desert
+    沙 @shā : sand
+    漠 @mò : desert
+  地方 @dìfang : place
+    地 @dì : earth
+    方 @fāng : side
+上面光光的， : the surface is very bright
+  上面 @shàngmiàn : above
+  光光 @guāngguāng : bright ; bare / naked
+    光 @guāng : light / beam / ray ; bright
+什么东西都不长。 : not a single thing grows there
+我爸爸的秃头就是一片沙漠。 : my father's bald head is a strip of desert
+  秃头 !禿頭 @tūtóu : bald head
+    秃 !禿 @tū : bald <of hair>
+  就是 @jiùshì : to be precisely / to be none other than
+  片 @piàn : =counter <for: slices, flat objects (leaves, piece of paper), small nonspherical medicine (pill, tablet), tracts of land, water, CDs,DVDs,movies>
+```
+
+### Father and Son Don't Get Along (Joke)
+
+```text
+父子不和
+
+老师:“同学们，今天的家庭问题讨论课，讨论‘父子不和’这个题目。秋子同学，你认为要消除父子不和的现象，
+最好的办法是什么呢？”
+秋子起立回答: “老师，最好的办法是:这一次在我的成绩通知单上全填5分！”```
+```
+
+```aln
+父子不和 : father and son don't get along
+  父子 @fùzǐ : father and son
+    父 @fù : father
+    子 @zǐ : son
+  不和 @bùhé : discordant / on bad terms ; to not get along
+同学们，今天的家庭问题讨论课，讨论‘父子不和’这个题目。 : students, in today's family issues discussion class, the topic is "father and son don't get along"
+  家庭 @jiātíng : family / household
+    庭 @tíng : courtyard
+  问题 !問題 @wèntí : question ; problem / issue
+    问 !問 @wèn : to ask
+    题 !題 @tí : =counter <for: questions>
+  讨论 !討論 @tǎolùn : to discuss
+    讨 !討 @täo : to ask for
+    论 !論 @lùn : to discuss
+  课 !課 @kè : lesson
+  题目 !題目 @tímù : subject / topic
+    目 @mù : eye #literary
+秋子同学，你认为要消除父子不和的现象，最好的办法是什么呢？ : student Qiu Zi, do you know the best way to eliminate an issue with father and son not getting along?
+  认为 !認為 @rènwéi : to think / to believe
+    认 !認 @rèn : to recognize
+  消除 @xiāochú : to remove / to clear
+    消 @xiāo : to vanish
+    除 @chú : to remove
+  现象 !現象 @xiànxiàng : phenomenon
+  办法 !辦法 @bànfǎ : method / way
+    办 !辦 @bàn : to handle
+    法 @fǎ : law
+秋子起立回答 : Qiu Zi stood up to answer
+  起立 @qǐlì : to stand up 
+  回答 @huídá : to reply / to answer
+    答 @dá : to answer
+最好的办法是:这一次在我的成绩通知单上全填5分！ : the best way to eliminate this problem is to give me five stars on my next report card
+  成绩 !成績 @chéngjì : achievement ; grade #education
+    绩 !績 @jì : achievement
+  通知单 !通知單 @tōngzhīdān : letter of notice
+    通知 @tōngzhī : to notify / to inform
+      通 @tōng : to pass through
+    单 !單 @dān : bill
+  填 /!塡 @tián : to fill
+```
+
+### Little Bear Lived in a Mountain Cave (Children's Story)
 
 ```text
 小熊住山洞
@@ -93,7 +184,131 @@
 树林里的小动物非常感谢小熊，他们送给小熊一束束美丽的鲜花.
 ```
 
-#### Three Good Friends
+```aln
+小熊一家住在山洞里。 : little bear lived in a mountain cave
+  小熊 @xiǎoxióng : little bear
+    小 @xiǎo : small / little
+    熊 @xióng : bear
+  一家 @yījiā : entire family
+    家 @jiā : home
+  住 @zhù : to live [in=在]
+  在 @zài : to be at/in ; at/in
+  山洞 @shāndòng : mountain cave
+    山 @shān : mountain
+    洞 @dòng : hole ; cave
+  里 !裡 @lǐ : in / inside #postpositional
+熊爷爷对小熊说, : grandfather said to little bear
+  爷爷 !爺爺 @yéye #colloquial : paternal grandfather
+    爷 !爺 @yé : father #literary ; grandfather
+  对 !對 @duì : towards
+  说 !說 @shuō : to say
+“你去造间木头房子住吧!” : "go and build a wooden house to live in!"
+  你 @nǐ : you
+  去 @qù : to go
+  造 @zào : to make ; to build
+  间 !間 @jiān : =counter <for small units of housing, more rarely, or in Cantonese, for all buildings>
+  木头 !木頭 @mùtou : wood / branch
+    木 @mù : tree ; wood 
+    头 !頭 @tóu : head
+  房子 @fángzi : house
+    房 @fáng : house
+    子 @zi : =suffix <common nominal suffix>
+  住 @zhù : to live / to dwell / to reside
+  吧 @ba : =particle <emphatic final particle>
+春天，小熊走进树林。 : in spring, little bear went into the forest
+  春天 @chūntiān : spring
+    春 @chūn : spring
+    天 @tiān : sky
+  走进 !走進 @zǒujìn : to enter
+    走 @zǒu : to walk ; to go ; away <like English away after other verbs?>
+    进 !進 @jìn : to advance
+  树林 !樹林 @shùlín : woods / forest
+    树 !樹 @shù : to plant ; tree
+    林 @lín : forest
+树上长满了绿叶， : the trees were full of green leaves
+  树 !樹 @shù : tree
+  上 @shàng : on #postposition
+  长 !長 @zhǎng : to grow ; long
+  满 !滿 @mǎn : full ; fully
+  了 @le : =particle <after a verb to make it perfective>
+  绿叶 !綠葉 @lǜyè : green leaf ; supporting role actor #figuratively
+    绿 !綠 @lǜ : green
+    叶 !葉 @yè : leaf
+他舍不得砍。 : he couldn't bear to cut them down
+  他 @tā : he
+  舍不得 !捨不得 @shěbude : to be unwilling to
+    舍 !捨 @shě : to give up
+    不得 @bùdé : must not
+      不 @bù : not
+      得 @dé : to obtain
+  砍 @kǎn : to hack / to chop / to fell
+夏天，小熊又走进了树林。 : in summer, little bear again went into the forest
+  夏天 @xiàtiān : summer
+    夏 @xià : summer
+  又 @yòu : again ; both ... and <又X又Y>
+树上开满了鲜花， : the trees were full of fresh flowers
+  开 !開 @kāi : to start ; to bloom ; to write out <prescription, check, etc.>
+  鲜花 !鮮花 @xiānhuā : fresh flower
+    鲜 !鮮 @xiān : fresh
+    花 @huā : flower
+秋天，小熊走进树林 : in autumn, little bear went into the forest
+  秋天 @qiūtiān : autumn / fall
+    秋 @qiū : fall / autumn
+树上挂满了果实 : the trees were full of hanging fruit
+  挂 !掛 @guà : to hang
+  果实 !果實 @guǒshí : fruit
+    果 @guǒ : fruit
+    实 !實 @shí : full ; real / true
+冬天，小熊走进了树林 : in winter, little bear went into the forest
+  冬天 @dōngtiān : winter
+    冬 @dōng : winter
+树上站着许多小鸟 : many birds were living in the trees
+  站 @zhàn : to stand
+  着 !著 @zhe : =particle <after verb to mark continuous aspect>
+  许多 !許多 @xǔduō : many
+    许 !許 @xǔ : to allow
+    多 @duō : many ; more than / over <after an amount or time?> ; more ; so #intensifier <in exclamations>
+  小鸟 !小鳥 @xiǎoniǎo : small bird / little bird ; penis #childish
+    鸟 !鳥 @niǎo : bid
+一年又一年, : years passed
+  年 @nián : year
+小熊没有砍树造房子 : little bear still hadn't made a home out of the trees
+  没有 !沒有 @méiyǒu : to not have <either negating 'to have' or like English negative past tense>
+    没 !沒 @méi : to not have <either as in 'no X' or negative negator of the verb to have instead of bu>
+    有 @yǒu : to have ; there is
+  砍树 !砍樹 @kǎnshù : to chop down trees
+还是高高兴兴地住在山洞里 : he was still living happily in his mountain cave
+  还是 !還是 @háishì : still
+    还 !還 @hái : still ; also / as well
+    是 @shì : to be
+  高高兴兴 !高高興興 @gāogāoxìngxìng <AABB reduplication of 高兴> : very happy
+    高兴 !高興 @gāoxìng : happy / glad
+      高 @gāo : tall ; high
+      兴 !興 @xìng : mood <in doing something>
+  地 @de : =particle <links adjective to a verb to make it an adverb, complement to the verb>
+树林里的小动物非常感谢小熊 : the little forest animals thanked little bear very much
+  动物 !動物 @dòngwù : animal
+    动 !動 @dòng : to move
+    物 @wù : thing
+  非常感谢 !非常感謝 @fēichánggǎnxiè : extremely grateful ; to thank very much
+    非常 @fēicháng : extremely
+      非 @fēi : not
+      常 @cháng : often 
+    感谢 !感謝 @gǎnxiè : to thank ; to be grateful
+      感 @gǎn : to move <someone, emotionally>
+      谢 !謝 @xiè : to thank
+他们送给小熊一束束美丽的鲜花 : they gave him a bunch of beautiful fresh flowers
+  们 !們 @men : =suffix <after pronouns to form plural versions (I to we, he to they, etc.)>
+  送 @sòng [给=to] : to give / to offer / to gift
+  给 !給 @gěi : to give ; to
+  束 @shù : bunch / bundle #counter
+  美丽 !美麗 @měilì : beautiful
+    美 @měi : beautiful
+    丽 !麗 @lì : beautiful 
+  的 @de : of / 's
+```
+
+### Three Good Friends (Children's Story)
 
 ```text
 三个蝴蝶
@@ -123,7 +338,105 @@
 天终于晴了，这三个好朋友又一起在花丛中跳舞玩游戏了。
 ```
 
-#### Cat Goes Fishing
+```aln
+三个蝴蝶 : three butterflies
+  蝴蝶 @húdié : butterfly
+    蝴 @hú : =only used in hudie
+    蝶 @dié : butterfly
+花园里有三只蝴蝶，一只是红色的，一只是黄色的，一只是白色的。三 : in the garden there were three butterflies, a red one, a yellow one and a white one
+  花园 !花園 @huāyuán : garden
+    园 !園 @yuán : garden #literary
+  只 !隻 @zhī : =counter <for certain animals like cats, pigs, birds>
+  红色 !紅色 @hóngsè : red
+    红 !紅 @hóng : red
+    色 @sè : color
+  黄色 !黃色 @huángsè : yellow ; pornographic
+    黄 !黃 @huáng : yellow
+  白色 @báisè : white
+    白 @bái : white
+三个好朋友天天都在一起玩，可好了。 : everyday the three good friends played together, it was great
+  天天 @tiāntiān : everyday / every day
+  可好了 @kěhǎole : great <seems to be a sentence final phrase somewhat like "great" in English "alright, great">
+一天，他们正玩得，天突然下起了雨。 : one day just as they were playing, it suddenly began to rain
+  一天 @yītiān : one day <either literally or as in 'someday, X happens'>
+  正 @zhèng : in the process of
+  突然 @tūrán : sudden
+    突 @tū : to dash forward
+  起雨 @qǐyǔ #literary : to rain
+    雨 @yǔ : rain
+三只蝴蝶的翅膀都被雨打湿了， : the three butterflies' wings were drenched by the rain
+  翅膀 @chìbǎng : wing
+    翅 @chì : wing
+    膀 @bǎng : upper arm ; wing
+  被 @bèi : by <introduces the agent of the action>
+  湿 !濕 !/溼 @shī : wet
+浑身冻得发抖。 : their whole bodies were trembling with cold 
+  浑身 !渾身 @húnshēn : whole body
+    浑 !渾 @hún : muddy
+  冻 !凍 @dòng : cold ; to freeze
+  发抖 !發抖 @fādǒu : to shake
+    抖 @dǒu : to shake
+三只小蝴蝶一起飞到红花那里，对红花说 : the three butterflies flew together to a red flower, and said to it
+  飞 !飛 @fēi : to fly
+  那里 !那裡 @nàlǐ : there
+    那 @nà : that
+“红花姐姐，让我们飞到你的叶子下面躲躲雨吧！” : "big sister red flower, let us hide from the ride under your leaves"
+  让 !讓  @ràng : to allow
+  叶子 !葉子 @yèzi : leaf
+  下面 @xiàmiàn : below
+  躲 @duǒ : to hide
+红花说: “红蝴蝶进来吧，其他的快飞开！” : the red flower said "the red butterfly can come in, but the others must leave"
+  其他 @qítā : other
+    其 @qí : his
+三个好朋友一齐摇摇头 : the three good friends shook their heads together
+  一齐 !一齊 @yīqí : all at the same time
+    齐 !齊 @qí : uniform
+  摇头 !搖頭 @yáotóu : to shake one's head <signal disagreement>
+    摇 !搖 @yáo : to shake ; to wave
+“我们是好朋友，一块儿来，也一块儿走。” : "we're good friends, we came together, and we'll leave together"
+  一块儿 !一塊兒 @yīkuàir : together
+    一块 !一塊 @yīkuài : together
+      块 !塊 @kuài : piece ; =counter <for: money (yuan, dollar), pieces of something (food, cloth, stone,etc.), areas of land (plot, tract, area, etc.)>
+然后 !然後 @ránhòu : then / after that
+可是 @kěshì : however
+这时，太阳公公看见了， : at this time, Old Man Sun saw what was happening
+  这时 !這時 @zhèshí : at this time
+  太阳 !太陽 @tàiyáng : Sun
+    太 @tài : too <before adj>
+    阳 !陽 @yáng : sun
+  公公 @gōnggong <after noun or name> : father-in-law ; grandfather #dialectal ; old man
+    公 @gōng : fair
+  看见 !看見 @kànjiàn : to see
+赶忙把乌云赶走， : he hurriedly chased the black clouds away
+  赶忙 !趕忙 @gǎnmáng : hastily / hurriedly
+    赶 !趕 @gǎn : to overtake
+    忙 @máng : busy
+  把 @bǎ : =particle <used before a direct object to change usual SVO>
+  乌云 !烏雲 @wūyún : dark cloud
+    乌 !烏 @wū : crow / raven ; black / dark #bound
+    云 !雲 @yún : cloud
+  赶走 !趕走 @gǎnzǒu : to drive away / to chase away
+叫雨停下。 : made the rain stop
+  叫 @jiào : to call ; to be called ; to order <ditransitive with another verb>
+  停下 @tíngxià : to stop <cause something to cease moving>
+    停 @tíng : to stop ; to park
+天终于晴了， : the sky was finally clear
+  终于 !終於 @zhōngyú : at last / finally
+    终 !終 @zhōng : end #bound
+    于 !於 @yú : in / at / on
+  晴 @qíng : clear <of weather>
+这三个好朋友又一起在花丛中跳舞玩游戏了。 : the three friends went to play and dance among the flowers again
+  花丛 !花叢 @huācóng : cluster of flowers / flowering shrub
+    丛 !叢 @cóng : to collect
+  跳舞 @tiàowǔ : to dnace
+    跳 @tiào : to jump
+    舞 @wǔ : dance
+  游戏 !遊戲 @yóuxì : game
+    游 !遊 @yóu : to travel
+    戏 !戲 @xì : to play
+```
+
+### Cat Goes Fishing (Children's Story)
 
 ```text
 小猫钓鱼
@@ -144,7 +457,62 @@
 蜻蜓又飞来了，蝴蝶又飞来了，小猫就象没看见一样。不大一会儿，小猫也钓着了一条大鱼。
 ```
 
-#### The Little Elephant That Wanted to Fly
+```aln
+小猫钓鱼 : little cat goes fishing
+  小猫 !小貓 @xiǎomāo : kitten
+    猫 !貓 @māo : cat 
+  钓鱼 !釣魚 @diàoyú : to fish
+    钓 !釣 @diào : to fish
+    鱼 !魚 @yú : fish
+老猫和小猫一块儿在河边钓鱼。 : old cat and little cat were fishing together on the riverbank
+  河边 !河邊 @hébiān : riverside / river bank / waterfront
+    河 @hé : river <especially Yellow River or especially smaller rivers>
+一只蜻蜓飞来了。 : a dragonfly flew over
+  蜻蜓 @qīngtíng : dragonfly
+    蜻 @qīng : dragonfly #bound
+    蜓 @tíng : dragonfly #bound
+小猫看见了，放下钓鱼竿，就去捉蜻蜓。 : the little cat saw it, put down his fishing pole, and tried to grab the dragonfly
+  放下 @fàngxià : to put down / to lay down
+    放 @fàng : to release ; to put / to place
+  钓鱼竿 !釣魚竿 @diàoyúgān : fishing rod
+    竿 @gān : bamboo pole
+  捉 @zhuō : to grasp ; to catch
+蜻蜓飞走了，小猫没捉着，空着手回到河边来。 : the dragonfly flew away, and the little cat, unable to grab it, stopped trying and went back to fishing on the riverbank
+  空手 @kōngshǒu : to be empty-handied
+    空 @kōng : empty
+    手 @shǒu : hand
+  回到 @huídào : to return to
+小猫一看，老猫钓着了一条大鱼。 : as soon as little cat was back, old cat caught a big fish
+  著 @zháo : =particle <after verb to mark it "not done in vain", either successful or continuation>
+“真气人，我怎么一条小鱼也钓不着？” : how annoying, why is it that I haven't caught even one little fish?
+  真 @zhēn : true / genuine ; really / truly #intensifier
+  气人 !氣人 @qìrén : irritating
+    气 @氣 @qì : gas ; air ; anger ; to annoy
+  怎么 !怎麼 @zěnme : how
+    怎 @zěn : how
+老猫看了看小猫，说:  : old cat looked him over and said
+钓鱼就钓鱼，不要这么三心二意的。 : if you're fishing just fish, don't be in two minds about it
+  不要 @bùyào : don't 
+  这么 !這麼 @zhème : so / such #intensifier ; like this / thus
+  三心二意 @sānxīn'èryì : half-hearted
+    心 @xīn : heart
+    意 @yì : wish ; meaning
+一会儿捉蜻蜓，一会儿捉蝴蝶，怎么能钓着鱼呢？ : if you spend a while catching dragonflies, then you spend another while catching butterflies, how can you catch fish?
+  一会儿 !一會兒 @yīhuìr : a little while
+    会儿 !會兒  @huìr : a moment / a while 
+小猫听了老猫的话，就一心一意地钓鱼。 : little cat listened to old cat's words and began to fish intently
+  话 !話 @huà : words / talk
+  一心一意 @yīxīnyīyì : wholeheartedly
+蜻蜓又飞来了，蝴蝶又飞来了，小猫就象没看见一样。 : the dragonfly flew over gain, and the butterfly flew over also, but it was as if little cat didn't see them
+  X象Y一样Z : X is as Y as Z
+  象 @xiàng : elephant ; to resemble
+  一样 !一樣 @yīyàng : same
+    样 !樣 @yàng : appearance / shape
+不大一会儿，小猫也钓着了一条大鱼。 : not long after that, little cat caught a big fish
+  不(大)一会 @bù(dà)yīhuì : soon after
+```
+
+### The Little Elephant That Wanted to Fly  (Children's Story)
 
 ```text
 小象也要飞
@@ -163,9 +531,75 @@
 爸爸妈妈对小象说:“我们象的力气大，这是小鸟不能比的。”小象明白了。他用长鼻子一钩，大木头就搬走了。
 ```
 
-### Essays
+```aln
+小象也要飞 : the little elephant that wanted to fly
+小象生下来的第三天， : on the third day after he was born
+  下来 !下來 @xiàlái : to come down ; down <after verbs like English down>
+  第 @dì : =ordinal marker <makes a number into an ordinal, placed before the number, not after like English -th>
+跟妈妈来到小河边， : went with his mother to the banks of a stream
+  妈妈 !媽媽 @māma : mum / mom / mama
+    妈 !媽 @mā : mom / mum
+  来到 !來到 @láidào : to arrive
+  小河 @xiǎohé : brook / small river
+看见一只小鸟在天空飞来飞去。 : he saw a bird in the sky flying here and there
+  天空 @tiānkōng : sky
+小象想：“要是我也会飞，可以看到更多的东西，多好呀！” : little elephant said "if I could fly, I could see even more things, it would be great!"
+  要是 @yàoshi #colloquial : if
+  可以 @kěyǐ : can / may
+  看到 @kàndào : to catch sight of
+  更 @gèng : even more
+  呀 @ya : =particle <equivalent of 啊 after vowels>
+小象爬到树去学飞“哎哟”一声，摔了一个大跟头。 : in order to learn to fly, little elephant climbed a tree and, with a help of a "aiyo", fell heavily to the ground
+  爬 @pá : to climb
+  哎哟 !哎喲 @āiyō : aiyo <expresses suprise, pain, annoyance, regret, frustrutation, admiraiton. etc.>
+    哎 @āi : =interjection of surprise
+    哟 !喲 @yō : =interjection of suprise
+  一声 !一聲 @yīshēng : sound
+    声 !聲 @shēng : sound
+  摔 @shūai : to fall
+  跟头 !跟頭 @gēntou : fall
+蛇看见了说: : seeing this, the snake said
+  蛇 @shé : snake
+小象，我们有自己的本事。 : little elephant, we all have our own abilities.
+  自己 @zìjǐ : self / onself
+    自 @zì : self
+    己 @jǐ : self
+  本事 @běnshi : skill / ability
+    本 @běn : source / origin / root
+    事 @shì : thing / matter
+我不会飞，可是，我会在树上睡觉。 : I can't fly, but I can sleep in a tree
+  睡觉 !睡覺 @shuìjiào : to sleep / to go to bed
+    睡 @shuì : to sleep
+    觉 !覺 @jué : to feel
+狮子说: : lion said
+  狮 !獅 @shī : lion
+我也不会飞，可是，我能跳过宽宽的大河。 : I also can't fly, but I can jump across a wide river
+  跳过 !跳過 @tiàoguò : to jump over / to jump across
+    过 !過 @guò : to cross ; =particle <after a verb to indicates it occurred before: ever, already, etc.>
+  宽 !寬 @kuān : wide
+老虎说: : tiger said
+  老虎 @lǎohǔ : tiger
+    虎 @hǔ : tiger
+我不会飞，可是我会游泳！ : I can't fly, but I can swim!
+  游泳 @yóuyǒng : to swim
+    泳 @yǒng : to swim
+爸爸妈妈对小象说: : little elephant's father and mother said to him
+  爸爸 @bàba : dad / papa
+    爸 @bà : dad
+  爸爸妈妈 !爸爸媽媽 @bàbamāma : mum and dad / parents
+我们象的力气大，这是小鸟不能比的。 : we elephants have a great strength, incomparably greater than that little bird's
+  力气 !力氣 @lìqi : physical strength
+小象明白了 : little elephant understood
+  明白 @míngbai : to understand
+    明 @míng : bright ; =dynasty
+他用长鼻子一钩，大木头就搬走了。 : he used his long nose as a hook and moved a large branch
+  鼻子 @bízi : nose
+  钩 !鉤 /!鈎 @gōu : hook
+  搬 @bān : to move
+```
 
-#### Jiang Ping Going To Study Abroad
+
+### Jiang Ping Going To Study Abroad (Essay)
 
 ```text
 江苹去国外留学
@@ -185,7 +619,211 @@
 回家的路上， 我想， 我们常常说 “再见”， 但是， 有时候 “再见” 是很难的。 我和江苹什么时候能 “再见” 呢？
 ```
 
-#### Feeling Sick
+```aln
+江苹去国外留学。 : Jiang Ping is going to study abroad
+  江 @jiāng : river <especially the Yangtze> ; =surname
+  苹 @píng : =fname
+  去 @qù : to go to ; to leave
+  国外 !國外 @guówài : overseas / abroad
+    国 !國 @guó : country
+    外 @wài : outside
+  留学 !留學 @liúxué : to study abroad
+    留 @liú : to stay
+    学 !學 @xué : to learn
+今天我去江苹家了 : today I'm going to Jiang Ping's house
+  今天 @jīntiān : today
+    今 @jīn : now
+  我 @wǒ : I
+我和江苹是中学同学 : Jing Ping and I are highschool classmates
+  和 @hé : and ; harmonious ; to make peace
+  中学 !中學 @zhōngxué : secondary school / middle school <includes both junior high school and high school>
+    中 @zhōng : middle / center ; among
+  同学 !同學 @tóngxué : classmate ; =term of address for a student
+    同 @tóng : same / identical
+她是我的好朋友 : she's my good friend
+  她 @tā : she
+  好朋友 @hǎopéngyou : good friend / best friend
+    好 @hǎo : good
+    朋友 @péngyou : friend
+      朋 @péng : friend
+      友 @yǒu : friend
+也是我们全班同学的朋友 : she's also good friends with everyone in our class
+  也 @yě : also
+  全 @quán : whole
+  班 @bān : group / class <incl. class from school>
+她学习非常努力 : she studies very hard
+  学习 !學習 @xuéxí : to study
+    习 !習 @xí : to practice
+  努力 @nǔlì : hard-working ; to make an effort
+    努 @nǔ : to exert
+    力 @lì : physical strength ; force / power
+是我们班学习最好的学生 : she's the best student in our class
+  最好 @zuìhǎo : best
+    最 @zuì : most
+  学生 !學生 @xuéshēng : student
+    生 @shēng : to exist
+她会学习， 她会玩儿， 还常常帮助别人 : she studies, she plays and she also often helps others
+  会 !會 @huì : to be likely to ; to be able to <also used for languages>
+  玩儿 !玩兒 @wánr : to play
+    玩 @wán : to play
+    儿 !兒 @ér : =suffix <originally meant 'child/son', now often used as suffix for the erhua sound>
+  常常 @chángcháng : frequently / often
+  帮助 !幫助 @bāngzhù : to help
+    帮 !幫 @bāng : to help
+    助 @zhù : to help
+  别人 !別人 @biérén : other people / others
+    别 !別 @bié : to distinguish
+    人 @rén : person
+老师和同学都很喜欢她 : the teacher and the other students like her
+  老师 !老師 @lǎoshī : teacher
+    老 @lǎo : old
+    师 !師 @shī : leader ; teacher
+  都 @dōu : all / both <used when statement is true for every subject or the entirety of something>
+  很 @hěn : very <also often used to link subject to attribute adjectives, especially monosyllabic ones, in which case this has no literal meaning>
+  喜欢 !喜歡 @xǐhuan : to like / to be fond of
+    喜 @xǐ : to like / to be fond of
+    欢 !歡 @huān : happy
+她这次参加了美国一个大学考试。 : she recently participated in an examination for an American college
+  这次 !這次 @zhècì : this time
+    这 !這 @zhè : this 
+    次 @cì : time #counter <as in a number of times, frequency> ; order / sequence
+  参加 !參加 @cānjiā : to participate
+    参 !參 @cān : to take part
+    加 @jiā : to add
+  美国 !美國 @Měiguó : United States
+  个 !個 @gè : =generic_counter
+  大学 !大學 @dàxué : university / college
+    大 @dà : big / great / huge
+  考试 !考试 @kǎoshì : exam
+    考 @kǎo : to examine
+    试 !試 @shì : to test
+这个考试非常难，但是她考得很好，得了满分。 : that test is very hard, but she did very well, she earned full marks
+  难 !難 @nán : difficult / hard ; unpleasant
+  但是 @dànshì : but / however
+    但 @dàn : but / however
+  得 @de : =particle <after a verb, links verb to a complent of result>
+  满分 !滿分 @mǎnfēn : full marks
+    分 @fēn : point / mark <in education>
+听说全世界只有三个学生得满分。 : I heard that only three people in the whole world got full marks
+  听说 !聽說 @tīngshuō : to hear it said that
+    听 !聽 @tīng : to listen / to hear 
+  全世界 @quánshìjiè : the whole world ; worldwide
+    世界 @shìjiè : world
+      世 @shì : generation
+      界 @jiè : boundary
+  只有 /!衹有 @zhǐyǒu : only / merely / just
+    只 /!衹 @zhǐ : only / just / merely
+这个大学给江苹最高的奖学金。 : this college gave Jiang Ping their highest scholarship
+  奖学金 !獎學金 @jiǎngxuéjīn : scholarship
+    奖 !獎 @jiǎng : reward / prize
+    金 @jīn : metal ; gold
+我们都为她感到高兴。 : we're all very happy for her
+  为 !為 @wèi : for
+  感到 @gǎndào : to feel
+    到 @dào : to arrive ; =verbal_complement <indicates completion> ; to
+她下星期要去美国留学， 我们班的同学都去看她， 给他送行。 : next week she's going to study abroad in America, and all our classmates are going to see her off
+  下星期 @xiàxīngqī : next week
+    下 @xià : under ; next
+  星期 @xīngqī : week
+    星 @xīng : star
+    期 @qī : period of time
+  要 @yào : to want ; will / going to ; should / must / have to
+  看 @kàn : to look / to see / to watch ; to visit
+  送行 @sòngxíng [给 sb] : to see off
+    送 @xíng : to go
+江苹的家在城东边， 离我家比较远。 : Jiang Ping's house is on the east side of the city very far away from mine
+  城 @chéng : city / town ; area within city walls ; city walls
+  东边 !東邊 @dōngbiān : east
+    东 !東 @dōng : east
+    边 !邊 @biān : edge / side
+  离 !離 @lí : away from
+  比较 !比較 @bǐjiào : fairly / quite
+    比 @bǐ : to compare ; than <used in comparisons: X比Y ADJ means X is more ADJ than Y>
+    较 !較 @jiào : to compare ; than <used in comparsions: X較Y ADJ means X is more ADJ than Y>
+  远 !遠 @yuǎn : distant / remote / far
+我下午四点多就从家里出发了， 五点半才到。 : I left my house a little after four o'clock in the afternoon, and didn't get there until 5:30
+  下午 @xiàwǔ : afternoon
+    午 @wǔ : =seventh earthly branch
+  点 !點 @diǎn : o'clock
+  就 @jiù : just / precisely <for emphasis> ; then
+  从 !從 @cóng : from <a place or time>
+  家里 !家裡 @jiālǐ : home / in one's house
+  出发 !出發 @chūfā : to set off
+    出 @chū : to go out
+    发 !發 @fā : to issue
+  半 @bàn : half
+  才 @cái : only / merely / just
+我到的时候， 同学们都已经到了。 : when I arrived, the rest of our classmates were already there
+  时候 !時候 @shíhou : period of time
+    时 !時 @shí : season ; time <duration>
+    候 @hòu : to wait
+  已经 !已經 @yǐjīng : already
+    已 @yǐ : already
+    经 !經 @jīng : to go through
+江苹很热情地欢迎我们。 : Jiang Ping warmly welcomed us
+  热情 !熱情 @rèqíng : enthusiastic / warm
+    热 !熱 @rè : hot
+    情 @qíng : feeling
+  欢迎 !歡迎 @huānyíng : to welcome
+    迎 @yíng : to welcome
+同学们好久不见了， : she hadn't seen her classmates in a while
+  好久不见 !好久不見 : long time no see
+    好久 @hǎojiǔ : for a long time
+        久 @jiǔ : long <of time>
+    见 !見 @jiàn : to see
+见面以后高兴得又说又笑， 谈得很愉快。 : after she greeted us, we talked and smiled, chatting happily
+  见面 !見面 @jiànmiàn : to meet
+    面 @miàn : face ; surface
+  以后 !以後 @yǐhòu : afterwards
+    以 @yǐ : =preposition <expresses a boundary in time, orientation, etc.>
+    后 !後 @hòu : behind
+  笑 @xiào : to smile ; to laugh
+  谈 !談 @tán : to talk / to chat
+  愉快 @yúkuài : happy
+    愉 @yú : happy
+    快 @kuài : rapid / fast ; pleased / happy
+我们预祝江苹成功。 : we wished Jiang Piang success
+  预祝 !預祝 @yùzhù : to offer best wishes / to wish success
+    预 !預 @yù : beforehand / in advance
+    祝 @zhù : to offer good wishes
+  成功 @chénggōng : to succeed ; success
+    成 @chéng : to succeed
+    功 @gōng : merit
+祝她一路平安。 : wished her a pleasant trip
+  一路平安 @yīlùpíng'ān : have a good trip
+    一路 @yīlù : whole journey
+      路 @lù : road / path / journey
+    平安 @píng'ān : safe and sound
+      平 @píng : flat ; calm / peaceful
+      安 @ān : calm ; safe / secure
+我说， 一定要常来信啊。 江苹说，一定。 : I said, be sure to write often
+  一定 @yīdìng : definitely / surely
+    定 @dìng : stable
+  来信 !來信 @láixìn : to send a letter ; incoming letter
+    来 !來 @lái : to come
+    信 @xìn : letter <written message>
+  啊 @ā : =particle <usually sentence final for suprise, affirmation, etc.>
+江苹说，一定。 : Jing Piang said, of course
+跟她说 “再见” 的时候， 她哭了， 我也哭了。 : when she said "goodbye", she cried, and I also cried
+  跟 @gēn : with ; to follow <sometimes may seem to mean something like "after" or "when [clause]" when used as a preposition>
+  再见 !再見 @zàijiàn : goodbye
+    再 @zài : again
+  哭 @kū : to cry
+回家的路上， 我想， 我们常常说 “再见”，但是， 有时候 “再见” 是很难的。 : on my way home, I thought, we often say "goodbye" but sometimes "goodbye" is bad
+  回家 @huíjiā : to return home
+    回 @huí : to tur around ; to return
+  想 @xiǎng : to think ; to want
+  有时候 !有時候 @yǒushíhou : sometimes
+我和江苹什么时候能 “再见” 呢？ : when will Jiang Ping and I be able to see each other again?
+  什么时候 !什麼時候 @shénmehíhou : when
+    什么 !什麼/甚麼/什麽/甚麽 @shénme : what ; something ; anything <with a negative sentence?>
+      什 !/甚 @shén : =only used in shenme
+      么 !麼/麽 @me : =suffix <forms various pronouns and adverbs>
+  能 @néng : can / to be able to
+  呢 @ne : =particle <sentence final to indicate reciprocal question, or to make a question more indirect, like one is speaking to himself>
+```
+
+### Feeling Sick (Essay)
 
 ```text
 我病了
@@ -205,7 +843,132 @@
 我说，我在这儿生活得很好，我有很好的老师，还有很多好同学，好朋友，和他们在一起，我感到很愉快。
 ```
 
-#### Mr. Wang Works at the University
+```aln
+我病了。 : I'm sick
+  病 @bìng : ill / sick ; to fall ill / to be sick / to be ill
+头疼，发烧，嗓子也疼， : my head hurts, I have a fever, my throat also hurts
+  头疼 !頭疼 @tóuténg #colloquial : to have a headache
+    疼 @téng : painful / aching / sore <used after body parts to say '(body part) hurts'> 
+  发烧 !發燒 @fāshāo : to have a fever
+    烧 !燒 @shāo : to burn
+  嗓子 @sǎngzi : throat
+    嗓 @sǎng : throat
+不想吃东西， : I don't want to eat anything
+  吃 /!喫 @chī : to eat
+  东西 !東西 @dōngxi : thing / something
+    西 @xī : west
+晚上咳嗽的很厉害。 : at night I have a serious cough
+  晚上 @wǎnshang : evening ; night
+    晚 @wǎn : late ; evening ; night
+  咳嗽 @késou : to cough
+    咳 @ké : to cough
+    嗽 @sòu : to cough
+  厉害 !厲害 @lìhài : fierce <of wild animal, sb's temper, words, etc.> ; intense / serious <f illness, heat, cold, etc.> ; strict / stern / severe
+    厉 !厲 @hài : fierce / stern
+    害 @hài : to harm 
+上午同学们都去上课了， : in the morning my classmates all went to class
+  上午 @shàngwǔ : morning
+  上课 !上課 @shàngkè : to attend class <said of both students and teachers>
+    课 !課 @kè : lesson 
+我一个人在宿舍里， : I was the only one left in the dormitory
+  一个人 !一個人 @yīgèrén : alone
+  宿舍 @sùshè : dormitory
+    宿 @sù : to stay overnight
+    舍 @shè : lodging place
+感到很寂寞。 : I feel very lonely
+  寂寞 @jìmò : lonely
+    寂 @jì : lonely
+    寞 @mò : lonely
+寂寞了就容易想家。 : when you're lonely, it's easy to miss home
+  容易 @róngyì : easy
+    容 @róng : to hold
+    易 @yì : to change
+  想家 @xiǎngjiā : to be homesick / to miss home
+我家里人很多，有哥哥，姐姐，还有一个弟弟。 : I have a lot of family members, an older brother, older sister, and also a younger brother
+  家里人 !家裡人 @jiālǐrén : family member
+  很多 @hěnduō : many / much / a lot
+  哥哥 @gēge : elder brother / older brother
+    哥 @gē : elder brother / older brother
+  姐姐 @jiějie : elder sister / older sister
+    姐 @jiě : elder sister / older sister
+  还有 !還有 @háiyǒu : and / besides
+  弟弟 @dìdi : younger brother
+    弟 @dì : younger brother
+在家的时候，我们常一起玩儿。 : when I'm at home, we often play together
+  一起 @yīqǐ : together
+    起 @qǐ : to rise
+现在，我在北京学习汉语，寂寞的时候就常常想他们。 : right now, I'm in Beijing studying Chinese, and when I'm lonely I miss them
+  现在 !現在 @xiànzài : now
+    现 !現 @xiàn : present / current
+因为不舒服，所以我今天起得很晚。 : because I don't feel well, I got up late today
+  因为 !因為 @yīnwèi : because <sometimes starting a clause, which is often followed by another clause starting with 所以 "therefore">
+    因 @yīn : reason / cause
+  舒服 @shūfu : comfortable ; well <as in 'not well (sick)', when negated with 不>
+    舒 @shū : to relax 
+    服 @fú : clothes #bound
+  所以 @suǒyǐ : therefore
+    所 @suǒ : place / location #bound
+起了床就去医院了。 : when I got up, I went to the hospital
+  起床 @qǐchuáng : to get out of bed
+    床 /!牀 @chuáng : bed / couch
+  医院 !醫院 @yīyuàn : hospital
+    医 !醫 @yī : medicinal
+    院 @yuàn : courtyard / yard ; public building
+大夫给我检查了一下儿，说我感冒了。 : the doctor gave me a quick checkup and said I have a cold
+  大夫 @dàifu #colloquial : doctor
+    夫 @fū : husband ; man
+  检查 !檢查 @jiǎnchá : to examine <with 给 + sb for giving sb medical checkup>
+    检 !檢 @jiǎn : to examine
+    查 @chá : to examine
+  一下儿 !一下兒 @yīxiàr #erhua : give something a go <after verb>
+    一下 @yīxià : give something a go <after verb>
+  感冒 @gǎnmào : cold <illness> ; to catch a cold
+    冒 @mào : to cover #bound
+给我打了一针，还开了一些药。 : he gave me one shot and also prescribed some medicine
+  打针 !打針 @dǎzhēn : to give an injection
+    打 @dǎ : to hit <used as the first part of many verb object verbs>
+    针 !針 @zhēn : needle
+  一些 @yīxiē : some / a few
+    些 @xiē : some
+  药 !藥 @yào : medicine
+他说，吃了药病就好了。 : he said, take the medicine and you'll get better
+  吃药 !吃藥 @chīyào : to take medicine
+  好了 @hǎole : that will do
+老师和同学们知道我病了，都来看我。 : my teacher and classmates know I'm sick, so they all came to see me
+  知道 @zhīdao : to know
+    知 @zhī : to know
+    道 @dào : way / path / road
+林老师听说我不想吃东西，还做了一碗面条给我吃。 : teacher Lin heard that I didn't want to eat anything, so she made me a bowl of noodles
+  做 @zuò : to do ; to make
+  碗 @wǎn : bowl #counter
+  面条 !麵條 @miàntiáo : noodles
+    面 !麵/麪 @miàn : flour ; noodles
+    条 !條 @tiáo : strip / slip #counter <counter for long thin things inc. fish, rivers, etc.>
+吃了面条，身上出了很多汗， : after I ate the noodles, I began to pour sweat
+  身上 @shēnshàng : one's body
+    身 @shēn : body
+  出汗 @chūhàn : to sweat
+    汗 @hàn : sweat
+老师说，出了汗可能不发烧了。 : teacher said, if you sweat, maybe your fever will go away
+  可能 @kěnéng : maybe
+    可 @kě : can / may
+下午，果然不发烧了，喜庆也好了。 : in the afternoon, sure enough my fever was gone, and I was in a good mood
+  果然 @guǒrán : as expected / sure enough
+    然 @rán : thus #bound
+  喜庆 !喜慶 @xǐqìng : happy
+    庆 !慶 @qìng : to celebrate
+  用 @yòng : to use
+我用Ｅｍａｉｌ个我姐姐发了一封信。 : I emailed my older sister
+  封 @fēng : letter #counter
+我说，我在这儿生活得很好，我有很好的老师，还有很多好同学，好朋友， : I said, I have a very good life here, I have a good teacher and good classmates and good friends
+  这儿 !這兒 @zhèr : here
+  生活 @shēnghuó : life
+    活 @huó : to exist
+和他们在一起，我感到很愉快。 : and all together they make me very happy
+  在一起 @zàiyīqǐ : together
+```
+
+### Mr. Wang Works at the University (Essay)
 
 ```text
 王先生在大学工作
@@ -219,726 +982,52 @@
 现在他有五个男学生，八个女学生。
 ```
 
-## Lexicon
-
 ```aln
-
-# Duolingo
-  你好 @nǐhǎo : hello / hi
-
-# Little Bear Lived in a Mountain Cave
-  小熊一家住在山洞里。 : little bear lived in a mountain cave
-    小熊 @xiǎoxióng : little bear
-      小 @xiǎo : small / little
-      熊 @xióng : bear
-    一家 @yījiā : entire family
-      家 @jiā : home
-    住 @zhù : to live [in=在]
-    在 @zài : to be at/in ; at/in
-    山洞 @shāndòng : mountain cave
-      山 @shān : mountain
-      洞 @dòng : hole ; cave
-    里 !裡 @lǐ : in / inside #postpositional
-  熊爷爷对小熊说, : grandfather said to little bear
-    爷爷 !爺爺 @yéye #colloquial : paternal grandfather
-      爷 !爺 @yé : father #literary ; grandfather
-    对 !對 @duì : towards
-    说 !說 @shuō : to say
-  “你去造间木头房子住吧!” : "go and build a wooden house to live in!"
-    你 @nǐ : you
-    去 @qù : to go
-    造 @zào : to make ; to build
-    间 !間 @jiān : =counter <for small units of housing, more rarely, or in Cantonese, for all buildings>
-    木头 !木頭 @mùtou : wood / branch
-      木 @mù : tree ; wood 
-      头 !頭 @tóu : head
-    房子 @fángzi : house
-      房 @fáng : house
-      子 @zi : =suffix <common nominal suffix>
-    住 @zhù : to live / to dwell / to reside
-    吧 @ba : =particle <emphatic final particle>
-  春天，小熊走进树林。 : in spring, little bear went into the forest
-    春天 @chūntiān : spring
-      春 @chūn : spring
-      天 @tiān : sky
-    走进 !走進 @zǒujìn : to enter
-      走 @zǒu : to walk ; to go ; away <like English away after other verbs?>
-      进 !進 @jìn : to advance
-    树林 !樹林 @shùlín : woods / forest
-      树 !樹 @shù : to plant ; tree
-      林 @lín : forest
-  树上长满了绿叶， : the trees were full of green leaves
-    树 !樹 @shù : tree
-    上 @shàng : on #postposition
-    长 !長 @zhǎng : to grow ; long
-    满 !滿 @mǎn : full ; fully
-    了 @le : =particle <after a verb to make it perfective>
-    绿叶 !綠葉 @lǜyè : green leaf ; supporting role actor #figuratively
-      绿 !綠 @lǜ : green
-      叶 !葉 @yè : leaf
-  他舍不得砍。 : he couldn't bear to cut them down
-    他 @tā : he
-    舍不得 !捨不得 @shěbude : to be unwilling to
-      舍 !捨 @shě : to give up
-      不得 @bùdé : must not
-        不 @bù : not
-        得 @dé : to obtain
-    砍 @kǎn : to hack / to chop / to fell
-  夏天，小熊又走进了树林。 : in summer, little bear again went into the forest
-    夏天 @xiàtiān : summer
-      夏 @xià : summer
-    又 @yòu : again ; both ... and <又X又Y>
-  树上开满了鲜花， : the trees were full of fresh flowers
-    开 !開 @kāi : to start ; to bloom ; to write out <prescription, check, etc.>
-    鲜花 !鮮花 @xiānhuā : fresh flower
-      鲜 !鮮 @xiān : fresh
-      花 @huā : flower
-  秋天，小熊走进树林 : in autumn, little bear went into the forest
-    秋天 @qiūtiān : autumn / fall
-      秋 @qiū : fall / autumn
-  树上挂满了果实 : the trees were full of hanging fruit
-    挂 !掛 @guà : to hang
-    果实 !果實 @guǒshí : fruit
-      果 @guǒ : fruit
-      实 !實 @shí : full ; real / true
-  冬天，小熊走进了树林 : in winter, little bear went into the forest
-    冬天 @dōngtiān : winter
-      冬 @dōng : winter
-  树上站着许多小鸟 : many birds were living in the trees
-    站 @zhàn : to stand
-    着 !著 @zhe : =particle <after verb to mark continuous aspect>
-    许多 !許多 @xǔduō : many
-      许 !許 @xǔ : to allow
-      多 @duō : many ; more than / over <after an amount or time?> ; more ; so #intensifier <in exclamations>
-    小鸟 !小鳥 @xiǎoniǎo : small bird / little bird ; penis #childish
-      鸟 !鳥 @niǎo : bid
-  一年又一年, : years passed
-    年 @nián : year
-  小熊没有砍树造房子 : little bear still hadn't made a home out of the trees
-    没有 !沒有 @méiyǒu : to not have <either negating 'to have' or like English negative past tense>
-      没 !沒 @méi : to not have <either as in 'no X' or negative negator of the verb to have instead of bu>
-      有 @yǒu : to have ; there is
-    砍树 !砍樹 @kǎnshù : to chop down trees
-  还是高高兴兴地住在山洞里 : he was still living happily in his mountain cave
-    还是 !還是 @háishì : still
-      还 !還 @hái : still ; also / as well
-      是 @shì : to be
-    高高兴兴 !高高興興 @gāogāoxìngxìng <AABB reduplication of 高兴> : very happy
-      高兴 !高興 @gāoxìng : happy / glad
-        高 @gāo : tall ; high
-        兴 !興 @xìng : mood <in doing something>
-    地 @de : =particle <links adjective to a verb to make it an adverb, complement to the verb>
-  树林里的小动物非常感谢小熊 : the little forest animals thanked little bear very much
-    动物 !動物 @dòngwù : animal
-      动 !動 @dòng : to move
-      物 @wù : thing
-    非常感谢 !非常感謝 @fēichánggǎnxiè : extremely grateful ; to thank very much
-      非常 @fēicháng : extremely
-        非 @fēi : not
-        常 @cháng : often 
-      感谢 !感謝 @gǎnxiè : to thank ; to be grateful
-        感 @gǎn : to move <someone, emotionally>
-        谢 !謝 @xiè : to thank
-  他们送给小熊一束束美丽的鲜花 : they gave him a bunch of beautiful fresh flowers
-    们 !們 @men : =suffix <after pronouns to form plural versions (I to we, he to they, etc.)>
-    送 @sòng [给=to] : to give / to offer / to gift
-    给 !給 @gěi : to give ; to
-    束 @shù : bunch / bundle #counter
-    美丽 !美麗 @měilì : beautiful
-      美 @měi : beautiful
-      丽 !麗 @lì : beautiful 
-    的 @de : of / 's
-
-# Jiang Ping Going To Study Abroad
-  江苹去国外留学。 : Jiang Ping is going to study abroad
-    江 @jiāng : river <especially the Yangtze> ; =surname
-    苹 @píng : =fname
-    去 @qù : to go to ; to leave
-    国外 !國外 @guówài : overseas / abroad
-      国 !國 @guó : country
-      外 @wài : outside
-    留学 !留學 @liúxué : to study abroad
-      留 @liú : to stay
-      学 !學 @xué : to learn
-  今天我去江苹家了 : today I'm going to Jiang Ping's house
-    今天 @jīntiān : today
-      今 @jīn : now
-    我 @wǒ : I
-  我和江苹是中学同学 : Jing Ping and I are highschool classmates
-    和 @hé : and
-    中学 !中學 @zhōngxué : secondary school / middle school <includes both junior high school and high school>
-      中 @zhōng : middle / center ; among
-    同学 !同學 @tóngxué : classmate
-      同 @tóng : same / identical
-  她是我的好朋友 : she's my good friend
-    她 @tā : she
-    好朋友 @hǎopéngyou : good friend / best friend
-      好 @hǎo : good
-      朋友 @péngyou : friend
-        朋 @péng : friend
-        友 @yǒu : friend
-  也是我们全班同学的朋友 : she's also good friends with everyone in our class
-    也 @yě : also
-    全 @quán : whole
-    班 @bān : group / class <incl. class from school>
-  她学习非常努力 : she studies very hard
-    学习 !學習 @xuéxí : to study
-      习 !習 @xí : to practice
-    努力 @nǔlì : hard-working ; to make an effort
-      努 @nǔ : to exert
-      力 @lì : physical strength ; force / power
-  是我们班学习最好的学生 : she's the best student in our class
-    最好 @zuìhǎo : best
-      最 @zuì : most
-    学生 !學生 @xuéshēng : student
-      生 @shēng : to exist
-  她会学习， 她会玩儿， 还常常帮助别人 : she studies, she plays and she also often helps others
-    会 !會 @huì : to be likely to ; to be able to <also used for languages>
-    玩儿 !玩兒 @wánr : to play
-      玩 @wán : to play
-      儿 !兒 @ér : =suffix <originally meant 'child/son', now often used as suffix for the erhua sound>
-    常常 @chángcháng : frequently / often
-    帮助 !幫助 @bāngzhù : to help
-      帮 !幫 @bāng : to help
-      助 @zhù : to help
-    别人 !別人 @biérén : other people / others
-      别 !別 @bié : to distinguish
-      人 @rén : person
-  老师和同学都很喜欢她 : the teacher and the other students like her
-    老师 !老師 @lǎoshī : teacher
-      老 @lǎo : old
-      师 !師 @shī : leader ; teacher
-    都 @dōu : all / both <used when statement is true for every subject or the entirety of something>
-    很 @hěn : very <also often used to link subject to attribute adjectives, especially monosyllabic ones, in which case this has no literal meaning>
-    喜欢 !喜歡 @xǐhuan : to like / to be fond of
-      喜 @xǐ : to like / to be fond of
-      欢 !歡 @huān : happy
-  她这次参加了美国一个大学考试。 : she recently participated in an examination for an American college
-    这次 !這次 @zhècì : this time
-      这 !這 @zhè : this 
-      次 @cì : time #counter <as in a number of times, frequency> ; order / sequence
-    参加 !參加 @cānjiā : to participate
-      参 !參 @cān : to take part
-      加 @jiā : to add
-    美国 !美國 @Měiguó : United States
-    个 !個 @gè : =generic_counter
-    大学 !大學 @dàxué : university / college
-      大 @dà : big / great / huge
-    考试 !考试 @kǎoshì : exam
-      考 @kǎo : to examine
-      试 !試 @shì : to test
-  这个考试非常难，但是她考得很好，得了满分。 : that test is very hard, but she did very well, she earned full marks
-    难 !難 @nán : difficult / hard ; unpleasant
-    但是 @dànshì : but / however
-      但 @dàn : but / however
-    得 @de : =particle <after a verb, links verb to a complent of result>
-    满分 !滿分 @mǎnfēn : full marks
-      分 @fēn : point / mark <in education>
-  听说全世界只有三个学生得满分。 : I heard that only three people in the whole world got full marks
-    听说 !聽說 @tīngshuō : to hear it said that
-      听 !聽 @tīng : to listen / to hear 
-    全世界 @quánshìjiè : the whole world ; worldwide
-      世界 @shìjiè : world
-        世 @shì : generation
-        界 @jiè : boundary
-    只有 /!衹有 @zhǐyǒu : only / merely / just
-      只 /!衹 @zhǐ : only / just / merely
-  这个大学给江苹最高的奖学金。 : this college gave Jiang Ping their highest scholarship
-    奖学金 !獎學金 @jiǎngxuéjīn : scholarship
-      奖 !獎 @jiǎng : reward / prize
-      金 @jīn : metal ; gold
-  我们都为她感到高兴。 : we're all very happy for her
-    为 !為 @wèi : for
-    感到 @gǎndào : to feel
-      到 @dào : to arrive ; =verbal_complement <indicates completion> ; to
-  她下星期要去美国留学， 我们班的同学都去看她， 给他送行。 : next week she's going to study abroad in America, and all our classmates are going to see her off
-    下星期 @xiàxīngqī : next week
-      下 @xià : under ; next
-    星期 @xīngqī : week
-      星 @xīng : star
-      期 @qī : period of time
-    要 @yào : to want ; will / going to ; should / must / have to
-    看 @kàn : to look / to see / to watch ; to visit
-    送行 @sòngxíng [给 sb] : to see off
-      送 @xíng : to go
-  江苹的家在城东边， 离我家比较远。 : Jiang Ping's house is on the east side of the city very far away from mine
-    城 @chéng : city / town ; area within city walls ; city walls
-    东边 !東邊 @dōngbiān : east
-      东 !東 @dōng : east
-      边 !邊 @biān : edge / side
-    离 !離 @lí : away from
-    比较 !比較 @bǐjiào : fairly / quite
-      比 @bǐ : to compare ; than <used in comparisons: X比Y ADJ means X is more ADJ than Y>
-      较 !較 @jiào : to compare ; than <used in comparsions: X較Y ADJ means X is more ADJ than Y>
-    远 !遠 @yuǎn : distant / remote / far
-  我下午四点多就从家里出发了， 五点半才到。 : I left my house a little after four o'clock in the afternoon, and didn't get there until 5:30
-    下午 @xiàwǔ : afternoon
-      午 @wǔ : =seventh earthly branch
-    点 !點 @diǎn : o'clock
-    就 @jiù : just / precisely <for emphasis> ; then
-    从 !從 @cóng : from <a place or time>
-    家里 !家裡 @jiālǐ : home / in one's house
-    出发 !出發 @chūfā : to set off
-      出 @chū : to go out
-      发 !發 @fā : to issue
-    半 @bàn : half
-    才 @cái : only / merely / just
-  我到的时候， 同学们都已经到了。 : when I arrived, the rest of our classmates were already there
-    时候 !時候 @shíhou : period of time
-      时 !時 @shí : season ; time <duration>
-      候 @hòu : to wait
-    已经 !已經 @yǐjīng : already
-      已 @yǐ : already
-      经 !經 @jīng : to go through
-  江苹很热情地欢迎我们。 : Jiang Ping warmly welcomed us
-    热情 !熱情 @rèqíng : enthusiastic / warm
-      热 !熱 @rè : hot
-      情 @qíng : feeling
-    欢迎 !歡迎 @huānyíng : to welcome
-      迎 @yíng : to welcome
-  同学们好久不见了， : she hadn't seen her classmates in a while
-    好久不见 !好久不見 : long time no see
-      好久 @hǎojiǔ : for a long time
-        	久 @jiǔ : long <of time>
-      见 !見 @jiàn : to see
-  见面以后高兴得又说又笑， 谈得很愉快。 : after she greeted us, we talked and smiled, chatting happily
-    见面 !見面 @jiànmiàn : to meet
-      面 @miàn : face ; surface
-    以后 !以後 @yǐhòu : afterwards
-      以 @yǐ : =preposition <expresses a boundary in time, orientation, etc.>
-      后 !後 @hòu : behind
-    笑 @xiào : to smile ; to laugh
-    谈 !談 @tán : to talk / to chat
-    愉快 @yúkuài : happy
-      愉 @yú : happy
-      快 @kuài : rapid / fast ; pleased / happy
-  我们预祝江苹成功。 : we wished Jiang Piang success
-    预祝 !預祝 @yùzhù : to offer best wishes / to wish success
-      预 !預 @yù : beforehand / in advance
-      祝 @zhù : to offer good wishes
-    成功 @chénggōng : to succeed ; success
-      成 @chéng : to succeed
-      功 @gōng : merit
-  祝她一路平安。 : wished her a pleasant trip
-    一路平安 @yīlùpíng'ān : have a good trip
-      一路 @yīlù : whole journey
-        路 @lù : road / path / journey
-      平安 @píng'ān : safe and sound
-        平 @píng : flat ; calm / peaceful
-        安 @ān : calm ; safe / secure
-  我说， 一定要常来信啊。 江苹说，一定。 : I said, be sure to write often
-    一定 @yīdìng : definitely / surely
-      定 @dìng : stable
-    来信 !來信 @láixìn : to send a letter ; incoming letter
-      来 !來 @lái : to come
-      信 @xìn : letter <written message>
-    啊 @ā : =particle <usually sentence final for suprise, affirmation, etc.>
-  江苹说，一定。 : Jing Paid said, of course
-  跟她说 “再见” 的时候， 她哭了， 我也哭了。 : when she said "goodbye", she cried, and I also cried
-    跟 @gēn : with ; to follow <sometimes may seem to mean something like "after" or "when [clause]" when used as a preposition>
-    再见 !再見 @zàijiàn : goodbye
-      再 @zài : again
-    哭 @kū : to cry
-  回家的路上， 我想， 我们常常说 “再见”，但是， 有时候 “再见” 是很难的。 : on my way home, I thought, we often say "goodbye" but sometimes "goodbye" is bad
-    回家 @huíjiā : to return home
-      回 @huí : to tur around ; to return
-    想 @xiǎng : to think ; to want
-    有时候 !有時候 @yǒushíhou : sometimes
-  我和江苹什么时候能 “再见” 呢？ : when will Jiang Ping and I be able to see each other again?
-    什么时候 !什麼時候 @shénmehíhou : when
-      什么 !什麼/甚麼/什麽/甚麽 @shénme : what
-        什 !/甚 @shén : =only used in shenme
-        么 !麼/麽 @me : =suffix <forms various pronouns and adverbs>
-    能 @néng : can / to be able to
-    呢 @ne : =particle <sentence final to indicate reciprocal question, or to make a question more indirect, like one is speaking to himself>
-
-# Feeling Sick
-  我病了。 : I'm sick
-    病 @bìng : ill / sick ; to fall ill / to be sick / to be ill
-  头疼，发烧，嗓子也疼， : my head hurts, I have a fever, my throat also hurts
-    头疼 !頭疼 @tóuténg #colloquial : to have a headache
-      疼 @téng : painful / aching / sore <used after body parts to say '(body part) hurts'> 
-    发烧 !發燒 @fāshāo : to have a fever
-      烧 !燒 @shāo : to burn
-    嗓子 @sǎngzi : throat
-      嗓 @sǎng : throat
-  不想吃东西， : I don't want to eat anything
-    吃 /!喫 @chī : to eat
-    东西 !東西 @dōngxi : thing / something
-      西 @xī : west
-  晚上咳嗽的很厉害。 : at night I have a serious cough
-    晚上 @wǎnshang : evening ; night
-      晚 @wǎn : late ; evening ; night
-    咳嗽 @késou : to cough
-      咳 @ké : to cough
-      嗽 @sòu : to cough
-    厉害 !厲害 @lìhài : fierce <of wild animal, sb's temper, words, etc.> ; intense / serious <f illness, heat, cold, etc.> ; strict / stern / severe
-      厉 !厲 @hài : fierce / stern
-      害 @hài : to harm 
-  上午同学们都去上课了， : in the morning my classmates all went to class
-    上午 @shàngwǔ : morning
-    上课 !上課 @shàngkè : to attend class <said of both students and teachers>
-      课 !課 @kè : lesson 
-  我一个人在宿舍里， : I was the only one left in the dormitory
-    一个人 !一個人 @yīgèrén : alone
-    宿舍 @sùshè : dormitory
-      宿 @sù : to stay overnight
-      舍 @shè : lodging place
-  感到很寂寞。 : I feel very lonely
-    寂寞 @jìmò : lonely
-      寂 @jì : lonely
-      寞 @mò : lonely
-  寂寞了就容易想家。 : when you're lonely, it's easy to miss home
-    容易 @róngyì : easy
-      容 @róng : to hold
-      易 @yì : to change
-    想家 @xiǎngjiā : to be homesick / to miss home
-  我家里人很多，有哥哥，姐姐，还有一个弟弟。 : I have a lot of family members, an older brother, older sister, and also a younger brother
-    家里人 !家裡人 @jiālǐrén : family member
-    很多 @hěnduō : many / much / a lot
-    哥哥 @gēge : elder brother / older brother
-      哥 @gē : elder brother / older brother
-    姐姐 @jiějie : elder sister / older sister
-      姐 @jiě : elder sister / older sister
-    还有 !還有 @háiyǒu : and / besides
-    弟弟 @dìdi : younger brother
-      弟 @dì : younger brother
-  在家的时候，我们常一起玩儿。 : when I'm at home, we often play together
-    一起 @yīqǐ : together
-      起 @qǐ : to rise
-  现在，我在北京学习汉语，寂寞的时候就常常想他们。 : right now, I'm in Beijing studying Chinese, and when I'm lonely I miss them
-    现在 !現在 @xiànzài : now
-      现 !現 @xiàn : present / current
-  因为不舒服，所以我今天起得很晚。 : because I don't feel well, I got up late today
-    因为 !因為 @yīnwèi : because <sometimes starting a clause, which is often followed by another clause starting with 所以 "therefore">
-      因 @yīn : reason / cause
-    舒服 @shūfu : comfortable ; well <as in 'not well (sick)', when negated with 不>
-      舒 @shū : to relax 
-      服 @fú : clothes #bound
-    所以 @suǒyǐ : therefore
-      所 @suǒ : place / location #bound
-  起了床就去医院了。 : when I got up, I went to the hospital
-    起床 @qǐchuáng : to get out of bed
-      床 /!牀 @chuáng : bed / couch
-    医院 !醫院 @yīyuàn : hospital
-      医 !醫 @yī : medicinal
-      院 @yuàn : courtyard / yard ; public building
-  大夫给我检查了一下儿，说我感冒了。 : the doctor gave me a quick checkup and said I have a cold
-    大夫 @dàifu #colloquial : doctor
-      夫 @fū : husband ; man
-    检查 !檢查 @jiǎnchá : to examine <with 给 + sb for giving sb medical checkup>
-      检 !檢 @jiǎn : to examine
-      查 @chá : to examine
-    一下儿 !一下兒 @yīxiàr #erhua : give something a go <after verb>
-      一下 @yīxià : give something a go <after verb>
-    感冒 @gǎnmào : cold <illness> ; to catch a cold
-      冒 @mào : to cover #bound
-  给我打了一针，还开了一些药。 : he gave me one shot and also prescribed some medicine
-    打针 !打針 @dǎzhēn : to give an injection
-      打 @dǎ : to hit <used as the first part of many verb object verbs>
-      针 !針 @zhēn : needle
-    一些 @yīxiē : some / a few
-      些 @xiē : some
-    药 !藥 @yào : medicine
-  他说，吃了药病就好了。 : he said, take the medicine and you'll get better
-    吃药 !吃藥 @chīyào : to take medicine
-    好了 @hǎole : that will do
-  老师和同学们知道我病了，都来看我。 : my teacher and classmates know I'm sick, so they all came to see me
-    知道 @zhīdao : to know
-      知 @zhī : to know
-      道 @dào : way / path / road
-  林老师听说我不想吃东西，还做了一碗面条给我吃。 : teacher Lin heard that I didn't want to eat anything, so she made me a bowl of noodles
-    做 @zuò : to do ; to make
-    碗 @wǎn : bowl #counter
-    面条 !麵條 @miàntiáo : noodles
-      面 !麵/麪 @miàn : flour ; noodles
-      条 !條 @tiáo : strip / slip #counter <counter for long thin things inc. fish, rivers, etc.>
-  吃了面条，身上出了很多汗， : after I ate the noodles, I began to pour sweat
-    身上 @shēnshàng : one's body
-      身 @shēn : body
-    出汗 @chūhàn : to sweat
-      汗 @hàn : sweat
-  老师说，出了汗可能不发烧了。 : teacher said, if you sweat, maybe your fever will go away
-    可能 @kěnéng : maybe
-      可 @kě : can / may
-  下午，果然不发烧了，喜庆也好了。 : in the afternoon, sure enough my fever was gone, and I was in a good mood
-    果然 @guǒrán : as expected / sure enough
-      然 @rán : thus #bound
-    喜庆 !喜慶 @xǐqìng : happy
-      庆 !慶 @qìng : to celebrate
-    用 @yòng : to use
-  我用Ｅｍａｉｌ个我姐姐发了一封信。 : I emailed my older sister
-    封 @fēng : letter #counter
-  我说，我在这儿生活得很好，我有很好的老师，还有很多好同学，好朋友， : I said, I have a very good life here, I have a good teacher and good classmates and good friends
-    这儿 !這兒 @zhèr : here
-    生活 @shēnghuó : life
-      活 @huó : to exist
-  和他们在一起，我感到很愉快。 : and all together they make me very happy
-    在一起 @zàiyīqǐ : together
-
-# Three Good Friends
-  三个蝴蝶 : three butterflies
-    蝴蝶 @húdié : butterfly
-      蝴 @hú : =only used in hudie
-      蝶 @dié : butterfly
-  花园里有三只蝴蝶，一只是红色的，一只是黄色的，一只是白色的。三 : in the garden there were three butterflies, a red one, a yellow one and a white one
-    花园 !花園 @huāyuán : garden
-      园 !園 @yuán : garden #literary
-    只 !隻 @zhī : =counter <for certain animals like cats, pigs, birds>
-    红色 !紅色 @hóngsè : red
-      红 !紅 @hóng : red
-      色 @sè : color
-    黄色 !黃色 @huángsè : yellow ; pornographic
-      黄 !黃 @huáng : yellow
-    白色 @báisè : white
-      白 @bái : white
-  三个好朋友天天都在一起玩，可好了。 : everyday the three good friends played together, it was great
-    天天 @tiāntiān : everyday / every day
-    可好了 @kěhǎole : great <seems to be a sentence final phrase somewhat like "great" in English "alright, great">
-  一天，他们正玩得，天突然下起了雨。 : one day just as they were playing, it suddenly began to rain
-    一天 @yītiān : one day <either literally or as in 'someday, X happens'>
-    正 @zhèng : in the process of
-    突然 @tūrán : sudden
-      突 @tū : to dash forward
-    起雨 @qǐyǔ #literary : to rain
-      雨 @yǔ : rain
-  三只蝴蝶的翅膀都被雨打湿了， : the three butterflies' wings were drenched by the rain
-    翅膀 @chìbǎng : wing
-      翅 @chì : wing
-      膀 @bǎng : upper arm ; wing
-    被 @bèi : by <introduces the agent of the action>
-    湿 !濕 !/溼 @shī : wet
-  浑身冻得发抖。 : their whole bodies were trembling with cold 
-    浑身 !渾身 @húnshēn : whole body
-      浑 !渾 @hún : muddy
-    冻 !凍 @dòng : cold ; to freeze
-    发抖 !發抖 @fādǒu : to shake
-      抖 @dǒu : to shake
-  三只小蝴蝶一起飞到红花那里，对红花说 : the three butterflies flew together to a red flower, and said to it
-    飞 !飛 @fēi : to fly
-    那里 !那裡 @nàlǐ : there
-      那 @nà : that
-  “红花姐姐，让我们飞到你的叶子下面躲躲雨吧！” : "big sister red flower, let us hide from the ride under your leaves"
-    让 !讓  @ràng : to allow
-    叶子 !葉子 @yèzi : leaf
-    下面 @xiàmiàn : below
-    躲 @duǒ : to hide
-  红花说: “红蝴蝶进来吧，其他的快飞开！” : the red flower said "the red butterfly can come in, but the others must leave"
-    其他 @qítā : other
-      其 @qí : his
-  三个好朋友一齐摇摇头 : the three good friends shook their heads together
-    一齐 !一齊 @yīqí : all at the same time
-      齐 !齊 @qí : uniform
-    摇头 !搖頭 @yáotóu : to shake one's head <signal disagreement>
-      摇 !搖 @yáo : to shake ; to wave
-  “我们是好朋友，一块儿来，也一块儿走。” : "we're good friends, we came together, and we'll leave together"
-    一块儿 !一塊兒 @yīkuàir : together
-      一块 !一塊 @yīkuài : together
-        块 !塊 @kuài : piece
-  然后 !然後 @ránhòu : then / after that
-  可是 @kěshì : however
-  这时，太阳公公看见了， : at this time, Old Man Sun saw what was happening
-    这时 !這時 @zhèshí : at this time
-    太阳 !太陽 @tàiyáng : Sun
-      太 @tài : too <before adj>
-      阳 !陽 @yáng : sun
-    公公 @gōnggong <after noun or name> : father-in-law ; grandfather #dialectal ; old man
-      公 @gōng : fair
-    看见 !看見 @kànjiàn : to see
-  赶忙把乌云赶走， : he hurriedly chased the black clouds away
-    赶忙 !趕忙 @gǎnmáng : hastily / hurriedly
-      赶 !趕 @gǎn : to overtake
-      忙 @máng : busy
-    把 @bǎ : =particle <used before a direct object to change usual SVO>
-    乌云 !烏雲 @wūyún : dark cloud
-      乌 !烏 @wū : crow / raven ; black / dark #bound
-      云 !雲 @yún : cloud
-    赶走 !趕走 @gǎnzǒu : to drive away / to chase away
-  叫雨停下。 : made the rain stop
-    叫 @jiào : to call ; to be called ; to order <ditransitive with another verb>
-    停下 @tíngxià : to stop <cause something to cease moving>
-      停 @tíng : to stop ; to park
-  天终于晴了， : the sky was finally clear
-    终于 !終於 @zhōngyú : at last / finally
-      终 !終 @zhōng : end #bound
-      于 !於 @yú : in / at / on
-    晴 @qíng : clear <of weather>
-  这三个好朋友又一起在花丛中跳舞玩游戏了。 : the three friends went to play and dance among the flowers again
-    花丛 !花叢 @huācóng : cluster of flowers / flowering shrub
-      丛 !叢 @cóng : to collect
-    跳舞 @tiàowǔ : to dnace
-      跳 @tiào : to jump
-      舞 @wǔ : dance
-    游戏 !遊戲 @yóuxì : game
-      游 !遊 @yóu : to travel
-      戏 !戲 @xì : to play
-
-# Mr. Wang Works at the University
-  王先生在大学工作 : Mr Wang works at the univeristy
-    王 @wáng : king ; =surname
-    先生 @xiānshēng : mister / sir / gentlemen <used after noun/name, this literally roughly means 'one who was born earlier'>
-      先 @xiān : first / ahead of time
-    工作 @gōngzuò : to work 
-      工 @gōng : work
-      作 @zuò : to work
-  王先生是北大的老教师， : Mr Wang is an old teacher at Beijing University
-    北大 !Běidà : Peking University
-    教师 !教師 @jiàoshī : teacher
-      教 /!敎 @jiào : to teach
-  一九三八年五月二十四号出生， : he was born May 24 1938
-    五月 @wǔyuè : May
-      月 @yuè : moon ; month
-    号 !號 @hào : name ; number ; day of the month
-    出生 @chūshēng : to be born
-  今年五十八岁。 : he's 58 this year
-    今年 @jīnnián : this year
-    岁 !歲 @suì : Jupiter #literary ; year ; year old <after a number or 几, no need for copular verb to link to subject>
-  今天是他的生日。 : today is his birthday
-    生日 @shēngrì : birthday
-      日 @rì : Sun ; day
-  他是一位非常有经验的法语老师。 : he's a French teacher with a lot of experience
-    位 @wèi : person #counter #polite
-    经验 !經驗 @jīngyàn : experience
-      验 !驗 @yàn : to test
-  这个学期他教大三的学生现代法语语法。 : this semester he's teaching modern French grammar to 3rd year students
-    学期 !學期 @xuéqī : semester / school term
-    大三 @dàsān : third year of university ; third year student
-    现代 !現代 @xiàndài : modern
-      代 @dài : to replace
-    语法 !語法 @yǔfǎ : grammar
-  王先生的一位老朋友是老年大学的老师， : one of Mr Wang's friends is an old university teacher
-    老年 @lǎonián : old / old age
-  他经常在这个大学教日语。 : he often teaches Japanese at this university
-    经常 !經常 @jīngcháng : often
-  他的一个学生在师大工作。 : one of his students works at a normal university
-    师大 !師大 @shīdà : normal university <short for 师范大学, school to train teachers>
-      师范 !師範 @shīfàn : model worthy of study #literary ; normal school
-        范 !範 @fàn : model / pattern
-  他有汉语书，法语书和日语书。 : he has Chinese, French and Japanese books
-    书 !書 @shū : book
-  他天天教留学生现代汉语。 : every day he teaches foreign students modern Chinese
-    留学生 !留學生 @liúxuéshēng : international student
-  现在他有五个男学生，八个女学生。 : right now he has 5 male students and 8 female students
-    男 @nán : man ; male
-    女 @nǚ : woman ; female
-
-# Cat Goes Fishing
-  小猫钓鱼 : little cat goes fishing
-    小猫 !小貓 @xiǎomāo : kitten
-      猫 !貓 @māo : cat 
-    钓鱼 !釣魚 @diàoyú : to fish
-      钓 !釣 @diào : to fish
-      鱼 !魚 @yú : fish
-  老猫和小猫一块儿在河边钓鱼。 : old cat and little cat were fishing together on the riverbank
-    河边 !河邊 @hébiān : riverside / river bank / waterfront
-      河 @hé : river <especially Yellow River or especially smaller rivers>
-  一只蜻蜓飞来了。 : a dragonfly flew over
-    蜻蜓 @qīngtíng : dragonfly
-      蜻 @qīng : dragonfly #bound
-      蜓 @tíng : dragonfly #bound
-  小猫看见了，放下钓鱼竿，就去捉蜻蜓。 : the little cat saw it, put down his fishing pole, and tried to grab the dragonfly
-    放下 @fàngxià : to put down / to lay down
-      放 @fàng : to release ; to put / to place
-    钓鱼竿 !釣魚竿 @diàoyúgān : fishing rod
-      竿 @gān : bamboo pole
-    捉 @zhuō : to grasp ; to catch
-  蜻蜓飞走了，小猫没捉着，空着手回到河边来。 : the dragonfly flew away, and the little cat, unable to grab it, stopped trying and went back to fishing on the riverbank
-    空手 @kōngshǒu : to be empty-handied
-      空 @kōng : empty
-      手 @shǒu : hand
-    回到 @huídào : to return to
-  小猫一看，老猫钓着了一条大鱼。 : as soon as little cat was back, old cat caught a big fish
-    著 @zháo : =particle <after verb to mark it "not done in vain", either successful or continuation>
-  “真气人，我怎么一条小鱼也钓不着？” : how annoying, why is it that I haven't caught even one little fish?
-    真 @zhēn : true / genuine ; really / truly #intensifier
-    气人 !氣人 @qìrén : irritating
-      气 @氣 @qì : gas ; air ; anger ; to annoy
-    怎么 !怎麼 @zěnme : how
-      怎 @zěn : how
-  老猫看了看小猫，说:  : old cat looked him over and said
-  钓鱼就钓鱼，不要这么三心二意的。 : if you're fishing just fish, don't be in two minds about it
-    不要 @bùyào : don't 
-    这么 !這麼 @zhème : so / such #intensifier ; like this / thus
-    三心二意 @sānxīn'èryì : half-hearted
-      心 @xīn : heart
-      意 @yì : wish ; meaning
-  一会儿捉蜻蜓，一会儿捉蝴蝶，怎么能钓着鱼呢？ : if you spend a while catching dragonflies, then you spend another while catching butterflies, how can you catch fish?
-    一会儿 !一會兒 @yīhuìr : a little while
-      会儿 !會兒  @huìr : a moment / a while 
-  小猫听了老猫的话，就一心一意地钓鱼。 : little cat listened to old cat's words and began to fish intently
-    话 !話 @huà : words / talk
-    一心一意 @yīxīnyīyì : wholeheartedly
-  蜻蜓又飞来了，蝴蝶又飞来了，小猫就象没看见一样。 : the dragonfly flew over gain, and the butterfly flew over also, but it was as if little cat didn't see them
-    X象Y一样Z : X is as Y as Z
-    象 @xiàng : elephant ; to resemble
-    一样 !一樣 @yīyàng : same
-      样 !樣 @yàng : appearance / shape
-  不大一会儿，小猫也钓着了一条大鱼。 : not long after that, little cat caught a big fish
-    不(大)一会 @bù(dà)yīhuì : soon after
-
-# The Little Elephant That Wanted to Fly
-  小象也要飞 : the little elephant that wanted to fly
-  小象生下来的第三天， : on the third day after he was born
-    下来 !下來 @xiàlái : to come down ; down <after verbs like English down>
-    第 @dì : =ordinal marker <makes a number into an ordinal, placed before the number, not after like English -th>
-  跟妈妈来到小河边， : went with his mother to the banks of a stream
-    妈妈 !媽媽 @māma : mum / mom / mama
-      妈 !媽 @mā : mom / mum
-    来到 !來到 @láidào : to arrive
-    小河 @xiǎohé : brook / small river
-  看见一只小鸟在天空飞来飞去。 : he saw a bird in the sky flying here and there
-    天空 @tiānkōng : sky
-  小象想：“要是我也会飞，可以看到更多的东西，多好呀！” : little elephant said "if I could fly, I could see even more things, it would be great!"
-    要是 @yàoshi #colloquial : if
-    可以 @kěyǐ : can / may
-    看到 @kàndào : to catch sight of
-    更 @gèng : even more
-    呀 @ya : =particle <equivalent of 啊 after vowels>
-  小象爬到树去学飞“哎哟”一声，摔了一个大跟头。 : in order to learn to fly, little elephant climbed a tree and, with a help of a "aiyo", fell heavily to the ground
-    爬 @pá : to climb
-    哎哟 !哎喲 @āiyō : aiyo <expresses suprise, pain, annoyance, regret, frustrutation, admiraiton. etc.>
-      哎 @āi : =interjection of surprise
-      哟 !喲 @yō : =interjection of suprise
-    一声 !一聲 @yīshēng : sound
-      声 !聲 @shēng : sound
-    摔 @shūai : to fall
-    跟头 !跟頭 @gēntou : fall
-  蛇看见了说: : seeing this, the snake said
-    蛇 @shé : snake
-  小象，我们有自己的本事。 : little elephant, we all have our own abilities.
-    自己 @zìjǐ : self / onself
-      自 @zì : self
-      己 @jǐ : self
-    本事 @běnshi : skill / ability
-      本 @běn : source / origin / root
-      事 @shì : thing / matter
-  我不会飞，可是，我会在树上睡觉。 : I can't fly, but I can sleep in a tree
-    睡觉 !睡覺 @shuìjiào : to sleep / to go to bed
-      睡 @shuì : to sleep
-      觉 !覺 @jué : to feel
-  狮子说: : lion said
-    狮 !獅 @shī : lion
-  我也不会飞，可是，我能跳过宽宽的大河。 : I also can't fly, but I can jump across a wide river
-    跳过 !跳過 @tiàoguò : to jump over / to jump across
-      过 !過 @guò : to cross ; =particle <after a verb to indicates it occurred before: ever, already, etc.>
-    宽 !寬 @kuān : wide
-  老虎说: : tiger said
-    老虎 @lǎohǔ : tiger
-      虎 @hǔ : tiger
-  我不会飞，可是我会游泳！ : I can't fly, but I can swim!
-    游泳 @yóuyǒng : to swim
-      泳 @yǒng : to swim
-  爸爸妈妈对小象说: : little elephant's father and mother said to him
-    爸爸 @bàba : dad / papa
-      爸 @bà : dad
-    爸爸妈妈 !爸爸媽媽 @bàbamāma : mum and dad / parents
-  我们象的力气大，这是小鸟不能比的。 : we elephants have a great strength, incomparably greater than that little bird's
-    力气 !力氣 @lìqi : physical strength
-  小象明白了 : little elephant understood
-    明白 @míngbai : to understand
-      明 @míng : bright ; =dynasty
-  他用长鼻子一钩，大木头就搬走了。 : he used his long nose as a hook and moved a large branch
-    鼻子 @bízi : nose
-    钩 !鉤 /!鈎 @gōu : hook
-    搬 @bān : to move
+王先生在大学工作 : Mr Wang works at the univeristy
+  王 @wáng : king ; =surname
+  先生 @xiānshēng : mister / sir / gentlemen <used after noun/name, this literally roughly means 'one who was born earlier'>
+    先 @xiān : first / ahead of time
+  工作 @gōngzuò : to work 
+    工 @gōng : work
+    作 @zuò : to work
+王先生是北大的老教师， : Mr Wang is an old teacher at Beijing University
+  北大 !Běidà : Peking University
+  教师 !教師 @jiàoshī : teacher
+    教 /!敎 @jiào : to teach
+一九三八年五月二十四号出生， : he was born May 24 1938
+  五月 @wǔyuè : May
+    月 @yuè : moon ; month
+  号 !號 @hào : name ; number ; day of the month
+  出生 @chūshēng : to be born
+今年五十八岁。 : he's 58 this year
+  今年 @jīnnián : this year
+  岁 !歲 @suì : Jupiter #literary ; year ; year old <after a number or 几, no need for copular verb to link to subject>
+今天是他的生日。 : today is his birthday
+  生日 @shēngrì : birthday
+    日 @rì : Sun ; day
+他是一位非常有经验的法语老师。 : he's a French teacher with a lot of experience
+  位 @wèi : person #counter #polite
+  经验 !經驗 @jīngyàn : experience
+    验 !驗 @yàn : to test
+这个学期他教大三的学生现代法语语法。 : this semester he's teaching modern French grammar to 3rd year students
+  学期 !學期 @xuéqī : semester / school term
+  大三 @dàsān : third year of university ; third year student
+  现代 !現代 @xiàndài : modern
+    代 @dài : to replace
+  语法 !語法 @yǔfǎ : grammar
+王先生的一位老朋友是老年大学的老师， : one of Mr Wang's friends is an old university teacher
+  老年 @lǎonián : old / old age
+他经常在这个大学教日语。 : he often teaches Japanese at this university
+  经常 !經常 @jīngcháng : often
+他的一个学生在师大工作。 : one of his students works at a normal university
+  师大 !師大 @shīdà : normal university <short for 师范大学, school to train teachers>
+    师范 !師範 @shīfàn : model worthy of study #literary ; normal school
+      范 !範 @fàn : model / pattern
+他有汉语书，法语书和日语书。 : he has Chinese, French and Japanese books
+  书 !書 @shū : book
+他天天教留学生现代汉语。 : every day he teaches foreign students modern Chinese
+  留学生 !留學生 @liúxuéshēng : international student
+现在他有五个男学生，八个女学生。 : right now he has 5 male students and 8 female students
+  男 @nán : man ; male
+  女 @nǚ : woman ; female
 ```
