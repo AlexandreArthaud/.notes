@@ -2,9 +2,9 @@
 
 ## Beginner Texts by Length
 
-[DONE] Ode to Gees (26 characters)
-[DONE] Quiet Night Thought (37 charactters)
-Desert: 62
+[DONE] Ode to Gees [UNREVIEWED]
+[DONE] Quiet Night Thought [UNREVIEWED]
+[DONE] Desert
 Dewdrops: 75
 Father and Son: 103
 Our Family's Jump Rope Contest: 117
