@@ -2918,9 +2918,11 @@
   小心 @xiǎoxīn : to be careful of
   马路 !馬路 @mǎlù : road <wide and flat road for vehicles>
 
-密码
-信号
-参观
+密码 !密碼 @mìmǎ : password
+  密 @mì : secret
+信号 !信號 @xìnhào : signal
+参观 !參觀 @cānguān : to visit 
+  观 !觀 @guān : to observe
 ```
 
 #### Unit 313
