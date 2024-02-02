@@ -45,6 +45,7 @@
 百 @bǎi : hundred / 100
 千 @qiān : thousand / 1000
 万 !萬 @wàn : ten thousand / 10000
+百万 !百萬 @bǎiwàn : million / 1000000
 亿 !億 @yì : hundred million
 元 @yuán : yuan #counter
 妈 !媽 @mā : mom
@@ -177,7 +178,7 @@
       号 !號 @hào : name ; number ; day of the month
       码 !碼 @mǎ : number
   多少 @duōshao : how many / how much
-    多 @duō : many
+    多 @duō : many ; more
     少 @shǎo : few
 我的电话号码是二三四一。 : my phone number is 2341
 他的电话号码是八七六五吗？ : is his phone number 8765?
@@ -485,7 +486,7 @@
   现在 !現在 @xiànzài : now
     现 !現 @xiàn : present / current
   几点 !幾點 @jǐdiǎn : what time
-    点 !點 @diǎn : dot ; o'clock <after time> ; to order <food>
+    点 !點 @diǎn : dot ; o'clock <after time> ; to order <food> ; to click
 现在一点。 : it's one o'clock now
 二〇一一年十一月三十号 : November 30, 2011
   年 @nián : year
@@ -849,7 +850,7 @@
 
 ```aln
 你在找什么？ : what are you looking for?
-  找 @zhǎo : to look for
+  找 @zhǎo : to look for ; to find
 我在找我的手机。 : I'm looking for my cell phones
 你的手机在桌子上。 : your cell phone is on the table
   桌子 @zhuōzi : table / desk
@@ -875,7 +876,7 @@
   一下 @yīxià : a short while ; give something a go <as in 'take a look, try smelling it, etc.', after a verb>
 请看一下菜单。 : please take a look at the menu
   菜单 !菜單 @càidān : menu <dishes>
-    菜 @cài : dish ; cuisine ; vegetable
+    菜 @cài : dish ; cuisine ; vegetable ; below average #colloquial
     单 !單 @dān : list
 你们有英文菜单吗？ : do you have an English menu?
   英文 @yīngwén : English language <usually written>
@@ -1450,7 +1451,6 @@
     回 @huí : to turn around ; to go back / to return
 这是我的错。 : this is my fault
 
-时间 !時間 @shíjiān : time
 ```
 
 #### Unit 214
@@ -1518,6 +1518,7 @@
 我们请你吧！ : let us treat you!
 我的爸爸的公司在加拿大。 : my dad's company is in Canada
   公司 @gōngsī : company / firm
+    司 @sī : to manage
 我觉得那里的咖啡最好喝。 : I think the cofee there is the tastiest
   好喝 @hǎohē : tasty <of drinks>
 希望我们很快可以再见。 : hope we can see each other soon
@@ -1602,9 +1603,6 @@
 我的手和脚都很疼。 : my hands and feet both hurt a lot
   脚 !腳 @jiǎo : foot
 
-嘴巴 @zuǐba : mouth
-  嘴 @zuǐ : mouth
-  巴 @bā : =suffix <nominalizer suffix for some nouns located below, behind or clumped together>
 ```
 
 #### Unit 216
@@ -2109,7 +2107,7 @@
 他吃完饭会马上刷牙。 : after he finishes eating, he'll brush his teeth at once
   马上 !馬上 @mǎshàng : at once / immediately ; on horseback #literal
   刷牙 @shuāyá #vo : to brush one's teeth
-    刷 @shuā : brush ; to brush
+    刷 @shuā : brush ; to brush ; to browse through / to scroll through #Internet
 我喜欢一边洗澡，一边唱歌。​ : I like to sing and shower at the same time
   一边 !一邊 @yībiān : at the same time
 她一边跑步，一边听音乐。​ : she runs and listens to music at the same time
@@ -2457,7 +2455,7 @@
     留 @liú : to leave behind
 你们周末打算做什么？ : what are you all planning to do on the weekend?
   打算 @dǎsuàn : to plan
-    	算 @suàn : to plan
+    	算 @suàn : to plan ; to calculate
 你愿意跟我结婚吗？ : will you marry me?
   愿意 !願意 @yuànyì : to be willing
     愿 !願 @yuàn : to wish
@@ -2917,15 +2915,441 @@
 小心过马路！ : be careful when you cross the road
   小心 @xiǎoxīn : to be careful of
   马路 !馬路 @mǎlù : road <wide and flat road for vehicles>
+请你拿出地图来。 : please take out the map
+别在这里过马路。 : don't cross the road here
+司机明天早上几点来接我？ : what time will the driver come pick me up tomorrow morning?
+  司机 !司機 @sījī : driver
+表演几点开始？ : what time does the performance start?
+  表演 @biǎoyǎn : to perform ; performance
+    	演 @yǎn : to develop
+你要先登录。 : you have to log in first
+  登录 !登錄 @dēnglù : to register ; to log in #computing
+    登 @dēng : to ascend
+    录 !錄/録 @lù : to write down
+我这段时间很忙。 : I'm busy these days
+  段 @duàn : segment #counter <counter for distance, periods of time, speeches, or in general a segment of something that is long>
+  时间 !時間 @shíjiān : time
+我们会带你去有名的地方观光。 : we'll take you sightseeing to famous places
+  观光 !觀光 @guānguāng : to sightsee
+    观 !觀 @guān : to observe
+    光 @guāng : light / beam / ray  ; bright
+街道上没有很多人。 : there aren't many people on the street
+  街道 @jiēdào : street
+    街 @jiē : street
+其实，我不爱你了。 : actually, I don't love you anymore
 
 密码 !密碼 @mìmǎ : password
   密 @mì : secret
 信号 !信號 @xìnhào : signal
 参观 !參觀 @cānguān : to visit 
-  观 !觀 @guān : to observe
+博物馆 !博物館 @bówùguǎn : museum
+  博物 @bówù : all living things #literary ; natural science #dated
+    博 @bó : abundant
 ```
 
 #### Unit 313
+
+- **Vocabulary**: talk about performance, discuss festivals
+- **Culture**: the two most important holidays in China are the **Mid-Autumn Festival** (中秋节),
+  during which the moon is said to be fullest, and where people enjoy mooncakes (月饼), and the
+  **Dragon Boat Festival** (端午节), where people eat sticky rice dumplings (粽子) and watch dragon
+  boat races (龙舟比赛)
+
+```aln
+我升职了！ : I got promoted!
+  升职 !升職 @shēngzhí #vo : to promote
+    升 @shēng : to raise
+    职 !職 @zhí : duty
+是啊，经理很满意你的工作。 : yes, the manager is happy with your work
+  满意 !滿意 @mǎnyì : to be satisfied
+你认为她的表现怎么样？ : what do you think of her performance?
+  认为 !認為 @rènwéi : to think / to believe
+  表现 !表現 @biǎoxiàn : performance <at work,school,etc.>
+她会跟同事一起做这个决定。 : she'll make this decision with colleagues
+  决定 !決定 @juédìng : to decide ; decision
+  做决定 : to make a decision
+你什么时候要出差？ : when is your business trip?
+  出差 @chūchāi #vo : to go on a business trip
+    差 @chāi : to dispatch
+你的面试是几点？ : what time is your interview?
+  面试 !面試 @miànshì : to have an interview
+中秋节晚上你们会做什么？ : what will you do on the evening of the Mid-Autumn Festival?
+  中秋节 !中秋節 @zhōngqiūjié : Mid-Autumn Festival
+    中秋 @zhōngqiū : mid-autumn
+月亮很圆，月饼很甜。 : the moon is round, the mooncake is sweet
+  月亮 @yuèliang : moon
+  圆 !圓 @yuán : round
+  月饼 !月餅 @yuèbǐng : mooncake
+    饼 !餅 @bǐng : pastry
+谢谢你的红包。 : thank you for your red envelope
+  红包 !紅包 @hóngbāo : red envelope <monetary gift given on holidays>
+昨天我去了公司的春节聚会。 : I went to the company's Chinese New Year party yesterday
+  聚会 !聚會 @jùhuì : to gather together ; party
+    聚 @jù : to gather
+端午节是我最爱的节日。 : Dragon Boat Festival is my favorite festival
+  端午节 !端午節 @Duānwǔjié : Dragon Boat Festival
+    端午 @Duānwǔ : Dragon Boat Festival ~节
+      端 @duān : beginning
+我明年会参加划龙舟比赛。 : I'll take part in the dragon boat competition next year
+  划 @huá : to row
+  龙舟 !龍舟 @lóngzhōu : dragon boat <type of boat with a dragon motif, twenty men on board paddling, one drumming and one steering (the sweep)>
+    龙 !龍 @lóng : dragon
+    舟 @zhōu #literary : boat
+  龙舟比赛 : dragon boat race
+
+我们的老板很麻烦。 : our boss is annoying
+  老板 !老闆 @lǎobǎn : shop owner ; boss
+    板 !闆 @bǎn : =phonetic
+  麻烦 !麻煩 @máfan : annoying
+    烦 !煩 @fán : vexed
+恭喜发财！ : Happy New Year <literally: congratulations for becoming rich, ref to the red envelopes?>
+  恭喜 @gōngxǐ : to congratulate ; congratulations!
+    恭 @gōng : respectful
+  发财 !發財 @fācái #vo : to make a fortune / to become rich
+    财 !財 @cái : wealth
+根据大家的需要，我们做了这个决定。 : we made this decision based on what everyone needs
+  根据 !根據 @gēnjù : based on
+    根 @gēn : root
+    据 !據 @jù : based on
+我要为这个面试准备。 : I need to prepare for this interview
+明天我跟老板开会。 : I have a meeting with my boss tomorrow
+  开会 !開會 @kāihuì #vo : to attend a meeting
+这些是我奶奶做的粽子。 : these are the zongzi made by my grandma
+  粽子 /!糉子/糭子 @zòngzi : zongzi <dumpling made of glutinous rice, stuffed with different feelings and wrapped in bamboo or reed leaves>
+    粽 /!糉/糭 @zòng : zongzi <dumpling made of glutinous rice, stuffed with different feelings and wrapped in bamboo or reed leaves>
+他吃了三十个汤圆。 : he ate thirty tangyuan
+  汤圆 !湯圓 @tāngyuán : tangyuan <glutinous rice balls>
+    汤 !湯 @tāng : soup
+我的经理同意让我升职。 : my manager agreed to let me get promoted
+  同意 @tóngyì : to agree
+```
+
+#### Unit 314
+
+- **Vocabulary**: talk about Chinese food, use internet slang (existing words with new meanings,
+  for example 萌 means "sprout" usually, but "cute" in Internet slang)
+- **Culture**: the famous Peking Duck (北京烤鸭) dates back to the Ming Dynasty when it was reserved
+  for royalty in Beijing, the Kung Pao Chicken (宫保鸡丁) is named after a government official who
+  held the rank of Gongbao, the chewy tapioca balls that fill the bottom of Bubble Milk Tea
+  (珍珠奶茶) look like bubbles (珍珠 actually means pearls, not bubbles)
+
+```aln
+珍珠奶茶好喝吗？ : does bubble milk tea taste good?
+  珍珠奶茶 @zhēnzhūnǎichá : bubble tea
+    珍珠 @zhēnzhū : pearl ; tapioca pearl
+      珍 @zhēn : pearl
+      珠 @zhū : pearl
+    奶茶 @nǎichá : milk tea
+酸辣汤是北京菜吗？ : is hot and sour soup a Beijing dish?
+  酸辣汤 !酸辣湯 @suānlàtāng : hot and sour soup
+    酸 @suān : sour
+我们只要半只北京烤鸭。 : we only want half of a Peking duck
+  北京烤鸭 !北京烤鴨 @Běijīngkǎoyā : Peking duck
+    烤鸭 @kǎoyā : roast duck
+      烤 @kǎo : to roast
+      鸭 !鴨 @yā : duck
+春卷里有蔬菜和肉。 : there are vegetables and meat in the spring rolls
+  春卷 !春捲 @chūnjuǎn : spring roll
+    卷 !捲 @juǎn : to curl
+请给我一碗热豆花。 : please give me a bowl of hot tofu pudding
+  豆花 @dòuhuā : tofu pudding
+她的妈妈能做宫保鸡丁。 : her mom can make Kung Pao chicken
+  宫保鸡丁 !宮保雞丁 @gōngbǎojīdīng : Kung Pao chicken
+    宫保 @gōngbǎo : kung pao <a style of cooking, historically a title under the Ming and Qing, first for tutors then later purely honorific>
+      保 @bǎo : to protect
+    鸡丁 !雞丁 @jīdīng : chicken cubes
+      丁 @dīng : =fourth heavenly stem
+珍珠奶茶里有什么？​ : what's in a Bubble Milk Tea?
+我和我的朋友都是吃货。 : my friend and I are both foodies
+  吃货 !吃貨 @chīhuò : foodie <also one who does nothing and eats all day in a more derogatory sense>
+宅男喜欢做什么？ : what does an otaku like to do?
+  宅男 @zháinán : nerd <orignally a calque of Japanese otaku with intended derogatory meaning, but many men have been using it self deprecatingly so it's not as harsh>
+    宅 @zhái : residence
+请给我一个赞。 : please give me a like
+  赞 !讚/贊 @zàn : to like #Internet
+为什么人喜欢自拍？ : why do people like taking selfies?
+  自拍 @zìpāi : to take a selfie ; selfie
+我加了你好友。 : I added you as a friend
+  好友 @hǎoyǒu : good friend ; friend #social_media
+请帮助我，我是菜鸟。 : please help me, I'm a beginner
+  菜鸟 !菜鳥 @càiniǎo : newbie
+她有一百万个粉丝！ : she has one million fans!
+  粉丝 !粉絲 @fěnsī : vermicelli <Chinese transparent noodles> ; fan <as in fanatic of something>
+    粉 @fěn : powder
+    丝 !絲 @sī : silk
+
+他不是高富帅，但是我爱他。 : he's not tall, rich and handsome but I love him
+  高富帅 !高富帥 @gāofùshuài #slang : tall, rich and handsome <expression for "ideal guy">
+    富 @fù : rich
+你有微博吗？ : do you have a Weibo account?
+  微博 @wēibó #Internet : Weibo <previously known as Sina Weibo, somewhat like Twitter>
+    微 @wēi : tiny
+我刚才在微博上关注了她。 : I just followed her on Weibo
+  关注 !關注 @guānzhù : to follow #Internet ; to keep tabs on
+这个土豪只买贵的东西。 : this provincial tycoon only buys expensive things
+  土豪 @tǔháo : local tyrant #literal ; rich person ; rural tycoon
+    土 @tǔ : earth / soil
+    豪 @háo : heroic
+先自拍，然后用美图应用。 : first take a selfie, then use the Meitu app
+  美图 : Meitu <image editing software>
+那个美眉不想跟我说话。 : that beautiful girl doesn't want to talk to me
+  美眉 @měiméi #slang : good-looking girl
+    	眉 @méi : eyebreow
+我要把这个转发给朋友。 : I want to forward this to my friends
+  转发 !轉發 @zhuǎnfā : to pass on ; to forward #Internet
+卤肉饭里有猪肉。 : there is pork in the braised pork rice
+  卤肉饭 !滷肉飯 @lǔròufàn : braised pork rice
+    卤肉 !滷肉 @lǔròu : braised meat
+      卤 !滷/鹵 @lǔ : thick sauce
+我在刷我的微信朋友圈。 : : I'm scrolling through my WeChat Moments
+  微信 @Wēixìn : WeChat
+  朋友圈 @péngyouquān : circle of friends ; Moments <a function on WeChat>
+    圈 @quān : to encircle
+“囧”字是什么意思？ : what does the jiong character mean?
+  囧 @jiǒng : =emoticon <for surprise, shock, embarassment, helplessness, awkwardness, annoyance. Originally meant a clear and bright window>
+请在下面点赞！ : please click "like" below
+  点赞 !點讚 @diǎnzàn #vo : to press the like button
+我不同意上面的评论。 : I don't agree with the comment above
+  上面 @shàngmiàn : surface
+  评论 !評論 @pínglùn : comment
+    评 !評 @píng : to comment on
+    论 !論 @lùn : to discuss
+我们要五个馒头。 : we want five steamed buns / we want five mantou
+  馒头 !饅頭 @mántou : steamed bun / mantou
+
+萌 @méng : to sprout ; cute #Internet_slang
+分享 @fēnxiǎng : to share
+  享 @xiǎng : to enjoy
+```
+
+#### Unit 315
+
+- **Vocabulary**: refer to business documents, discuss business, use 尽快 before a verb to say 
+  "as soon as possible"
+- **Formality**: although Chinese doesn't have an extensive honorific system like Japanese, there
+  a few differences between very formal speech and more informal speech, for example you woud say
+  "您贵姓？" to ask someone's surname in a very formal situation, using the honorific second person
+  pronoun, as well as 贵姓 (which could roughly be translated as 'honoroable surname'). When 
+  answering such a question, you can start with "免贵" to say there is no need to be so formal and
+  use 贵
+
+```aln
+请给我收据。 : please give me a receipt
+  收据 !收據 @shōujù : receipt
+旅游费用不可以报销。 : travel costs cannot be reimbursed
+  费用 !費用 @fèiyòng : fee
+  报销 !報銷 @bàoxiāo : to apply for reimbursement
+    销 !銷 @xiāo : to melt
+请尽快回复。 : please reply as soon as possible
+  尽快 !儘快 @jǐnkuài : as soon as possible
+    尽 !儘/盡 @jǐn : utmost
+  回复 !回覆 @huífù : to reply
+    	复 !覆 @fù : to cover
+这个广告的预算是多少？ : what is the budget for this advertisement?
+  广告 !廣告 @guǎnggào : advertisement
+    广 !廣 @guǎng : wide
+  预算 !預算 @yùsuàn : budget
+    预 !預 @yù : beforehand
+我们还没看过协议。 : we still haven't seen the agreement
+  协议 !協議 @xiéyì : to agree on ; agreement
+    协 !協 @xié : to cooperate
+合同上写了什么？ : what is written in the contract?
+  合同 @hétóng : contract
+    合 @hé : to close
+请尽快离开！​ : please leave as soon as possible
+请尽快把报告写完。​ : please finish writing the report as soon as possible
+  报告 !報告 @bàogào : to report ; report
+他在保险公司工作。 : he works at an insurance company
+  保险公司 !保險公司 @bǎoxiǎngōngsī : insurance company
+    保险 !保險 @bǎoxiǎn : to assure ; to guarantee
+      险 !險 @xiǎn : difficult and treacherous <of terrain> ; hazardous
+这个投资的风险很高。 : this investment has high risk
+  投资 !投資 @tóuzī : to invest ; investment
+    投 @tóu : to fling
+    资 !資 @zī : capital #finance
+  风险 !風險 @fēngxiǎn : risk
+你想投资什么？ : what do you want to invest in?
+版权的问题，你要问律师。 : regarding the copyright issue, you need to ask a lawyer
+  版权 !版權 @bǎnquán : copyright
+    版 @bǎn : printing blocks
+    权 !權 @quán : power ; right
+  律师 !律師 @lǜshī : lawyer
+    律 @lǜ : law
+咨询的费用是多少？ : how much is the consultation fee?
+  咨询 !諮詢 @zīxún : to consult
+    咨/谘 !諮 @zī : to consult
+    询 !詢 xún : to inquire
+我们需要合作。 : we need to collaborate
+  合作 @hézuò : to collaborate
+您贵姓？​ #formal : what's your surname 
+  贵姓 !貴姓 @guìxìng #honorific : surname
+免贵，我姓王。​ : no need for the 'honorable', my surname is Wang <免贵 is used because this is an answer to a question using 贵 as honorific>
+
+那个项目的预算太低。 : the budget for that project is too low
+  项目 !項目 @xiàngmù : item ; project
+    项 !項 @xiàng : neck ; nape
+  低 @dī : low ; to lower
+我昨天写了一个晚上的报告。 : yesterday I spent the whole night writing the report
+我们会跟你联系。 : we'll contact you
+  联系 !聯繫 @liánxì : to contact / to get in touch with
+    联 !聯 @lián : to connect
+    系 !繫 @xì : to connect
+感谢大家对我的帮助。 : thank you everyone for helping me
+  感谢 !感謝 @gǎnxiè : to thank
+你们公司的资本是多少？ : how much capital does your company have?
+  资本 !資本 @zīběn : capital #finance
+希望我们合作愉快。 : hope we can work together well
+  愉快 @yúkuài : pleasant
+    愉 @yú : pleased
+这个广告的费用很低。 : the cost of this advertisement is low
+请在合同上签名。 : please sign the contract
+  签名 !簽名 @qiānmíng : to sign one's name
+这个可以报销吗？ : can this be reimbursed?
+我每个月都要向老板汇报工作。 : I have to report to my boss on my work every month
+  汇报 !匯報 @huìbào : to report
+    汇 !匯 @huì : to flow together
+这个项目有什么风险？ : what are the risks of this project?
+周末愉快！ : have a good weekend!
+```
+
+#### Unit 316
+
+- **Vocabulary**: communicate in an emergency, talk to  coworkers, ask for someone's opinion, 
+  potentially on a certain topic with 对, say that something happened with 发生 (this verb is
+  impersonal to say that 'X happened', but you can use it with a subject to say that 'X is happened
+  to {subject}')
+
+```aln
+救命！快！ : help! quick!
+  救命 @jiùmìng #vo : to rescue someone
+    救 @jiù : to save / to rescue
+    命 @mìng : life
+别担心！不严重。 : don't worry! it's not serious
+  严重 !嚴重 @yánzhòng : serious <as in critical>
+    严 !嚴 @yán : strict
+你有没有受伤？ : are you hurt?
+  受伤 !受傷 @shòushāng : to be injured / to be hurt
+    受 @shòu : to suffer ; to bear
+    伤 !傷 @shāng : wound / injury
+请帮我叫救护车。 : please call an ambulance for me
+  救护车 !救護車 @jiùhùchē : ambulance
+    救护 !救護 @jiùhù : to rescue
+有人偷了我的东西。 : someone stole my things
+  偷 @tōu : to steal
+你报警了吗？ : did you call the police?
+  报警 !報警 @bàojǐng : to call the police
+    警 @jǐng : to warn
+发生了什么事？​ : what happened?
+  发生 !發生 @fāshēng : to happen
+昨天这里发生了意外。 : an accident happened here yesterday
+  意外 @yìwài : accident
+他发生了严重的意外。 : he had a serious accident
+我的老板上个月没有给我工资。 : my boss didn't pay my salary last month
+  工资 !工資 @gōngzī : wage / salary
+我这个星期每天要加班。 : I need to work overtime every day this week
+  加班 @jiābān : to work overtime
+今年我们没有奖金。 : we have no bonus this year
+  奖金 !獎金 @jiǎngjīn : bonus
+    奖 !獎 @jiǎng : to reward ; reward
+我想和朋友开始做生意。 : I want to start a business with a friend
+  做生意 @zuòshēngyi #vo : to do business
+    生意 @shēngyi : business
+抱歉！我迟到了！ : my apologies! I'm late
+  抱歉 @bàoqiàn : to be sorry ; sorry <when one wants to express regret without necessarily casting blame on oneself or seeking forgiveness, unlike 道歉>
+  道歉 @dàoqiàn #vo : to apologize
+我要跟你商量一件事情。 : I need to discuss something with you
+  商量 @shāngliang : to discuss
+    量 @liáng : to measure
+你需要我的意见吗？​ : do you need my opinion?
+  意见 !意見 @yìjiàn : opinion
+你对这件事情有什么意见？ : what is your opinion regarding this matter?
+
+我觉得你误会她了。 : I think you misunderstood her
+  误会 !誤會 @wùhuì : to misunderstand
+    误 !誤 @wù : incorrect
+她昨天加班，很晚才回来。 : she worked overtime yesterday, and only came back late
+救命！我受伤了！ : help! I'm injured!
+请别报警！ : please don't call the police!
+我想做一个警察。 : I want to be a police officer
+  警察 @jǐngchá : police
+    察 @chá : to examine
+父母的责任是什么？ : what are the responsabilities of a parent?
+  责任 !責任 @zérèn : responsability
+    责 !責 @zé : to demand ; duty
+    任 @rèn : to appoint
+这家商店的生意很好。 : this shop has good business
+我的工作时间不长，工资也不错。 : my work hours are not long and my salary is not bad
+他一定不会原谅你。 : he'll defintely not forgive you
+  原谅 !原諒 @yuánliàng : to forgive
+    原 @yuán : origin
+    谅 !諒 @liàng : to forgive
+```
+
+#### Unit 317
+
+- **Vocabulary**: talk about the weather, learn about Duo, differentiate 大概 vs 大约 (former means
+  probably, latter means approximatley)
+- **Morphology**: Chinese use *compound words* a lot. A compound word is simply a combination of
+  existing words with a new meaning, for example 猫头鹰 literally means "cat head eagle", and its
+  actual translation is "owl". There are countless such words in Chinese. Most are made of 2
+  characters, but not all as this example proves.
+
+```aln
+天气很干燥，你要多喝水。 : the weather is dry, you need to drink more water
+  干燥 !乾燥 @gānzào : dry
+    燥 @zào : dry
+明天会比今天暖和。 : tomorrow will be warmer than today
+  暖和 @nuǎnhuo : warm
+    暖 @nuǎn : warm
+    和 @huo : warm #bound
+秋天的天气很凉快。 : the weather in the fall is cool
+  凉快 !涼快 @liángkuài : pleasantly cool #weather
+    凉 !涼 @liáng : cool / cold
+现在几度？ : what is the temperature now?
+现在的温度大约是十五度。 : the temperature is now approximately 15 degrees
+  温度 !溫度 @wēndù : temperature
+    温 !溫 @wēn : lukewarm
+  大约 !大約 @dàyuē : approximately
+外面的温度非常高。 : the temperature outside is very high
+他大概不会来。 : he probably won't come
+明天大概会下雪。 : it will probably snow tomororw
+那件衬衫大约五百块。 : that shirt is approximately 500 yuan
+多儿是一只很聪明的猫头鹰。 : Duo is a smart owl
+  猫头鹰 !貓頭鷹 @māotóuyīng : owl
+    鹰 !鷹 @yīng : bird of prey <eagles, hawks, etc.>
+他有橙色的嘴巴。 : he has an orange mouth
+  橙色 @chéngsè : the color orange
+    橙 @chéng : orange <fruit, tree and color>
+  嘴巴 @zuǐba : mouth
+    嘴 @zuǐ : mouth
+    巴 @bā : =suffix <nominalizer suffix for some nouns located below, behind or clumped together>
+多儿有绿色的羽毛。 : Duo has green feathers
+  羽毛 @yǔmáo : feather
+    羽 @yǔ : feather
+多儿鼓励我们每天学习。 : Duo encourages us to study every day
+  鼓励 !鼓勵 @gǔlì : to encourage
+    鼓 @gǔ : drum
+    励 !勵 @lì : to encourage
+谁喜欢给你发提醒电子邮件？ : who likes to send you email reminders?
+  提醒 @tíxǐng : to remind
+    醒 @xǐng : to awaken
+别放弃！加油！ : don't give up! come on!
+  放弃 !放棄 @fàngqì : to give up
+    弃 !棄 @qì : to abandon
+
+她下个月去西安工作。 : she's going to Xi'an for work next month
+  西安 @Xī'ān : Xi'an
+我觉得我的翻译是对的。 : I think my translation is correct
+
+压力
+```
+
+#### Unit 401
+
+No notes
+
+```aln
+```
 
 ## Texts
 
@@ -2950,7 +3374,6 @@ This is a well-known nursery jingle written 1400 years ago, by the Tang Dynasty 
 鹅鹅鹅， : geese, geese, geese
 曲项向天歌。 : crooked necks towards heaven they sing
   曲 @qū : bent
-  项 !項 @xiàng : neck ; nape
 白毛浮绿水， : white feathers float on green water
   浮 @fú : to float
   绿水 !綠水 @lǜshuǐ : crystal-clear water
@@ -2978,7 +3401,6 @@ called Li Po (701-762AD).
   夜 @yè : night
 床前明月光， : before my bed the bright moon's glow
   明月 @míngyuè : bright moon
-  光 @guāng : light / beam / ray 
 疑是地上霜。 : seems like frost on the ground
   疑 @yí : as if
   地上 @dìshang : on the ground
@@ -2987,7 +3409,6 @@ called Li Po (701-762AD).
   举 !舉 @jǔ : to raise
 低头 思 故乡。 : I lower my head and think of my hometown
   低头 !低頭 @dītóu : to lower one's head
-    低 @dī : low ; to lower
   故乡 !故鄉 @gùxiāng : native land / hometown
     乡 !鄉 /!鄕 xiāng : township
 ```
@@ -3010,7 +3431,6 @@ called Li Po (701-762AD).
     漠 @mò : desert
   宽 !寬 @kuān : wide
 上面光光的 : its surface is very bright
-  上面 @shàngmiàn : surface
   光光 @guāngguāng : bright ; bare
 什么东西都不长。 : not a single thing grows there
 老师，我明白了。 : teacher, I understand
