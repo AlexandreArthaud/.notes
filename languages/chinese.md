@@ -4,6 +4,66 @@
 
 ### Duolingo
 
+#### Section Notes
+
+- **Grammar**
+  - **是**: Chinese is a copular verb like "to be", but its use is more limited than its English
+    equivalent. It's mainly used to link *subject* to a noun *attribute* (sentences like "I am
+    a doctor"). Chinese uses an other mean to link *subject* to an adjective attribute (so-called
+    stative verbs like 好, often with 很 in between, see later notes)
+  - **Measure words**: Chinese require the use of *measure words* when counting things (see late
+    notes)
+  - **Question**: you can make a yn question with 吗
+  - **Word Order**: the Chinese word order is SVO, time words (like "tomorrow") always come
+    **before** the verb, but they can be either before or after the subject. Also note that in many
+    case, when both time and location are used, the time comes first (for ex: yesterday) and then
+    the location follows (for ex: in Paris)
+  - **Questions Words**: questions words (wh- words in English) don't change the word order, they
+    simply sit where the answer should be (for example, asking "who is he?" in Chinese would be
+    said as "he is who?")
+  - **Negation**: the most common way to negate both verbs and adjectives in Chinese is to use 不
+    before the word in question, but note that 没 is used with the verb 有 instead. 没 can also be
+    used on its own before a verb to negate an action in the past (did not) (没有+verb can also be
+    used to say something similar)
+  - **的**: use 的 to mark possession, similar to English 's
+  - **Negation for questions**: another way to create a yn question is to say a verb and then follow
+    by negating the verb (remembering that 有 is negated with 没, so 你吃不吃? for are you eating, 
+    你有没有钱？ for do you have money?), this also works for adjectives (这个帽子小不小 for is this
+    hat small?) (although adjectives in Chinese could be called stative verbs)
+  - **呢** :呢 can be used to turn the question back to the asker. Here’s an example conversation:
+    你叫什么？ (what's your name) 我叫John，你呢？ (my name is John, what's yours?)
+  - **吧**: 吧 is used at the end of a sentence to make a suggestion or to soften a request.
+
+
+```aln
+我很高。 : I'm tall
+两只猫 : two cats
+三辆车 : three cars
+她是学生。 : she's a student
+她是学生吗？  : is she a student
+我昨天学习了。 : I studied yesterday
+明天她要去超市。  : she'll go to the supermarket tomorrow
+我昨天在学校学习了。 : I studied yesterday at school
+他今天在家工作。 : he's working at home today
+他用什么吃饭？ : what does he use to eat?
+他用筷子吃饭。 : he uses chopsticks to eat
+你是谁？ : who are you?
+我是张明。 : I'm Zhang Ming
+我不吃肉。 : I don't eat meat
+她不高。 : she's not tall
+我没有时间。 : I don't have time
+他没吃午饭。 : he didn't eat lunch
+我的房子 : my house
+他们的老师 : their teacher
+那个孩子的书 : that kid's book
+车的颜色 : the color of the car
+你吃不吃？ : are you eating?
+这个帽子小不小？ : is this hat small?
+你有没有钱？ : do you have money?
+我叫John，你呢？ : my name is John, what's yours?
+我们一起吃饭吧。 : let's eat together
+```
+
 #### Unit 101
 
 - **Vocabulary**: Say hello and goodbye, use numbers with yuans.
@@ -663,7 +723,7 @@
 
 上午八点四十五分。 : 8:45 in the morning / 8:45 AM
   上午 @shàngwǔ : morning
-  分 @fēn : minute ; cent ; to divide
+  分 @fēn : minute ; cent ; to divide ; point <a "point" in education or competition>
 我们昨天晚上做了什么？ : what did we do last night?
   晚上 @wǎnshang : evening
 ```
@@ -1005,7 +1065,7 @@
 
 - **Vocabulary**: discuss food preferences, talk about health
 - **Syntax**: using the word 还是 ("or") to offer a choice means there is no longer a need to use
-  吗 at th eend of the phrase because 还是 itself implies a question (你要面条还是米饭？for 'would you
+  吗 at the end of the phrase because 还是 itself implies a question (你要面条还是米饭？for 'would you
   like noodles or rice' for example)
 - **Imperative**: to give an order, simply use a verb without a subject like in English. To say,
   "don't X", start the phrase with 不要: 不要看！means 'don't look!''
@@ -1382,7 +1442,7 @@
     诉 !訴 @sù : to tell
 我今天没有去学校。 : I didn't go to school today
 你看过那本书吗？ : have you read that book?
-  过 !過 @guò : =particle <after a verb to mark experiential aspect> ; to spend <time> ; to cross
+  过 !過 @guò : =particle <after a verb to mark experiential aspect> ; to spend <time> ; to cross ; past <after a verb like in English>
 你来过我们的商店吗？ : have you been to our shop?
 我没去过那家中国饭馆。 : I've not been to that Chinese restaurant
 我今天生病了。 : I'm sick today
@@ -2264,7 +2324,7 @@
     己 @jǐ : self
 她有时候一个人去旅游。 : she sometimes goes travelling alone
   有时候 !有時候 @yǒushíhou : sometimes
-  一个人 !一個人 @yīgèrén : alone / by oneself
+  一个人 !一個人 @yīgèrén : alone / by oneself ; one person #literal
 她有时候自己一个人去旅游。​ : she sometimes goes travelling alone by herself
 我喜欢自己一个人去买东西。 : I like to go shopping alone by myself
 你自己去，我不想去！ : go by yourself, I don't want to go!
@@ -2549,7 +2609,6 @@
 太阳 !太陽 @tàiyáng : sun / Sun
   阳 !陽 @yáng : sun / Sun
 脏 !髒 @zāng : dirty
-草 @cǎo : grass
 ```
 
 #### Unit 308
@@ -3353,6 +3412,25 @@ No notes
 
 ## Texts
 
+### Essays
+
+#### Our Family's Jump Rope Contest
+
+```text
+我们家的跳绳比赛
+
+今天早上我和爸爸比赛跳绳，爸爸先跳，妈妈记时数数，爸爸一分钟跳了128个，该我上场了，爸爸数数，妈妈记时，
+我这次没有失误，一分钟跳了145个，我的心砰砰乱跳，都快蹦出来了，妈妈弃权了，我成了全家中的第一名，，我好开心。
+```
+
+```aln
+我们家的跳绳比赛 : our family's jump rope contest
+  跳绳 !跳繩 @tiàoshéng : jump rope
+    绳 !繩 @shéng : rope
+今天早上我和爸爸比赛跳绳， : this morning dad and I competed in jump rope
+爸爸先跳， : dad jumped first
+```
+
 ### Poems
 
 #### Ode to Geese by Luo Binwang
@@ -3413,6 +3491,56 @@ called Li Po (701-762AD).
     乡 !鄉 /!鄕 xiāng : township
 ```
 
+#### Dewdrops
+
+```text
+露珠
+
+昨天夜里，
+谁从草地上走过？
+丢了那么多的珍珠。
+今天早上，
+谁在草丛中看着我？
+还打湿了我的衣裤。
+太阳升高了，
+谁收走了珍珠？
+留下了湿湿的气息，
+湿湿的泥土。
+```
+
+```aln
+露珠 @lùzhū : dewdrop
+  露 @lù : dew
+
+昨天夜里， : last night
+  夜里 !夜裡 @yèli #colloquial : at night
+谁从草地上走过？ : who walked up from the meadows?
+  草地 @cǎodì: lawn ; meadow
+    草 @cǎo : grass
+丢了那么多的珍珠。 : lost so many pearls
+  那么 !那麼 @nàme : so / that #intensifier
+今天早上， : this morning
+谁在草丛中看着我？ : who was watching me from the underbrush?
+  草丛 !草叢 @cǎocóng : underbrush / undergrowth
+    丛 !叢 @cóng : shrub
+  中看 @zhōngkàn : to be pleasant to the eye
+还打湿了我的衣裤。 : made damp my trousers
+  打湿 : to moisten
+    湿 !濕 @shī : moist / wet / damp
+  衣裤 !衣褲 @yīkù : clothing
+    裤 !褲 @kù : pants
+太阳升高了， : the sun is high
+  升高 @shēnggāo : to climb ; to go up
+谁收走了珍珠？ : who left with the pearls?
+  收走 : to take away <?>
+留下了湿湿的气息， : left behind them dewy breath
+  留下 @liúxià #vo : to leave behind
+  气息 !氣息 @qìxī : breath
+湿湿的泥土。 : wet soil
+  泥土 @nítǔ : earth / soil
+    泥 @ní : mud
+```
+
 ### Jokes
 
 #### The Desert
@@ -3440,4 +3568,43 @@ called Li Po (701-762AD).
   就是 @jiùshì : to be precisely
 
 小学生 : primary school student
+```
+
+#### Father and Son Don't Get Along
+
+Usually, 分 is used to say a "point" in education, and a perfect score is "100分", but in this text
+"5分" is taken to mean "five starts", not just "5%".
+
+```text
+父子不和
+
+老师:“同学们，今天的家庭问题讨论课，讨论‘父子不和’这个题目。秋子同学，你认为要消除父子不和的现象，
+最好的办法是什么呢？”
+
+秋子起立回答: “老师，最好的办法是:这一次在我的成绩通知单上全填5分！”
+```
+
+```aln
+父子不和 : father and son don't get along
+  父子 @fùzǐ : father and son
+  不和 @bùhé : on bad terms ; to not get along
+同学们，今天的家庭问题讨论课， : students, in today's Family Issues Discussion Class
+  家庭 @jiātíng : family
+    庭 @tíng : courtyard
+  讨论 !討論 @tǎolùn : to discuss
+    讨 !討 @tǎo : to ask for
+讨论‘父子不和’这个题目。 : the topic is "Father and Son Don't Get Along"
+  题目 !題目 @tímù : subject
+秋子同学，你认为要消除父子不和的现象，最好的办法是什么呢？ : student Qiu Zi, do you know the best way to eliminate an issue with father and son not getting along?
+  消除 @xiāochú : to eliminate
+  现象 !現象 @xiànxiàng : phenomenon
+    象 @xiàng : elephant ; shape / appearance
+秋子起立回答 : Qiu Zi stood up to answer
+  起立 @qǐlì : to stand up
+    立 @lì : to stand
+最好的办法是:这一次在我的成绩通知单上全填5分！ : the best way is to give me five stars on my next report card
+  通知单 !通知單 @tōngzhīdān : letter of notice
+    通知 @tōngzhī : to inform
+      通 @tōng : to pass through
+  填 @tián : to fill
 ```

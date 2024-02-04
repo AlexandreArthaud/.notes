@@ -2,12 +2,13 @@
 
 ## Beginner Texts by Length
 
-[DONE] Ode to Gees [UNREVIEWED]
-[DONE] Quiet Night Thought [UNREVIEWED]
+[DONE] Ode to Gees 
+[DONE] Quiet Night Thought 
 [DONE] Desert
-Dewdrops: 75
-Father and Son: 103
-Our Family's Jump Rope Contest: 117
+[DONE] Dewdrops
+[DONE] Father and Son
+[DOING] Our Family's Jump Rope Contest
+
 Setting Off Fireworks: 128
 Catching Frogs: 147
 Watermelon: 148
