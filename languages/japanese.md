@@ -70,3 +70,50 @@
   honorific in Japanese.
 - **Note on word order**: when saying someone's name and greeting them, usually the greeting comes
   first in English ("hello, John"), but it's the other way around in Japanese.
+
+```aln
+今日は、はなです。 : hello, I'm Hana
+  今日は @こんにちは : good day / good afternoon
+    今日 @こんにち : this day ; today
+      今 @いま : now
+      日 @ひ : sun ; day
+    は @wa : =topic_marker
+けんです、どうぞ宜しく。 : I'm Ken, nice to meet you
+  どうぞ : by all means <to express strong desire for something usually untranslated>
+  宜しく @よろしく : pleased to meet you ; acceptably #well
+今晩は。 : good evening
+  今晩は @こんばんは : good evening
+    晩 @ばん : evening 
+じゃあね、またあした。 : bye, see you tomorrow
+  じゃあね : see you
+  また : again
+  明日 @あした #colloquial : tomorrow
+    明 @めい : brightness
+けんさん、今日は。 : hello, Ken
+  さん #suffix : =honorific <most generic honorific suffix>
+これはカレーです。 : this is curry
+  これ : this
+  カレー : curry
+それはラーメンです。 : that is ramen
+  それ : that
+  ラーメン : ramen
+それは美味しいですか。 : is that tasty?
+  美味しい @おいしい : tasty
+    美 @び : beauty
+    味 @あじ : clever ; flavor / taste / flavour
+  か : =interogative_particle
+はい、これは美味しいです。 : yes, this is tasty
+  はい : yes
+カレーは美味しいです。 : curry is tasty
+
+いいえ、それはみずです。 : no, that is water
+  いいえ : no
+今晩は、なおみです。 : good evening, I'm Naomi
+それはケーキです。 : that's cake
+  ケーキ : cake
+これはすしですか。 : is tis sushi?
+
+ピザ : pizza
+```
+
+#### Unit 103
