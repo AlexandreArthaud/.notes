@@ -7,9 +7,9 @@
 [DONE] Desert
 [DONE] Dewdrops
 [DONE] Father and Son
-[DOING] Our Family's Jump Rope Contest
+[DONE] Our Family's Jump Rope Contest
+[DONE] Setting Off Fireworks
 
-Setting Off Fireworks: 128
 Catching Frogs: 147
 Watermelon: 148
 Helping Out : 149

@@ -293,7 +293,7 @@
 早上好！ : good morning!
   早上 @zǎoshang : early morning
     早 @zǎo : early
-    上 @shàng : on ; last <as in previous>
+    上 @shàng : on ; last <as in previous> ; =verbal_complement <resultative?>
 你今天怎么样？ : how was your day?
   今天 @jīntiān : today
     今 @jīn : current	
@@ -537,7 +537,7 @@
     星期 @xīngqī : week ; day of the week <when followed by a number from 1-6 for Monday to Saturday, or by 日 or 天 for Sunday>
       星 @xīng : star
       期 @qī : period of time
-    几 !幾 @jǐ : how much / how many
+    几 !幾 @jǐ : how much / how many ; a few
 今天星期六。 : today is Saturday
 明天几号？ : what is tomorrow's date?
   明天 @míngtiān : tomorrow
@@ -546,7 +546,7 @@
   现在 !現在 @xiànzài : now
     现 !現 @xiàn : present / current
   几点 !幾點 @jǐdiǎn : what time
-    点 !點 @diǎn : dot ; o'clock <after time> ; to order <food> ; to click
+    点 !點 @diǎn : dot ; o'clock <after time> ; to order <food> ; to click ; to ignite
 现在一点。 : it's one o'clock now
 二〇一一年十一月三十号 : November 30, 2011
   年 @nián : year
@@ -1451,7 +1451,7 @@
 你应该去看医生。 : you should go to the doctor
   应该 !應該 @yīnggāi : should
     应 !應 @yīng : should
-    该 !該 @gāi : should
+    该 !該 @gāi : should ; to be one's turn
 他的头很疼，需要休息。 : he has a headache, and he needs to rest
   头 !頭 @tóu : head
   疼 @téng : painful / aching / sore <used after a body part to say '(bodypart)-ache' as in toothache, stomachache, etc. no need for 'to have'>
@@ -1928,7 +1928,7 @@
   笔 !筆 @bǐ : writing brush ; pen
 我没有笔。 : I don't have a pen
 这次中文考试有多少题？ : how many questions are there on the Chinese exam this time?
-  这次 !這次 @zhècì : this time
+  这次 !這次 @zhècì : this time <this is used more often than in English, sometimes Chinese say 'this time' when there were no previous times>
   考试 !考試 @kǎoshì : test / exam
     考 @kǎo : to check ; to have a test
 请问，我们的教室在哪儿？ : excuse me, where's our classroom?
@@ -2869,6 +2869,7 @@
 你记得明天有数学考试吗？ : do you remember we have a math test tomorrow?
   记得 !記得 @jìde : to remember
   数学 !數學 @shùxué : mathematics
+    数 !數 @shǔ : to count
     数 !數 @shù : amount
 考试终于结束了。 : the exam is finally over
   终于 !終於 @zhōngyú : finally / at last
@@ -3068,7 +3069,7 @@
     财 !財 @cái : wealth
 根据大家的需要，我们做了这个决定。 : we made this decision based on what everyone needs
   根据 !根據 @gēnjù : based on
-    根 @gēn : root
+    根 @gēn : root ; =counter <for long slender objects like cigarettes, fingers, candles, ropes, guitar strings...>
     据 !據 @jù : based on
 我要为这个面试准备。 : I need to prepare for this interview
 明天我跟老板开会。 : I have a meeting with my boss tomorrow
@@ -3429,6 +3430,80 @@ No notes
     绳 !繩 @shéng : rope
 今天早上我和爸爸比赛跳绳， : this morning dad and I competed in jump rope
 爸爸先跳， : dad jumped first
+妈妈记时数数， : mom kept time and count
+  记时 : to keep time
+  数数 !數數 @shǔshù : to count <to recite numbers in sequence>
+爸爸一分钟跳了128个， : dad jumped 128 times in a minute
+该我上场了，爸爸数数，妈妈记时， : when I entered the playing field, dad counted and mom kept time
+  上场 !上場 @shàngchǎng #vo : to go on stage / to enter an arena
+我这次没有失误， : I made no mistake this time
+  失误 !失誤 @shīwù : error / mistake ; to make a mistake
+一分钟跳了145个， : I jumped 145 times in one minute
+我的心砰砰乱跳， : my heart pounded in my chest
+  砰 @pēng : bang <sound of something striking against something>
+  乱跳 : to beat widly <of a heart> ; to jump about
+    乱 !亂 @luàn : chaotic
+都快蹦出来了， : as if it would bounce right off
+  都快 ~ 了 : it's almost
+  蹦 @bèng : to hop
+妈妈弃权了， : mom abstained from participating
+  弃权 !棄權 @qìquán : to abstain
+我成了全家中的第一名， : I became number 1 in our family
+  全家 @quánjiā : whole family
+  中的 @zhòngdì : to hit the target
+  第一名 @dìyīmíng : first place
+我好开心。 : I was very happy
+  开心 !開心 @kāixīn : happy
+```
+
+#### Setting Off Fireworks
+
+```text
+放花炮
+
+今天晚上，我和爸爸妈妈一起放花炮。 爸爸用上打火机点上一根香烟，我拿着烟，吸了几口后就开始放花炮。我点了一个，
+花炮喷出五颜六色的的火苗，真是太美丽了！冲天炮太危险了，我不敢放，爸爸帮我放，我只在旁边看。 不一会儿，
+花炮放完了，我们就高高兴兴地回家了。
+```
+
+```aln
+我和爸爸妈妈一起放花炮。  : my parents and I set off fireworkds together
+  放花炮 : setting off fireworks
+    花炮 @huāpào : fireworks
+      炮 @pào : large gun
+爸爸用上打火机点上一根香烟， : dad used a lighter to light a cigarette
+  打火机 !打火機 @dǎhuǒjī : lighter
+    打火 @dǎhuǒ : to produce a flame
+  香烟 !香煙 @xiāngyān : cigarette
+我拿着烟， : I took the cigarette
+吸了几口后就开始放花炮。 : after a few puffs we began lighting the fireworks
+  吸 @xī : to inhale
+  口 @kǒu : mouth ; =counter <for bites, mouthfuls or for family members, populations and guns>
+我点了一个， : I lit one
+花炮喷出五颜六色的的火苗， 真是太美丽了！ : the firework sprayed multicolor flames, so beautiful!
+  喷出 !噴出 @pēnchū : to spout / to spurt ; blowout / expulsion
+    喷 !噴 @pēn : to spurt
+  五颜六色 !五顏六色 @wǔyánliùsè : colorful / multicolored
+  火苗 @huǒmiáo : tongue of flame
+    苗 @miáo : sprout
+  美丽 !美麗 @měilì : beautiful
+    丽 !麗 @lì : beautiful
+冲天炮太危险了， : rockets are too dangerous
+  冲天炮 : rocket <unsure>
+    冲天 !沖天 @chōngtiān #literary : to shoot up into the sky
+      冲 !沖 chōng : to soar ; to pour water on
+  危险 !危險 @wēixiǎn : dangerous
+    危 @wēi : dangerous
+我不敢放， : I don't dare light them
+  敢 @gǎn : to dare
+爸爸帮我放， : dad  helped me to do it
+我只在旁边看。 : I stood beside and watched
+不一会儿， : soon after
+  不一会儿 !不一會兒 @bùyīhuìr : soon after
+    不一会 !不一會 @bùyīhuì : soon after
+花炮放完了， : the fireworks were all gone
+我们就高高兴兴地回家了。 : we happily returned home
+  高高兴兴 !高高興興 @gāogāoxìngxìng : very happy
 ```
 
 ### Poems
