@@ -775,7 +775,7 @@
   起床 @qǐchuáng #vo : to get out of bed
     床 /!牀 @chuáng :  bed
 我们到哪儿吃晚饭？ : where do we go for dinner?
-  到 @dào : to go to ; to <either spatial or temporal, preposition>
+  到 @dào : to go to ; to <either spatial or temporal, preposition> ; =verbal_complement <marks completion>
   晚饭 !晚飯 @wǎnfàn : dinner / supper
 我们明天三点放学。 : we finish school at 3 tomorrow
   放学 !放學 @fàngxué #vo : to finish school for the day
@@ -1480,7 +1480,7 @@
   请假 !請假 @qǐngjià #vo : to request time off / to ask for leave
     假 @jià : vacation
 不好意思，我需要去洗手间。 : I'm sorry, I need to go to the bathroom
-  不好意思 @bùhǎoyìsi : sorry / excuse me
+  不好意思 @bùhǎoyìsi : sorry / excuse me ; embarrassed
     好意思 @hǎoyìsi : to feel no shame
 你有没有发烧？ : do you have a fever?
   发烧 !發燒 @fāshāo : to have a fever ; fever
@@ -3504,6 +3504,62 @@ No notes
 花炮放完了， : the fireworks were all gone
 我们就高高兴兴地回家了。 : we happily returned home
   高高兴兴 !高高興興 @gāogāoxìngxìng : very happy
+```
+
+#### Catching Frogs
+
+In this text, 江东 is a proper noun: it's the name of a district of Ningbo, Zhejiang Province in 
+southern China. 小朋友, literally "little friend", is often used by children to refer to other
+children they don't know.
+
+```text
+捉青蛙
+
+前几天，我做了一件不光彩的事。说出来真难为情。晚上，我去江东公园玩，看到有几位小朋友在捉青蛙，我也赶忙捉青蛙，
+捉了青蛙就把它们带回家。在家里养了几天，青蛙渐渐瘦了下来，它们好像在对我说：“把我们放回大自然吧，
+我们一定会多捉害虫。”我听了感到真不好意思，晚上，就悄悄把它们放回了大自然。
+```
+
+```aln
+前几天， : in the last few days
+  前几天 !前幾天 @qiánjǐtiān : the other day ; the past days
+    几天 !幾天 @jǐtiān : a few days ; how many days?
+我做了一件不光彩的事。 : I did a not-so-illustrious thing
+  光彩 @guāngcǎi : honorable ; lustrous
+    彩 @cǎi : rich and bright colors
+说出来真难为情。 : I'm ashamed to say it
+  难为情 !難為情 @nánwéiqíng : embarrassed
+    难为 !難為 @nánwéi : to be difficult to #literary ; to make it difficult for
+晚上，我去江东公园玩， : in the evening, I went to Jiang Dong Park to play
+看到有几位小朋友在捉青蛙， : I saw that there were a few other children catching frogs
+  小朋友 @xiǎopéngyou : child / kid <used by children to refer to other children they don't know, or by adults towards children>
+  捉青蛙 : catching frogs
+    捉 @zhuō : to catch ; to grasp
+    青蛙 @qīngwā : frog
+      青 @qīng : blue-green
+      蛙 @wā : frog
+我也赶忙捉青蛙， : I also hurriedly started catching forgs
+  赶忙 !趕忙 @gǎnmáng : hurriedly / hastily
+    赶 !趕 @gǎn : to overtake
+捉了青蛙就把它们带回家。 : after I caught them I brought them back to my house
+在家里养了几天， : at my house I took care of them for a few days
+  养 !養 @yǎng : to provide for
+青蛙渐渐瘦了下来， : the frogs gradually became thinner and thinner
+  渐渐 !漸漸 @jiànjiàn : gradually / little by little
+    渐 !漸 @jiàn : gradually
+它们好像在对我说： : as if they were saying to me
+  好像 @hǎoxiàng : as if
+把我们放回大自然吧， : put us back in nature
+  大自然 @dàzìrán : nature
+    自然 @zìrán : nature
+我们一定会多捉害虫。 : we can catch more insects
+  害虫 !害蟲 @hàichóng : harmful insect
+    虫 !蟲 @chóng : insect
+我听了感到真不好意思， : I listened to this and was truly embarassed
+  感到 @gǎndào #vc : to feel
+晚上，就悄悄把它们放回了大自然。 : in the evening, I secretly put them back outside
+  悄悄 @qiāoqiāo : quiet / silent
+    悄 @qiāo : quiet / silent
 ```
 
 ### Poems

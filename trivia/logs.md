@@ -9,8 +9,8 @@
 [DONE] Father and Son
 [DONE] Our Family's Jump Rope Contest
 [DONE] Setting Off Fireworks
+[DONE] Catching Frogs
 
-Catching Frogs: 147
 Watermelon: 148
 Helping Out : 149
 Being too rigid in the face of change (idiom): 153
