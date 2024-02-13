@@ -2453,7 +2453,7 @@
     必 @bì : must
     须 @xū : must
   完成 @wánchéng : to finish
-    成 @chéng : to finish
+    成 @chéng : to finish ; =verbal_complement <shows completion of action>
   作业 !作業 @zuòyè : work ; assignment <incl. schoolwork>
     业 !業 @yè : trade
 我明年上高中。 : I will go to high school next year
@@ -2840,6 +2840,7 @@
 
 ```aln
 请把空调关了。 : please turn off the air conditioner
+  把 @bǎ : =direct_object <preposition marking a direct object to change the usual SVO order>
   空调 !空調 @kōngtiáo : air conditioner
     空 @kōng : empty ; atmosphere
     调 !調 @tiáo : to regulate
@@ -3401,17 +3402,79 @@
   西安 @Xī'ān : Xi'an
 我觉得我的翻译是对的。 : I think my translation is correct
 
-压力
+压力 !壓力 @yālì : pressure
+  压 !壓 @yā : to press / to push down
 ```
 
 #### Unit 401
 
-No notes
-
-```aln
-```
+No more notes from here on out
 
 ## Texts
+
+### Songs
+
+#### March of the Volunteers
+
+Originally titled "March of the Anti-Manchukuo Counter-Japan Volunteers", this is the offical anthem
+of the People's Republic of China since 1978. It is the first Chinese anthem to be written entirely
+in vernacular and not Classical Chinese.
+
+When it was adopted in 1978, it originally contained references to Mao, but only three years later
+in 1981, as Deng Xiaoping consolidated power, these were removed and the original lyrics of the song
+were readopted (the lyricist Tian Han had been discredited during the Cultural Revolution but later
+rehabiliated).
+
+##### Official Lyrics (Original)
+
+```text
+起来！ 不愿做奴隶的人们!！
+把我们的血肉， 筑成我们新的长城！
+中华民族到了最危险的时候,，
+每个人被迫着发出最后的吼声。
+起来！ 起来！ 起来！
+我们万众一心，
+冒着敌人的炮火， 前进！
+冒着敌人的炮火， 前进！
+前进！ 前进！ 进！
+```
+
+```aln
+不愿做奴隶的人们！ : unwilling to be slaves
+  不愿 !bùyuàn : to be unwilling
+  奴隶 !奴隸 @núlì : slave
+    奴 @nú : slave
+    隶 !隸 @lì : clerical script <also historical character for a class of lowly persons or slaves in ancient China>
+  人们 @人們 @rénmen : people
+把我们的血肉， : our flesh and blood
+  血肉 @xuèròu : flesh and blood
+    血 @xiě : blood
+筑成我们新的长城！ : build our new Great Wall
+  筑 !築 @zhù : to build
+中华民族到了最危险的时候， : the Chinese nation face their most perilous time
+  中华民族 !中華民族 @Zhōnghuámínzú : Chinese nation <emphasises the concept of a supra ethnic Chinese nationality incl. Hans, Tibetans, etc.>
+    中华 !中華 @Zhōnghuá : China <has a more formal, poetic and exalted sense than just 中国, a connotation of civilizedness and decorous behavior in opposition to foreigners or "barbarians", from the time China was the cultural center of east Asia, could be translated as "nation/land of the Chinese people/culture">
+    民族 @mínzú : nation
+      民 @mín : citizens
+      族 @zú : tribe ; ethnic group
+每个人被迫着发出最后的吼声。 : everyone must produce their final roars
+  被迫 @bèipò : to be forced / to be compelled
+    迫 @pò : to force
+  发出 !發出 @fāchū : to issue ; to produce <a sound, smell, etc.>
+  最后 !最後 @zuìhòu : final
+  吼声 !吼聲 @hǒushēng : roar
+    吼 @hǒu : to roar
+我们万众一心， : us millions with but one heart
+  万众一心 !萬眾一心 @wànzhòngyīxīn : all united / to be of one mind
+    众 !眾/衆 @zhòng : masses
+    一心 @yīxīn : wholeheartedly
+冒着敌人的炮火， 前进！ : braving the enemy's fire, march on!
+  冒 @mào : to brave
+  敌人 !敵人 @dírén : enemy
+    敌 !敵 @dí : enemy
+  炮火 @pàohuǒ : gunfire
+  前进 !前進 @qiánjìn : to go forward / to march on
+```
 
 ### Essays
 
@@ -3646,7 +3709,7 @@ called Li Po (701-762AD).
 昨天夜里， : last night
   夜里 !夜裡 @yèli #colloquial : at night
 谁从草地上走过？ : who walked up from the meadows?
-  草地 @cǎodì: lawn ; meadow
+  草地 @cǎodì : lawn ; meadow
     草 @cǎo : grass
 丢了那么多的珍珠。 : lost so many pearls
   那么 !那麼 @nàme : so / that #intensifier

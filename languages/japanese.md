@@ -30,7 +30,7 @@
     飯 @めし : cooked rice ; meal #informal
   と : and <between nouns>
   水 @みず : water
-寿司と水: sushi and water
+寿司と水 : sushi and water
 水です。 : it's water
 だ {formal:です} : to be <used after parts of speech that do not decline (nouns, na-adjectives, adverbs)>
 医者です。 : she's a doctor / he's a doctor
