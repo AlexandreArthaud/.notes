@@ -17,7 +17,7 @@
 - **Grammar**: there is no *definiteness* in Japanese (no difference between "a teacher",
   "the teacher", where Japanese would simply state "teacher")
 
-```aln
+```logm
 寿司、ください。 : sushi, please
   寿司 @すし : sushi
 ください : please <after a noun this means "please give me {noun}", after a te-form verb it just means "please", this is the polite imperative form of 下さる>
@@ -71,7 +71,7 @@
 - **Note on word order**: when saying someone's name and greeting them, usually the greeting comes
   first in English ("hello, John"), but it's the other way around in Japanese.
 
-```aln
+```logm
 今日は、はなです。 : hello, I'm Hana
   今日は @こんにちは : good day / good afternoon
     今日 @こんにち : this day ; today

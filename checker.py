@@ -14,21 +14,21 @@ def get_markdown_files(root_folder):
 
 if __name__ == '__main__':
     markdown_list = get_markdown_files(sys.argv[1])
-    in_aln_section = False
+    in_logm_section = False
     
     for path in markdown_list:
         print(f"On {path}:")
         with open(f'{sys.argv[1]}/{path}', 'r', encoding='utf-8') as markdown_input:
             for index, line in enumerate(markdown_input.readlines()):
                 if '```' in line:
-                    if not in_aln_section and '```aln' in line:
-                        in_aln_section = True
+                    if not in_logm_section and '```logm' in line:
+                        in_logm_section = True
                         continue
                     else:
-                        in_aln_section = False
+                        in_logm_section = False
                         continue
 
-                if not in_aln_section:
+                if not in_logm_section:
                     continue
 
                 if not line.isspace(): # not an empty line

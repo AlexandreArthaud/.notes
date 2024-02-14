@@ -35,7 +35,7 @@
   - **吧**: 吧 is used at the end of a sentence to make a suggestion or to soften a request.
 
 
-```aln
+```logm
 我很高。 : I'm tall
 两只猫 : two cats
 三辆车 : three cars
@@ -81,7 +81,7 @@
   numbers up to 99, then follow the same logic for the hundreds, thousands, etc. For example,
   二十元 means "twenty yuan" (literally: two ten yuan).
 
-```aln
+```logm
 你好 @nǐhǎo : hello / hi
   你 @nǐ : you
   好 @hǎo : good
@@ -127,7 +127,7 @@
   cases, it is a simple linker between subject and adjective (ex: 我很好 means "I am well" and not
   "I am very well")
 
-```aln
+```logm
 你叫什么名字？ : what's your name? 
   叫 @jiào : to call ; to be called
   什么 !什麼/甚麼/什麽/甚麽 @shénme : what
@@ -171,7 +171,7 @@
   phrase into a yn question by adding the 吗 (ma) particle at the end of it (somewhat similar to
   Japanese ka) 
 
-```aln
+```logm
 你吃面。 : you eat noodles
   吃 /!喫 @chī : to eat
   面 !麵 @miàn : flour ; wheat noodles
@@ -228,7 +228,7 @@
   is X), and then replace the X part by the corresponding question word (what, which, etc. however
   note that Chinese uses "how much" for the phone number example instead of what)
 
-```aln
+```logm
 你的电话号码是多少？ : what is your phone number?
   电话号码 !電話號碼 @diànhuàhàomǎ : telephone number / phone number
     电话 !電話 @diànhuà : telephone / phone
@@ -289,7 +289,7 @@
   America) or as a preposition when used after another verb (我住在法国 means I live in France) 
   (several other Chinese words behave like that, both as prepositions and verbs)
 
-```aln
+```logm
 早上好！ : good morning!
   早上 @zǎoshang : early morning
     早 @zǎo : early
@@ -364,7 +364,7 @@
   else, however, most things have a specific associated measure word which must be memorized (using
   个 everywhere will be understood but is not idiomatic, it is a crutch at best)
 
-```aln
+```logm
 谢谢你！ : thank you!
   谢谢 !謝謝 @xièxie : to thank  ; thanks / thank you
     谢 !謝 @xiè : to thank
@@ -422,7 +422,7 @@
   since Chinese follow a SVO word order, it is clear the subject is the one before the verb and the
   object is after it)
 
-```aln
+```logm
 你说英语吗？ : do you speak English?
   说 !說 @shuō : to speak ; to say
   英语 !英語 @yīngyǔ : English language
@@ -479,7 +479,7 @@
   are often spelled ui, un, and iu after an initial, but if there is no initial, u becomes w and i
   becomes y (wèi, yǒu)
 
-```aln
+```logm
 她喝冰茶。 : she drinks iced tea
   冰茶 @bīngchá : iced tea
     冰 @bīng : ice
@@ -531,7 +531,7 @@
 - **On the number two**: while the numeral for two is 二 when counting, in dates, etc. The word for
   two becomes 两 when counting things with a measure word (两个洗手间 for "two bathrooms")
 
-```aln
+```logm
 今天星期几？ : what day is it doay?
   星期几 !星期幾 @xīngqījǐ : which day of the week
     星期 @xīngqī : week ; day of the week <when followed by a number from 1-6 for Monday to Saturday, or by 日 or 天 for Sunday>
@@ -598,7 +598,7 @@
   It's also not needed when using 吗 : 她们忙吗？ means 'are they busy?'. In fact, using 很 here 
   actually means 'very' (她们很忙吗？ means 'are they very busy?')
 
-```aln
+```logm
 喂？你是李医生吗？ : hello? are you doctor Li?
   喂 @wéi : hello <when answering phone>
 请慢一点儿。 : slow down please
@@ -663,7 +663,7 @@
     are some fixed phrases which are an exception to this: 每天 for everyday, 每年 for every year
     (as well as 一天 for one day or 一年 for one year) (the words 天 and 年 don't need measure words)
 
-```aln
+```logm
 你上个周末做了什么？ : what did you do last weekend?
   周末 !週末 @zhōumò : weekend
     周 !週/周 @zhōu : week
@@ -742,7 +742,7 @@
     this is the same aspect as the continous present with -ing in English, example: 她在听音乐。for
     "she is listening to music"
 
-```aln
+```logm
 你喜欢看书吗？ : do you like reading?
   喜欢 !喜歡 @xǐhuan : to like
     喜 @xǐ : to like
@@ -812,7 +812,7 @@
   if there is a zero in the number, 零 is used (一百零二 for 102). Chinese has a dedicated word for
   ten thousand (万, 一万 for 10000)
 
-```aln
+```logm
 这个多少钱？ : how much does this cost?
   多少钱 !多少錢 @duōshǎoqián : how much money
     钱 !錢 @qián : money
@@ -908,7 +908,7 @@
   followed by a measure word is used (几位？to ask 'how many people?' (位 is a sort of polite measure
   word measure words, this would probably be asked by a waiter))
 
-```aln
+```logm
 你在找什么？ : what are you looking for?
   找 @zhǎo : to look for ; to find
 我在找我的手机。 : I'm looking for my cell phones
@@ -983,7 +983,7 @@
   it's OK to use either 因为 (because) or 所以 (so, then) on their own, but in more formal settings,
   both must be used.
 
-```aln
+```logm
 请帮我买一些东西。 : please help me buy some things
   一些 @yīxiē : some
     些 @xiē : some
@@ -1072,7 +1072,7 @@
 - **Adjectvies**: you can link an adjective to a noun with 的, for example 高的女人 means "tall
   woman" (reminder: we use 很 to link an adjective predicatively, and 的 for attributively)
 
-```aln
+```logm
 我不吃肉。 : I don't eat meat
   肉 @ròu : meat
 你要面条还是米饭？ : do you want noodles or rice?
@@ -1156,7 +1156,7 @@
   is sometimes used in more formal settings (您 is never followed by 们, it can be either singular or
   plural by itself)
  
-```aln
+```logm
 我们在哪个站下车？ : at which stop do we get off?
   站 @zhàn : station <railway station, etc.>
   下车 !下車 @xiàchē #vo : to get off a vehicle / to exit a vehicle
@@ -1229,7 +1229,7 @@
   before an adjective for the same. Bare in mind that 有点儿 has somewhat of a complaint connotation,
   while 一点儿 is more neutral, 一点儿  can also be used after an adjective to imply comparison(?)
 
-```aln
+```logm
 我会说一点儿汉语。 : I can speak a little bit of Chinese / I can speak a little CHinese
 请问，这是什么意思？ : excuse me, what does this mean?
   意思 @yìsi : meaning
@@ -1259,7 +1259,7 @@
   counter). Memorizing which counter goes with what word is an annoyingly long part of learning
   Chinese.
 
-```aln
+```logm
 我们下午三点钟会见朋友。 : we'l see a friend at three in the afternoon / we'll see a friend at 3 pm 
   点钟 !點鐘 @diǎnzhōng : o'clock
     钟 !鐘 @zhōng : bell ; clock
@@ -1348,7 +1348,7 @@
     linked with 的 (踢两个小时的足球 is 'to play soccer for two hours'). If the 了 particle is present
     to make the verb perfective, it's sill placed after the verb and before the time
 
-```aln
+```logm
 桌子上有两个瓶子。 : there are two bottles on the table
   瓶子 @píngzi : bottle
     瓶 @píng : bottle
@@ -1421,7 +1421,7 @@
     such cases, it's often untranslated in English, for example: 我今天生病了。 means "I am sick
     today", 了 is added because this implies a change (usually one is not sick)
 
-```aln
+```logm
 我们周末出去喝咖啡吧！ : let's go out and drink coffee on the weekend
   出去 @chūqù #vc : to go out
   吧 @ba : =particle <emphatic final particle, various meanings: making a suggestion, imperative mood and more>
@@ -1521,7 +1521,7 @@
     is never used in a negative sentence (similar to only: I only got off work at 11)
   - **完**, use 完 after a verb to say "finish VERB-ing", or 完了 if the action is already finished
 
-```aln
+```logm
 这个星期六我们有派对。 : we have a party this Saturday
   派对 !派對 @pàiduì #informal : party
     派 @pài : school of thought
@@ -1603,7 +1603,7 @@
     他的鸟比我的鸟可爱 means "hits bird is cuter than mine"
   - *Both X and Y*: use the 又X又Y structure to say "both x and y"
 
-```aln
+```logm
 你想买哪双鞋子？ : which pair of shoes would you like to buy?
   双 !雙 @shuāng : pair #counter <shoes, shopsticks, etc.>
   鞋子 @xiézi : shoe
@@ -1682,7 +1682,7 @@
     so 着 is inserted after it and before 雨 (in fact, 在 and 着 are often both used at once)
 
 
-```aln
+```logm
 我会坐晚上九点半的飞机去伦敦。 : I'll take the 9:30 pm flight to London
   飞机 !飛機 @fēijī : airplane
     飞 !飛 @fēi : to fly
@@ -1772,7 +1772,7 @@
   - *给* can mean either "to give" or be like the preposition "to". In a more idiomatic phrase, it
     can be used for introductions (我给你介绍 roughly means "let me introduce you")
 
-```aln
+```logm
 我不喜欢黄的，我喜欢白的。 : I don't like the yellow one, I like the white one
   黄色 !黃色 @huángsè : the color yellow
     黄 !黃 @huáng : yellow
@@ -1840,7 +1840,7 @@
     in state) to say that "verb" is about to happen (比赛快要开始了！for "the game is about to
     start")
 
-```aln
+```logm
 新年快乐！ : happy New Year!
   新年快乐 !新年快樂 @xīnniánkuàilè : happy New Year
     新年 @xīnnián : New Year <in the Gregorian calendar or the Chinese one>
@@ -1923,7 +1923,7 @@
     more than Y, "X is more than Y", the structure is "X像Y一样", you can also say "X is as adjective
     as Y" by adding an adjective after 一样
 
-```aln
+```logm
 请问，你有没有笔？ : excuse me, do you have a pen?
   笔 !筆 @bǐ : writing brush ; pen
 我没有笔。 : I don't have a pen
@@ -2008,7 +2008,7 @@
 - **Syntax**: to make a phrase like English "it was X that Y", use the structure "X是Y的", you can
   make this a question as usual by adding 吗 at the end
 
-```aln
+```logm
 火锅里有肉、菜和鱼。 : there are meat, vegetables, and fish in the hot pot
   火锅 !火鍋 @huǒguō : hot pot / fondue <communeal meal>
     锅 !鍋 @guō : cooking pot / wok
@@ -2081,7 +2081,7 @@
 - **Vocabulary**: describe places, ask for a refund, formal and informal words for money (元 vs 块,
    角 vs 毛 and 分 in both cases), use 附近 after a location to say "near X"
 
-```aln
+```logm
 上海是一个大城市。 : Shanghai is a big city
   城市 @chéngshì : city
     城 @chéng : city wall
@@ -2152,7 +2152,7 @@
     (除了X, Y都{verb}, means "excefor for X, Y (all)). If the next word is followed by 还 instead,
     then this becomes "in addition to X, (also) Y"
 
-```aln
+```logm
 很晚睡觉不是一个好习惯。 : sleeping late is not a good habit
   习惯 !習慣 @xíguàn : to be in the habit of ; habit
     惯 !慣 @guàn : to be used to
@@ -2237,7 +2237,7 @@
     say that X is "more {adj} / {ajd}-er", without saying compared to what), you simply need to use
     比较 **before** the adjective
 
-```aln
+```logm
 你今年几年级？ : what grade are you in this year?
   今年 @jīnnián : this year
   年级 !年級 @niánjí : grade #education <year of schooling>
@@ -2309,7 +2309,7 @@
   - *Oneself*: use 自己 before a verb to say "by oneself", use 一个人 before a verb to say "(to
     verb) alone" instead, you can combine them and say 自己一个人 for emphasis (alone by oneself)
 
-```aln
+```logm
 你一般几点下班？ : what time do you normally get off work?
   一般 @yībān : general ; usually
     般 @bān : sort / kind
@@ -2346,7 +2346,7 @@
   If the verb has an object or is separable, you have to repeat the verb again before adding 了
   (他们学中文学了两年了 they have been learning Chinese for two years)
 
-```aln
+```logm
 别忘记带护照。 : don't forget to bring your passport
   忘记 !忘記 @wàngjì : to forget
     忘 @wàng : to forget
@@ -2425,7 +2425,7 @@
     the verb, while 地 comes before it (and 得 is a potential complement which shows the result)
 
 
-```aln
+```logm
 明天有考试，我很紧张。 : there is a test tomorrow, I'm nervous
   紧张 !緊張 @jǐnzhāng : nervous
     紧 !紧 @jǐn : tense
@@ -2509,7 +2509,7 @@
     direction, the whole expression like "上去 (go up)" can in turn be used after motion verbs like
     走 or 跑  to say "walk/run/etc. (up,down)"
 
-```aln
+```logm
 我快要去澳大利亚留学了！ : I'm going to study abroad in Australia soon
   留学 !留學 @liúxué : to study abroad
     留 @liú : to leave behind
@@ -2619,7 +2619,7 @@
   - *Intensifiers*: you can use *多么* or *真* before an adjective as intensifier (as in 'how cute',
     or 'so cute'), you can also add 啊 at the end of the phrase for further emphasis
 
-```aln
+```logm
 王先生是我们的新同事。 : Mr Wang is our new colleague
   先生 @xiānshēng : mister / Mr <literally 'born earlier'> 
   同事 @tóngshì : colleague / coworker
@@ -2685,7 +2685,7 @@
    something (感兴趣 or 有兴趣 means to be interested in, and 对 followed by the thing in question
    is used before it), say "more than" (use 多 **after** an amount)
 
-```aln
+```logm
 周末我经常一个人骑自行车。 : I often go cycling alone on weekends
   骑 !騎 @qí : to ride <horse, bike, etc.>
   自行车 !自行車 @zìxíngchē : bike / bicycle
@@ -2765,7 +2765,7 @@
 
 - **Vocabulary**: talk about travel, discuss language learning
 
-```aln
+```logm
 转机柜台在哪里？ : where is the transfer counter?
   转机 !轉機 @zhuǎnjī #vo : to transfer <flights>
     转 !轉 @zhuǎn : to change
@@ -2838,7 +2838,7 @@
     the verb will then be understood to be passive (note: can't this also be used without an agent,
     but directly before a verb to make it passive?)
 
-```aln
+```logm
 请把空调关了。 : please turn off the air conditioner
   把 @bǎ : =direct_object <preposition marking a direct object to change the usual SVO order>
   空调 !空調 @kōngtiáo : air conditioner
@@ -2921,7 +2921,7 @@
 - **Grammar**: when verbs are repeated, this indicates a brief, casual action (ex: 看看 which roughly
   means to take a look), sometimes 一 is inserted between them (看一看 instead)
 
-```aln
+```logm
 他们想拿一张城市地图。 : they want to get a city map
   地图 !地圖 @dìtú : map
 这里没有红绿灯。 : there are no traffic lights here
@@ -3016,7 +3016,7 @@
   **Dragon Boat Festival** (端午节), where people eat sticky rice dumplings (粽子) and watch dragon
   boat races (龙舟比赛)
 
-```aln
+```logm
 我升职了！ : I got promoted!
   升职 !升職 @shēngzhí #vo : to promote
     升 @shēng : to raise
@@ -3094,7 +3094,7 @@
   held the rank of Gongbao, the chewy tapioca balls that fill the bottom of Bubble Milk Tea
   (珍珠奶茶) look like bubbles (珍珠 actually means pearls, not bubbles)
 
-```aln
+```logm
 珍珠奶茶好喝吗？ : does bubble milk tea taste good?
   珍珠奶茶 @zhēnzhūnǎichá : bubble tea
     珍珠 @zhēnzhū : pearl ; tapioca pearl
@@ -3194,7 +3194,7 @@
   answering such a question, you can start with "免贵" to say there is no need to be so formal and
   use 贵
 
-```aln
+```logm
 请给我收据。 : please give me a receipt
   收据 !收據 @shōujù : receipt
 旅游费用不可以报销。 : travel costs cannot be reimbursed
@@ -3280,7 +3280,7 @@
   impersonal to say that 'X happened', but you can use it with a subject to say that 'X is happened
   to {subject}')
 
-```aln
+```logm
 救命！快！ : help! quick!
   救命 @jiùmìng #vo : to rescue someone
     救 @jiù : to save / to rescue
@@ -3355,7 +3355,7 @@
   actual translation is "owl". There are countless such words in Chinese. Most are made of 2
   characters, but not all as this example proves.
 
-```aln
+```logm
 天气很干燥，你要多喝水。 : the weather is dry, you need to drink more water
   干燥 !乾燥 @gānzào : dry
     燥 @zào : dry
@@ -3439,7 +3439,7 @@ rehabiliated).
 前进！ 前进！ 进！
 ```
 
-```aln
+```logm
 不愿做奴隶的人们！ : unwilling to be slaves
   不愿 !bùyuàn : to be unwilling
   奴隶 !奴隸 @núlì : slave
@@ -3487,7 +3487,7 @@ rehabiliated).
 我这次没有失误，一分钟跳了145个，我的心砰砰乱跳，都快蹦出来了，妈妈弃权了，我成了全家中的第一名，，我好开心。
 ```
 
-```aln
+```logm
 我们家的跳绳比赛 : our family's jump rope contest
   跳绳 !跳繩 @tiàoshéng : jump rope
     绳 !繩 @shéng : rope
@@ -3529,7 +3529,7 @@ rehabiliated).
 花炮放完了，我们就高高兴兴地回家了。
 ```
 
-```aln
+```logm
 我和爸爸妈妈一起放花炮。  : my parents and I set off fireworkds together
   放花炮 : setting off fireworks
     花炮 @huāpào : fireworks
@@ -3583,7 +3583,7 @@ children they don't know.
 我们一定会多捉害虫。”我听了感到真不好意思，晚上，就悄悄把它们放回了大自然。
 ```
 
-```aln
+```logm
 前几天， : in the last few days
   前几天 !前幾天 @qiánjǐtiān : the other day ; the past days
     几天 !幾天 @jǐtiān : a few days ; how many days?
@@ -3639,7 +3639,7 @@ This is a well-known nursery jingle written 1400 years ago, by the Tang Dynasty 
 红掌拨清波。
 ```
 
-```aln
+```logm
 咏鹅 : ode to geese
   咏 !詠 @yǒng : to sing ; to describe in poetic language
   鹅 !鵝 @é : domestic goose
@@ -3668,7 +3668,7 @@ called Li Po (701-762AD).
 低头 思 故乡。
 ```
 
-```aln
+```logm
 静夜思 : quiet night thought
   夜 @yè : night
 床前明月光， : before my bed the bright moon's glow
@@ -3702,7 +3702,7 @@ called Li Po (701-762AD).
 湿湿的泥土。
 ```
 
-```aln
+```logm
 露珠 @lùzhū : dewdrop
   露 @lù : dew
 
@@ -3746,7 +3746,7 @@ called Li Po (701-762AD).
 小学生: “老师，我明白了。我爸爸的秃头就是一片沙漠。”
 ```
 
-```aln
+```logm
 沙漠是一块又长又宽的地方， : a desert is a long, wide place
   沙漠 @shāmò : desert
     沙 @shā : sand
@@ -3778,7 +3778,7 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
 秋子起立回答: “老师，最好的办法是:这一次在我的成绩通知单上全填5分！”
 ```
 
-```aln
+```logm
 父子不和 : father and son don't get along
   父子 @fùzǐ : father and son
   不和 @bùhé : on bad terms ; to not get along

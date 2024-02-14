@@ -12,7 +12,7 @@ the same computer.
 When cloning a Git project (from Github, Gitlab, etc.), Git uses "origin" as the default name for
 the server you cloned from.
 
-```aln
+```logm
 command to show the list of current remote servers : git remote
     git remote option to show the full URL of each remote : -v
 command to add a remote with a {shortname} and {url} : git remote add shortname url
