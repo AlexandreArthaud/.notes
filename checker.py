@@ -17,7 +17,6 @@ if __name__ == '__main__':
     in_logm_section = False
     
     for path in markdown_list:
-        print(f"On {path}:")
         with open(f'{sys.argv[1]}/{path}', 'r', encoding='utf-8') as markdown_input:
             for index, line in enumerate(markdown_input.readlines()):
                 if '```' in line:
@@ -34,6 +33,7 @@ if __name__ == '__main__':
                 if not line.isspace(): # not an empty line
                     if not line.strip().startswith('#'): # not a heading
                         if ' : ' not in line: # line has no separator (it should):
+                                print(f"On {path}: ")
                                 print(f"\tLine {index}: No separator: {line}", end='')
 
 

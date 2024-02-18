@@ -2,7 +2,150 @@
 
 ## Courses
 
-### Duolingo
+### Duolingo (=February 2024)
+
+- **Leaving out 的**: 的 can sometimes be omitted when saying "my" or "your", this happens often with
+  close relationships (我妈妈​ for "my mother" instead of 我的妈妈), but also for institutional ones
+  (他老师 for his teacher)
+- **Forming future with 会**: 会 can be used as an auxiliary to form the future tense. This works
+  very similar to English auxiliary *will* (and 不会 for *won't*)
+
+```logm
+茶和水 : tea and water
+茶和咖啡 : tea and coffee
+这是冰茶。 : this is iced tea
+这是水。 : this is water
+你的汤 : your soup
+这是你的水。 : this is your water
+中国和美国 : China and America
+这是美国。 : tihs is America
+你好，我是中国人。 : hello, I'm Chinese
+你好，我是英国人。 : hello, I'm British
+我是美国人，你呢？ : I'm American, and you?
+我是意大利人。 : I'm Italian
+
+我是中文老师，你呢？ : I'm a Chinese teacher, and you?
+我是医生。 : I'm a doctor
+你是英文老师，对不对？ : you're an English teacher, right?
+  对不对 !對不對 @duìbùduì #tag_question : right? 
+我说中文，你呢？ : I speak Chinese, and you?
+我说英文。 : I speak English
+我喜欢日本菜。 : I like Japanese food
+我喜欢汉堡包！ : I like hamburgers!
+  汉堡包 !漢堡包 @hànbǎobāo : hamburger
+    汉堡 !漢堡 @hànbǎo : Hamburg ; hamburger
+      堡 @bǎo : small camp <often used in phono-semantic matchings for Western -burg, -burgh>
+你不喜欢音乐课，对不对？ : you don't like music class, right?
+对，我不喜欢音乐课。 : that's right, I don't like music class
+你喜欢上网，对不对？ : you like going online, right?
+对，我喜欢上网。 : that's right, I like going online
+
+她是美国人。 : she's American
+他喜欢旅行。 : he likes traveling
+  旅行 @lǚxíng : to go on a trip
+我的女儿是服务员。 : my daughter is a waitress
+真的吗？我也是服务员。 : really? I'm also a waiter
+  真的 @zhēnde : really
+我喜欢去饭馆。 : I like going to the restaurant
+我常常吃中国菜。 : I often eat Chinese food
+  常常 @chángcháng : often / frequently
+他常常买日本零食。 : he often buys Japanese snacks
+  零食 @língshí : snack
+她常常看韩文书。 : she often reads Korean books
+  韩文 !韓文 @Hánwén : Korean language ; Hangeul / Hangul
+你不常去中文书店，对不对？ : you don't go to the Chinese bookstore often, right?
+  不常 @bùcháng : not often
+  书店 !書店 @shūdiàn : bookstore
+我常常去韩文书店。 : I often go to the Korean bookstore
+
+三杯水，谢谢。 : three cups of water, thanks
+一杯咖啡，谢谢。 : a cup of coffee, thanks
+两杯奶茶，谢谢！ : two cups of milk tea, thanks!
+你要加冰吗？ : do you want to add ice?
+我不要加冰，谢谢。 : I don't want to add ice, thanks
+哎呀，这不是我的茶。 : oh no, this is not my tea
+  哎呀 @āiyā : aiya <for surprise, annoyance, pain, frustrutation, sarcasm....>
+    哎 @āi : =interjection of surprise
+    呀 @yā : =interjection of surprise
+你好，火车站在哪里？ : hello, where is the train station?
+火车站在这里。 : the train station is here
+哎呀，我的手机在哪里？ : oh no, where is my cell phone?
+你的手机在这里。 : your cellphone is here
+第一站台在这里，对不对？ : the first platform is here, right?
+  站台 !站臺 @zhàntái : platform <for bus, railway, subway>
+对，第一站台在这里。 : that's right, the first platform is here
+
+我有两个新同学。 : I have two new classmates
+嗨，你叫什么名字？ : hi, what's your name?
+  嗨 @hāi #colloquial : hi
+我叫玛丽，你呢？ : my name is Mary, and you?
+  玛丽 !瑪麗 @Mǎlì : Mary
+    玛 !瑪 @mǎ : =phonetic ; =surname
+我叫凯文，很高兴认识你！ : my name is Kevin, nice to meet you
+  凯文 !凱文 @Kǎiwén : Kevin
+    凯 !凱 @kǎi : triumph
+我有两节课，你呢？ : I have two classes, and you?
+  节课 !節課 @jiékè : class <a period?>
+凯文和我都有音乐课。 : Kevin and I both have music class
+你喜欢喝奶茶还是绿茶？ : do you like to drink milk tea or green tea?
+  绿茶 !綠茶 @lǜchá : green tea
+我喜欢喝奶茶。 : I like to drink milk tea
+明天你想去公园还是书店？ : tomorrow would you like to go to the park or the bookstore?
+明天我想去公园。 : tomorrow I'd like to go to the park
+我想吃水果。 : I'd like to eat fruit
+我们去超市买水果吧。 : let's go to the supermarket to buy fruit
+
+你的客厅很大！ : your living room is big
+这是我的新公寓。 : this is my new apartment
+  公寓 @gōngyù : apartment / flat
+    寓 @yù #literary : to dwell
+你的公寓很漂亮。 : your apartment is beautiful
+我妈妈的房间很大。 : my mom's bedroom is big
+你的沙发很舒服。 : your sofa is comfortable
+  沙发 !沙發 @shāfā : sofa
+    沙 @shā : sand
+我还没有电视。 : I still don't have a TV
+我的妈妈​ : my mom
+我妈妈​ : my mom
+他的老师​ : his teacher
+他老师​ : his teacher
+你的爷爷​ : your grandfather
+你爷爷​ : your grandfather
+下个月我会去北京。 : next month I'll go to Beijing
+你会怎么去北京？ : how will you go to Beijing?
+北京很远，我会坐飞机。 : Beijing is far, I'll take a plane
+故宫很有名。 : the Forbidden City is famous
+公交车很便宜。 : the bus is cheap
+  公交车 !公交車 @gōngjiāochē : bus
+  公共交通 @gōnggòngjiāotōng : public transport
+    交通 @jiāotōng : transport / transportation
+      通 @tōng : to pass through
+    公交 @gōngjiāo : public transport <short for 公共交通> ; bus <short for 公交车>
+      交 @jiāo : to hand over
+我会坐公交车去长城。 : I'll take a bus to go to the Great Wall
+他们下个月会很忙。  : they'll be busy next month
+我明天不会去医院。 : I won't go to the hospital tomorrow
+他今天晚上会来吗？ : will he come tonight?
+
+凯文，明天会很冷！ : Kevin, tomorrow will be cold
+我们去买毛衣吧！ : let's go buy sweaters
+  毛衣 @máoyī : sweater
+玛丽，那件大衣怎么样？ : Mary, how is that coat?
+  大衣 @dàyī : coat
+那件大衣很漂亮。 : that coat is beautiful
+这条裤子怎么样？ : how is this pair of pants?
+哎呀，这条裤子有一点贵！ : oh no, this pair of pants is a little expensive
+后天是她的生日。 : the day after tomorrow is her birthday
+你会去她的派对吗？ : will you go to her party?
+我会送她巧克力，你呢？ : I'll give her chocolate, and you?
+我想送她一条白色的围巾。 : I'd like to give her a white scarf
+  围巾 !圍巾 @wéijīn : scarf
+    巾 @jīn : towel
+我想送她那条绿色的裙子。 : I'd like to give her that green skirt
+祝你生日快乐，玛丽！ : wishing you a happy birthday, Mary
+```
+
+### Duolingo (<February 2024)
 
 #### Section Notes
 
@@ -328,7 +471,7 @@
     京 @jīng : capital city #bound
 她住在台湾。 : she lives in Taiwan
   台湾 !臺灣 @Táiwān : Taiwan
-    台 !臺 @tái : tower
+    台 !臺 @tái : tower ; platform
     湾 !灣 @wān : bend in a river
 伦敦不在美国。 : London isn't in the USA / London isn't in America
   伦敦 !倫敦 @Lúndūn : London
@@ -888,7 +1031,7 @@
     韩 !韓 @hán : Han <historical name for various things>
   电视节目 !電視節目 @diànshìjiémù : TV show / television show / television program
     节目 !節目 @jiémù : program / show
-      节 !節 @jié : celebration
+      节 !節 @jié : celebration ; segment
       目 @mù : eye #literary
 这里的咖啡不贵。 : the coffee here is not expensive
   贵 !貴 @guì : expensive
@@ -3749,7 +3892,6 @@ called Li Po (701-762AD).
 ```logm
 沙漠是一块又长又宽的地方， : a desert is a long, wide place
   沙漠 @shāmò : desert
-    沙 @shā : sand
     漠 @mò : desert
   宽 !寬 @kuān : wide
 上面光光的 : its surface is very bright
@@ -3799,6 +3941,5 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
 最好的办法是:这一次在我的成绩通知单上全填5分！ : the best way is to give me five stars on my next report card
   通知单 !通知單 @tōngzhīdān : letter of notice
     通知 @tōngzhī : to inform
-      通 @tōng : to pass through
   填 @tián : to fill
 ```

@@ -4,6 +4,53 @@
 
 ### Duolingo
 
+#### Unit 100
+
+- **Word Order**: the verb comes at the end of a sentence
+- **Omitting Subjects**: it's common to emit the subject of a sentence, a statement without a
+  subject is generally understood to be about the speaker, while a question without a subject is
+  generally understood to be a question about the listener
+- **Particles**: particles are small words that connect different parts of a sentence, for example
+  は (pronounced wa as particle) marks the topic (what the sentence is about), while の marks
+  possession (~genitive). Particles can be considered to be *case markers*.
+- **Honorifics**: Honorifics suffixes are added at the end of someone's name (either given or
+  surname) to show respect. This is somewhat similar to titles like Mr. or Mrs., but the system is
+  far more expansive in Japanese, with many such suffixes. -さん is the most generic of these
+  suffixes, used between strangers. It's gender neutral, but not as generic as Mr. and Mrs. It's
+  usually left out when translating to English (the use of honorifics being so widespread).
+
+```logm
+なおみさんはサッカーをします。 : Naomi plays soccer
+  さん #suffix : =honorific <most generic honorific suffix>
+  サッカー : soccer
+  を @o : =accusative particle
+  する {し した } #transitive : to do
+けんさんはりんごを食べます。 : Ken eats apples
+  林檎 @りんご : apple
+    林 @はやし : copse
+  食べる : to eat
+    食 @うか : food
+サムさんはおちゃを飲みます。 : Sam drinks tea
+  お茶 @おちゃ : tea <usually green tea>
+    御 @お/ご #prefix <usually spelled in hiragana> : =honorific_prefix
+  飲む @のむ : to drink
+
+りんごを食べます : I'll eat an apple / I'll eat the apple
+りんごを食べますか。 : will you eat an apple? / will you eat the apple?
+
+けんさんは学生です。  : Ken is a student
+  学生 @がくせい : student
+    学 @がく : scholarship
+けんさんの本 : Ken's book
+  本 @ほん : book
+
+山田けんさん : Yamada Ken
+  山田 @やまだ : =surname
+    山 @やま : mountain
+    田 @た : rice paddy
+なおみさん : Naomi
+```
+
 #### Unit 101
 
 - **Vocabulary**: order food, describe people
@@ -23,8 +70,6 @@
 ください : please <after a noun this means "please give me {noun}", after a te-form verb it just means "please", this is the polite imperative form of 下さる>
   下さる @くださる #honorific : to give ; to do something for me <or us>
 お茶、ください！ : green tea, please!
-  お茶 @おちゃ : tea <usually green tea>
-    御 @お/ご #prefix <usually spelled in hiragana> : =honorific_prefix
 ご飯と水、ください！ : rice and water, please!
   ご飯 @ご​はん : cooked rice ; meal
     飯 @めし : cooked rice ; meal #informal
@@ -32,7 +77,7 @@
   水 @みず : water
 寿司と水 : sushi and water
 水です。 : it's water
-だ {formal:です} : to be <used after parts of speech that do not decline (nouns, na-adjectives, adverbs)>
+  だ {formal:です} : to be <used after parts of speech that do not decline (nouns, na-adjectives, adverbs)>
 医者です。 : she's a doctor / he's a doctor
   医者 @いしゃ : doctor
     医 @い : medicine
@@ -53,8 +98,6 @@
   人 @ひと : person
 
 格好がくせい : a cool student
-  学生 @がくせい : student
-    学 @がく : scholarship
 ```
 
 #### Unit 102
@@ -90,7 +133,6 @@
   明日 @あした #colloquial : tomorrow
     明 @めい : brightness
 けんさん、今日は。 : hello, Ken
-  さん #suffix : =honorific <most generic honorific suffix>
 これはカレーです。 : this is curry
   これ : this
   カレー : curry
@@ -117,3 +159,41 @@
 ```
 
 #### Unit 103
+
+- **Vocabulary**: talk about countries, ask for directions
+- **WH-Questions**: when forming a wh-question in a polite tone, the wh word comes before the final
+  ですか (ホテルはここですか。 = is the hotel here?)
+- **Writing**: it's common for a Japanese sentence to contain both hiragana and katakana (and kanji),
+  for example: わたしはアメリカじんです。 = I'm American
+
+```logm
+アメリカはおおきいです。 : America is big
+  アメリカ : United States ; America
+  大きい @おおきい : big / large
+    大 @だい #prefix : big / large
+カナダじんです。 : I'm Canadian
+  カナダ : Canada
+  人 @じん #suffix : person
+けんさんはブラジルじんですか。 : is Ken Brazilian?
+  ブラジル : Brazil
+なおみさんはイギリスじんです。 : Naomi is British
+  イギリス : United Kingdom
+これはアメリカです。 : this is America
+わたしはアメリカじんです。 : I'm American
+  私 @わたし #polite : I 
+ホテルはどこですか。 : where is the hotel?
+  ホテル : hotel
+  どこ : where ; which
+ホテルはそこです。 : the hotel is there
+  そこ : there
+バスていはここですか。 : is the bus stop here?
+  バス停 @バスてい : bus stop
+はい、ここです。 : yes, it's here
+  ここ : here
+これはデパートですか。 : is this a department store?
+  デパートメントストア -=デパート : department store
+なおみさんはどこですか : where is Naomi?
+ホテルはここですか。 : is the hotel here?
+```
+
+#### Unit 104
