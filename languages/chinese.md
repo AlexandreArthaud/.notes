@@ -2,7 +2,7 @@
 
 ## Courses
 
-### Duolingo (=February 2024)
+### Duolingo (Update)
 
 - **Leaving out 的**: 的 can sometimes be omitted when saying "my" or "your", this happens often with
   close relationships (我妈妈​ for "my mother" instead of 我的妈妈), but also for institutional ones
@@ -36,9 +36,9 @@
     汉堡 !漢堡 @hànbǎo : Hamburg ; hamburger
       堡 @bǎo : small camp <often used in phono-semantic matchings for Western -burg, -burgh>
 你不喜欢音乐课，对不对？ : you don't like music class, right?
-对，我不喜欢音乐课。 : that's right, I don't like music class
+对，我不喜欢音乐课。 : that is right, I don't like music class
 你喜欢上网，对不对？ : you like going online, right?
-对，我喜欢上网。 : that's right, I like going online
+对，我喜欢上网。 : that is right, I like going online
 
 她是美国人。 : she's American
 他喜欢旅行。 : he likes traveling
@@ -73,7 +73,7 @@
 你的手机在这里。 : your cellphone is here
 第一站台在这里，对不对？ : the first platform is here, right?
   站台 !站臺 @zhàntái : platform <for bus, railway, subway>
-对，第一站台在这里。 : that's right, the first platform is here
+对，第一站台在这里。 : that is right, the first platform is here
 
 我有两个新同学。 : I have two new classmates
 嗨，你叫什么名字？ : hi, what's your name?
@@ -143,9 +143,30 @@
     巾 @jīn : towel
 我想送她那条绿色的裙子。 : I'd like to give her that green skirt
 祝你生日快乐，玛丽！ : wishing you a happy birthday, Mary
+
+你好，欢迎光临。 hello, welcome
+这四个包子多少钱？ : how much are these four buns?
+这三个肉包子六元。 : these three meat buns are six yuan
+那三瓶牛奶多少钱？ : how much are those three bottles of milk?
+你想付现金还是刷卡？ : would you like to pay with cash or to pay by card?
+  付 @fù : to give ; to pay
+  刷卡 @shuākǎ : to pay by card
+我想付现金，谢谢。 : I'd like to pay with cash, thanks
+这个周末他不忙。 : he's not busy this weekend
+这个周末我会去打篮球。 : this weekend I'll go play basketball
+妈妈，这个周末天气怎么样？ : mom, how's the weather this weekend?
+我想去旅行，但是会下雨。 : I'd like to go traveling but it will rain
+你可以来我家看电视。 : you can come to my home to watch TV
+你也可以去超市买东西。 : you can also go to the supermarket to buy things
+
+我有三个孩子。 : I have three children
+我的女儿十七岁。 : my daughter is 17 / my daughter is 17 years old
+这是我们的猫。 : this is our cat
+我的哥哥的女朋友很漂亮。 : my older brother's girlfriend is very pretty
+那是我们的朋友。 : that is our friend
 ```
 
-### Duolingo (<February 2024)
+### Duolingo 
 
 #### Section Notes
 
@@ -772,7 +793,7 @@
   猫 !貓 @māo : cat
 你的弟弟矮不矮？ : is your yonger brother short?
   矮 @ǎi : short
-那是我们的朋友。 : that's our friend
+那是我们的朋友。 : that is our friend
 你高兴不高兴？ : are you happy?
 他忙不忙？ : is he busy?
 她们忙吗？ : are they busy?
@@ -1133,7 +1154,7 @@
   东西 !東西 @dōngxi : tihng / stuff
     东 !東 @dōng : east
     西 @xī : west
-这些苹果多少钱？ : how much are these apple?
+这些苹果多少钱？ : how much are these apples?
   这些 !這些 @zhèxiē : these
   苹果 !蘋果 @píngguǒ : apple
     苹 !蘋 @píng : =phonetic
@@ -2355,7 +2376,7 @@
 孩子睡觉以前，他们的爸爸会讲故事。 : before the kids go to sleep, their dad will them stories
   讲故事 !講故事 : to tell a story / to tell stories
 哪里的饺子最好吃？ : where can we get the best dumplings?
-你明天来看我？好极了！ : you're coming to see me tomorrow? great! / you're coming to see me tomorrow? that's great!
+你明天来看我？好极了！ : you're coming to see me tomorrow? great! / you're coming to see me tomorrow? that is great!
   好极了 !好極了 @hǎojíle : excellent
 这是他以前的女朋友。 : this is his previous girlfriend
 对不起，这个鸡肉很难吃。 : I'm sorry, this chicken is terrible / sorry, this chicken is terrible
@@ -2675,8 +2696,8 @@
   搬 @bān : to move <houses>
 她是认真的！​ : she's serious!
   认真 !認真 @rènzhēn : serious <as in meticulous>
-那是好的！​ : that's good!
-这不是真的！​ : this isn't rela!
+那是好的！​ : that is good!
+这不是真的！​ : this isn't real!
 你觉得这里的环境怎么样？ : what do you think about the environment here?
   环境 !環境 @huánjìng : environment
     环 !環 @huán : circle ; to surround
@@ -3007,6 +3028,7 @@
 请把画放在这里。​ : please put the painting here
   画 !畫 @huà : painting
 蛋糕被狗吃了。​ : the cake was eaten by the dog
+  被 @bèi : by <introduces agent> ; =passive <before a verb, often with negative connotation>
 手机被我的弟弟用坏了。​ : the cellphone was broken by my mother
   坏 !壞 @huài : to break
 牛奶被猫喝完了。​ : the milk was finished by the cat
@@ -3166,6 +3188,7 @@
     职 !職 @zhí : duty
 是啊，经理很满意你的工作。 : yes, the manager is happy with your work
   满意 !滿意 @mǎnyì : to be satisfied
+    满 !滿 @mǎn : full
 你认为她的表现怎么样？ : what do you think of her performance?
   认为 !認為 @rènwéi : to think / to believe
   表现 !表現 @biǎoxiàn : performance <at work,school,etc.>

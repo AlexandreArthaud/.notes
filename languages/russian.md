@@ -49,4 +49,19 @@
 оставшиеся позади : left behind
   остава́ться {остаю́сь остаёшься} | оста́ться {оста́нусь оста́нешься} : to stay
   позади́ [GEN] : behind
+
+# Cutscene 01
+послушай, он подрядчик, ясно? : look, he's a contractor, okay?
+  подря́дчик : contractor
+подвинься… : move over
+  подвига́ться | подви́нуться : to move
+на работе достали, да? : work was annoying, right?
+  достава́ть {достаю́ достаёшь} | доста́ть {доста́ну доста́нешь} : to annoy #colloquial ; to reach
+чего не спишь? уже поздно : why aren't you sleeping? it's late already
+  чего́ #colloquial : what ; why
+  спать {сплю́ спи́шь} | поспа́ть : to sleep
+ско́лько вре́мени? : what time is it? ; how long?
+тебе давно спать пора : it's past your bedtime
+  давно́ : long ago
+…
 ```
