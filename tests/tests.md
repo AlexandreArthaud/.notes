@@ -8,4 +8,6 @@ answer with a then b and c then d or e : a => b ; c => d / e
 
 question with note <question note> : answer
 question with tag #tag : answer
+
+question with 'single quotes' : answer with 'single quotes'
 ```
