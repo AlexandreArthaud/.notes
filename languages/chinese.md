@@ -1,8 +1,22 @@
 # Chinese
 
+## Terminology
+
+### Names
+
+```logm
+# Western
+汤姆 !湯姆 @Tāngmǔ : Tom
+  姆 @mǔ : woman who looks after small children
+玛丽 !瑪麗 @Mǎlì : Mary
+  玛 !瑪 @mǎ : =phonetic ; =surname
+凯文 !凱文 @Kǎiwén : Kevin
+  凯 !凱 @kǎi : triumph
+```
+
 ## Courses
 
-### Duolingo (Update)
+### Duolingo (Feb 2024)
 
 - **Leaving out 的**: 的 can sometimes be omitted when saying "my" or "your", this happens often with
   close relationships (我妈妈​ for "my mother" instead of 我的妈妈), but also for institutional ones
@@ -79,11 +93,7 @@
 嗨，你叫什么名字？ : hi, what's your name?
   嗨 @hāi #colloquial : hi
 我叫玛丽，你呢？ : my name is Mary, and you?
-  玛丽 !瑪麗 @Mǎlì : Mary
-    玛 !瑪 @mǎ : =phonetic ; =surname
 我叫凯文，很高兴认识你！ : my name is Kevin, nice to meet you
-  凯文 !凱文 @Kǎiwén : Kevin
-    凯 !凱 @kǎi : triumph
 我有两节课，你呢？ : I have two classes, and you?
   节课 !節課 @jiékè : class <a period?>
 凯文和我都有音乐课。 : Kevin and I both have music class
@@ -144,7 +154,7 @@
 我想送她那条绿色的裙子。 : I'd like to give her that green skirt
 祝你生日快乐，玛丽！ : wishing you a happy birthday, Mary
 
-你好，欢迎光临。 hello, welcome
+你好，欢迎光临。 : hello, welcome
 这四个包子多少钱？ : how much are these four buns?
 这三个肉包子六元。 : these three meat buns are six yuan
 那三瓶牛奶多少钱？ : how much are those three bottles of milk?
@@ -805,9 +815,6 @@
     可 @kě : can <often as prefix like English -able>
 她说得不快。 : she doesn't speak fast / she doesn't speak quickly
 
-非常 @fēicháng : extremely
-  非 @fēi : not
-  常 @cháng : normal ; constant ; frequent
 ```
 
 #### Unit 203
@@ -1202,8 +1209,8 @@
 因为这个太贵，(所以)我不买。 : because this is too expensive, I won't buy it
 (因为)我要去中国，所以我学习中文。 : (Because) I want to go to China, so I'm learning Chinese
   所以 @suǒyǐ : therefore / so
-    所 @suǒ : location / place #bound
-    以 @yǐ : by means of
+    所 @suǒ : location / place #bound ; =prefix <prefix before verb to form noun phrase, similar to a passive particle>
+    以 @yǐ : by means of ; in order to
 
 请给我一包苹果。 : please give me a bag of apples
   给 !給 @gěi : to give ; to
@@ -1556,7 +1563,7 @@
 你星期几去跑步？ : what day of the week do you go running?
   跑步 @pǎobù : to run
     跑 @pǎo : to run
-    步 @bù : to wlak
+    步 @bù : to walk
 我喜欢游泳。 : I like to swim
 她喜欢跑步。 : she likes to run
 他们不喜欢跳舞。 : they don't  like to dance
@@ -2617,7 +2624,7 @@
     必 @bì : must
     须 @xū : must
   完成 @wánchéng : to finish
-    成 @chéng : to finish ; =verbal_complement <shows completion of action>
+    成 @chéng : to finish ; to become ; =verbal_complement <shows completion of action>
   作业 !作業 @zuòyè : work ; assignment <incl. schoolwork>
     业 !業 @yè : trade
 我明年上高中。 : I will go to high school next year
@@ -3965,4 +3972,142 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
   通知单 !通知單 @tōngzhīdān : letter of notice
     通知 @tōngzhī : to inform
   填 @tián : to fill
+```
+
+### Misc
+
+#### AI Generated (ChatGPT)
+
+```logm
+在中国一个富裕家庭中 : in a wealthy household in China
+  富裕 @fùyù : rich
+    裕 @yù : rich
+有一个被宠溺的少女，名叫陈雨 : there is a spoiled girl named Chen Yu
+  宠溺 !寵溺 @chǒngnì : to spoil
+    宠 !寵 @chǒng : to spil
+    溺 @nì : to drown ; to indulge
+  少女 @shàonǚ : young woman ; girl 
+  名叫 @míngjiào : to be called
+  陈雨 : Chen Yu
+    陈 !陳 @chén : =surname
+她的生活充满了奢华和特权 : her life was full of luxury and privilege
+  生活 @shēnghuó : life
+  充满 !充滿 @chōngmǎn : to be full of
+  奢华 !奢華 @shēhuá : luxurious
+    奢 @shē : extravagant
+  特权 !特權 @tèquán : privilege
+这是大多数人梦寐以求的 : this is what most people dream of
+  大多数 !大多數 @dàduōshù : majority
+    多数 !多數 @duōshù : large number
+  梦寐 @mèngmèi #literary : dream
+    寐 @mèi #literary : to sleep
+  以求 @yǐqiú : in the hope of / in order to achieve
+
+有一个西方小男孩 : there is a little Western boy
+  西方 @xīfāng : west ; Western world
+  男孩 @nánhái : boy
+汤姆刚刚与家人一起搬到这里 : Tom has just moved in with his family
+  刚刚 !剛剛 @gānggāng : just <temporal meaning>
+  与 !與 @yǔ : with
+他发现这里的生活与他所习惯的截然不同 : he found that life here was very different from what he was used to
+  截然 @jiérán : completely
+    截 @jié : to cut off
+  不同 @bùtóng : to differ
+首先，语言成为了他最大的障碍 : first, language became his biggest obstacle
+  首先 @shǒuxiān : first of all / firstly
+    首 @shǒu : chief
+  成为 !成為 @chéngwéi : to become 
+  障碍 !障礙 @zhàng'ài : obstacle
+    障 @zhàng : to block
+    碍 !礙 @ài : to obstruct
+尽管他试图学习中文 : despite his attempts to learn Chinese
+  尽管 !儘管 @jǐnguǎn : despite
+    管 @guǎn : to administer
+  试图 !試圖 @shìtú : to attempt
+远远不足以让他能够轻松地交流和结交朋友 : far from enough to allow him to easily communicate and make friends
+  远远 !遠遠 @yuǎnyuǎn : by far
+  不足 @bùzú : insufficient
+  交流 @jiāoliú : to communicate
+  够 !夠 @gòu : to be enough
+  结交 !結交 @jiéjiāo [朋友] : to make friends
+熙熙攘攘的人群都在使用他听不懂的语言 : the bustling crowds were using language he could not understand
+  熙熙 @xīxī #literary : bustling ; prosperous ; amiable ; happy
+    熙 @xī : bright ; splendid
+  攘 @ráng : to repel
+  使用 @shǐyòng : to use
+    使 @shǐ : to cause to
+  人群 @rénqún : crowd
+    群 !羣 @qún : crowd
+这让他感到非常孤立和沮丧 : it made him feel very isolated and depressed
+  非常 @fēicháng : extremely
+    非 @fēi : not
+    常 @cháng : normal ; constant ; frequent
+  孤立 @gūlì : isolated
+    孤 @gū : alone
+  沮丧 !沮喪 @jǔsàng : depressed
+    沮 @jǔ #bound : to stop
+    丧 !喪 @sàng : funeral ceremony
+他也遇到了困难 : he also had difficulties
+  遇到 @yùdào : to come across
+    遇 @yù : to come across
+  困难 !困難 @kùnnan : difficult
+    困 @kùn : to surround
+课堂上的讲解对他来说就像是另一个世界的声音 : the lecture was like the sound of another world to him
+  课堂 !課堂 @kètáng : classroom
+  讲解 !講解 @jiǎngjiě : to explain
+  另 @lìng : another
+  就像 @jiùxiàng : to be just like
+  对他来说 : for him
+难以理解 : difficult to understand
+  难以 !難以 @nányǐ : diffuclt to
+  理解 @lǐjiě : to understand
+他经常感到迷茫 : he often feels confused
+  迷茫 @mímáng : confused
+    茫 @máng : vast
+他无法跟上老师和同学们的步伐 : he was unable to keep up with his teachers and classmates
+  无法 !無法 @wúfǎ : unable to
+    无 !無 @wú #literary : to not have
+  步伐 @bùfá #literary : pace ; step
+    伐 @fá : to cut down
+  跟上 @gēnshàng : to keep pace
+生活中的许多小事也成了挑战。 : many small things in life have also become challenges
+  许多 !許多 @xǔduō : a considerable number of
+    许 !許 @xǔ : to allow
+  小事 @xiǎoshì : trifle / trivial matter
+  挑战 !挑戰 @tiǎozhàn : to challenge
+    挑 @tiǎo : to pick
+    战 !戰 @zhàn : to fight
+比如，去超市购物时， : for example, when he went shopping at a supermarket
+  比如 @bǐrú : for example
+  购物 !購物 @gòuwù #vo : to go shopping
+    购 !購 @gòu : to buy
+标签上全是他看不懂的汉字 : the label was full of Chinese characters he could not read
+  标签 !標籤 @biāoqiān : label / tag
+    标 !標 @biāo : surface
+  全是 @quánshì : to be full of
+  看不懂 @kànbùdǒng : to not understand <when reading>
+即使是点餐，也成了一项艰巨的任务 : even ordering a meal is a difficult task
+  即使 @jíshǐ : even if
+  点餐 !點餐 @diǎncān : to order a meal
+    餐 @cān : to eat ; meal
+  艰巨 !艱巨 @jiānjù : arduous
+    艰 !艱 @jiān : difficult
+    巨 !鉅 @jù : very large
+  任务 !任務 @rènwù : task
+  项 !項 @xiàng : =counter <for items, tasks, principles, clauses...>
+因为菜单上满是复杂的中文字 : because the menu is full of complex Chinese characters
+  满是 !滿是 @mǎnshì : to be full of
+  复杂 !複雜 @fùzá : complex
+    杂 !雜 @zá : miscellaneous
+  中文字 @zhōngwénzì : Chinese characters
+每当他尝试用自己的拙劣中文交流时 : whenever he tries to communicate in Chinese
+  每当 !每當 @měidāng : whenever
+  尝试 !嘗試 @chángshì : to attempt / to try
+    尝 !嘗 @cháng : to taste ; to try
+  拙劣 @zhuōliè : of poor quality <clumsy, shabby, crude...>
+    拙 @zhuō : clumsy ; stupid
+    劣 @liè #literary : bad
+他都感到自己的不足和困窘 : he felt his deficiency and embarassment
+  困窘 @kùnjiǒng : embarassment
+    窘 @jiǒng : embarassed
 ```
