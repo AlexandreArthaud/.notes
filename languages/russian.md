@@ -252,7 +252,7 @@
   перехо́д : passage ; transition
   мгнове́нный : momentary / instantaneous
 прошептала Анна, чувствуя, как сердце ушло в пятки : Anna whispered, feeling her heart sink
-  шепта́ть | прошепта́ть / шепну́ть : to whisper
+  шепта́ть {шепчу́ ше́пчешь} | прошепта́ть / шепну́ть : to whisper
   моё сердце ушло в пятки #idiom : my heart sank
     пя́тка : heel
 Она убедила их, что это будет 'полезно для подготовки к будущим ролям в семье' : she convinced them it would be 'useful to prepare for future roles in the family'
@@ -276,6 +276,7 @@
   у́гол : coner
   уголо́к : nook
   постепе́нно : gradually
+
 в мире, перекроенном после Великой Победы, : in a world torn apart by the great victory
   перекра́ивать | перекрои́ть : to redraw / to reshape
 где власть Германии непоколебимо распространилась на восток : where Germany's rule has steadily spread eastward
@@ -390,7 +391,8 @@
   босо́й : barefoot
 царило напряжённое молчание : there was an intense silence
   напряжённый : intense ; strained
-пробиваются сквозь тяжёлые шторы : pierce through heavy curtains
+первые лучи солнца пробиваются сквозь тяжёлые шторы : the first rays of the sun pierce through heavy curtains
+  луч : ray / beam
   што́ра : curtain
 наполнен неопределённостью : full of uncertainty
   неопределённость : uncertainty
@@ -416,4 +418,112 @@
 не проявляет открытой жестокости : shows no open cruelty
   проявля́ть | прояви́ть : to display / to show
   жесто́кость #gf : brutality ; cruelty
+в её взгляде читается непоколебимая уверенность в своём превосходстве : in her eyes, an unshakeable confidence in her superiority
+  непоколеби́мый : firm / steadfast ; inflexible
+  превосхо́дство : superiority
+  уве́ренность #gf : assurance ; confidence
+это напоминание о том, что : it's a reminder that
+  напомина́ние : reminder
+не более чем рабы : no more than slaves
+  бо́лее [GEN / чем = than] : more
+вечные подданные этого нового порядка : eternal subjects of this new order
+  по́дданный : national ; citizen ; subject
+семья собирается за столом : the family sits at the table
+  собира́ться | собра́ться {соберу́сь соберёшься} : to gather ; to be going to
+они подают еду : they serve food
+  подава́ть | пода́ть : to proffer ; to serve
+она ловит на себе взгляды его : she catches his eyes
+  лови́ть | пойма́ть : to catch
+полные смеси непонимания и солидарности : mixing understanding and solidarity
+  смесь #gf : blend / mix
+  непонима́ние : lack of understanding ; misunderstanding
+не могут позволить себе жаловаться : they can't afford to complain
+  позволя́ть | позво́лить : to allow
+  жа́ловаться : to complain
+молчаливое утешение в своей способности выдерживать и приспосабливаться : silent consolation in one's ability to withstand and adapt
+  молчали́вый : taciturn
+  спосо́бность #gf : ability
+  приспоса́бливаться | приспосо́биться {приспосо́блюсь приспосо́бишься} : to adapt
+Дарья укладывает детей спать : Darya puts the kids to bed
+  укла́дывать | уложи́ть {уложу́ уло́жишь} : to lay
+она вспоминает о  : she recalls / she remembers
+  вспомина́ть | вспо́мнить : to remember
+её охватывает грусть : she is filled with sadness
+  охва́тывать | охвати́ть : to embrace
+  грусть #gf : sadness
+ей необходимо сохранять силу : she has to save strength
+  необходи́мый : indispensable ; necessary
+наслаждаясь краткими моментами свободы от постоянного присутствия их господ : enjoying brief moments of freedom from the consant presence of their masters
+  наслажда́ться | наслади́ться {наслажу́сь наслади́шься} : to enjoy
+  постоя́нный : constant
+  прису́тствие : presence
+  господи́н {* господа́} ^ госпожа́ : mister ; lord
+их разговор короток : their conversation is short
+  коро́ткий : short / brief
+Мы должны держаться вместе, это единственный способ пережить это : we have to stick together, it's the only way to survive this
+  пережива́ть | пережи́ть : to experience ; to survive
+
+
+
+в ранние утренние часы : in the early morning hours
+  у́тренний #rel : morning
+озарять маленькую комнату : to light up the small room
+  озаря́ть | озари́ть : to light up
+воздух был наполнен напряжением : the air was filled with tension
+  напряже́ние : effort / exertion ; tension / strain ; voltage
+держаться на расстоянии : to stay away
+  расстоя́ние : distance
+создавала невыносимую атмосферу : it created an unbearable atmosphere
+  невыноси́мый : unberable
+заставляет её кожу покрываться мурашками : makes her skin crawl
+  заставля́ть | заста́вить : to compel / to make
+  ко́жа : skin ; leather
+  мура́шки : goose bumps <raised skin caused by cold, excitement or fear>
+ему не меньше её хотелось избежать этого : he wanted to avoid it just as much as she did
+  избега́ть | избежа́ть {избегу́ избежи́шь} [INF/GEN] : to avoid / to escape 
+  ме́ньше [GEN = than] : less
+его голос едва различим в полумраке : his voice barely distinctable in the twilight
+  различа́ть | различи́ть : to distinguish
+  полумра́к : twilight
+уход за детьми : childcare
+  ухо́д : care <treatment of those in need>
+требовали от них безупречной работы : required them to work perfectly
+  тре́бовать | потре́бовать [GEN] : to demand
+  безупре́чный : faultless ; spotless
+мир, где славяне, подобные им, считались естественными рабами : a world where Slavs like them were considered natural slaves
+  славяни́н {* славя́не} : Slav
+  есте́ственный : natural
+  счита́ться #impersonal;imperfective : to be considered
+приступить к утренним обязанностям : to commence morning duties
+  приступа́ть | приступи́ть {приступлю́ присту́пишь} [к] : to begin / to start
+Дарья кивнула, принимая в руки тряпку и ведро с водой : Daria nodded, holding a rag and a bucket of water
+  кива́ть | кивну́ть : to nod
+  принима́ть | приня́ть {приму́ при́мешь} : to take
+  ведро́ {* вёдра} : bucket
+посещение гостей означало строгости : visiting guests meant severity
+  посеще́ние : visit
+  означа́ть | озна́чить <perfective form dated> : to mean
+  стро́гость #gf : severity
+Артём молча взялся за свою часть работы : Artyom silently took up his part
+  мо́лча : silently
+  бра́ться {беру́с берёшься} | взя́ться {возьму́сь возьмёшься} [за ACC] : to undertake
+когда они оставались наедине : when they were alone
+  наедине́ : privatley ; alone
+в воздухе витала напряжённость : there was tension in the air
+  вита́ть : to hover ; to soar ; to be in the air
+  напряжённость #gf : tension
+становятся всё более мрачными : get darker and darker
+  станови́ться {становлю́сь стано́вишься} | стать {ста́ну ста́нешь} : to stand ; to become
+привести к наказанию : lead to punishment
+  приводи́ть {привожу́ приво́дишь} | привести́ {приведу́ приведёшь} : to bring <someone with> ; to lead
+  наказа́ние : punishment
+её голос еле слышен : her voice barely audible
+  е́ле : barely
+пока не наступил вечер : until evening
+  наступа́ть | наступи́ть {наступлю́ насту́пишь} : to tread ; to set in
+их тела наполнились усталостью от непрекращающейся рутины : their bodies filled with tiredness from an unending routine
+  непрекраща́ющийся : incessant / unending
+
+неудо́бный : uncomfortable
+лёгкий : light ; easy
 ```

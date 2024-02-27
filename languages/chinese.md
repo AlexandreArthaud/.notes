@@ -1279,7 +1279,7 @@
 我们的猫很胖。 : our cat is fat
   胖 @pàng : fat ; to gain weight
 我会注意身体。 : I'll pay attention to my health
-  注意 @zhùyì : to pay attention to
+  注意 @zhùyì : to pay attention to ; to notice
     注 @zhù : to concentrate
     意 @yì : wish ; meaning
   身体 !身體 @shēntǐ : body
@@ -2929,7 +2929,6 @@
 咳嗽 @késou : to cough
   咳 @ké : to cough
   嗽 @sòu : to cough
-文化 @wénhuà : culture
 ```
 
 #### Unit 310
@@ -4003,6 +4002,8 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
     寐 @mèi #literary : to sleep
   以求 @yǐqiú : in the hope of / in order to achieve
 
+
+
 有一个西方小男孩 : there is a little Western boy
   西方 @xīfāng : west ; Western world
   男孩 @nánhái : boy
@@ -4110,4 +4111,93 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
 他都感到自己的不足和困窘 : he felt his deficiency and embarassment
   困窘 @kùnjiǒng : embarassment
     窘 @jiǒng : embarassed
+此外，文化差异也是一大难题。 : in addition, cultural differences are a major challenge
+  此外 @cǐwài : in addition
+    此 @cǐ #literary : this
+  文化 @wénhuà : culture
+  差异 !差異 @chāyì : difference
+    异 !異 @yì : different
+  难题 !難題 @nántí : difficult problem
+很多时候他的行为和习惯在当地人眼里显得格格不入 : many times his behavior and habits seem out of place in the eyes of the locals
+  很多 @hěnduō : many
+  行为 !行為 @xíngwéi : behavior
+  当地人 !當地人 @dāngdìrén : native / local
+    当地 !當地 @dāngdì #attributive : local
+  显得 !顯得 @xiǎnde : to appear
+    显 !顯 @xiǎn : to appear
+  格格不入 @gégébùrù : inharmonious
+    格格 @gégé : conflicting ; troubled
+    入 @rù : to enter
+他对于中国的礼仪和习俗感到困惑 : he was confused by the Chinese manners and customs
+  对于 !對於 @duìyú : concerning / regardng
+  礼仪 !禮儀 @lǐyí : ceremony ; etiquette
+    仪 !儀 @yí : cermeony / rite
+  习俗 !習俗 @xísú : custom
+    俗 @sú : vulgar
+  困惑 @kùnhuò : confused
+    惑 @huò : to confuse ; confused
+在特定情况下该如何正确行动 : how to act correctly in a given situation
+  特定 @tèdìng : specific / particular
+  情况 !情況 @qíngkuàng : situation
+    况 @kuàng : situation
+  如何 @rúhé #formal : how
+    何 @hé #literary : what
+  正确 !正確 @zhèngquè : correct / proper
+    确 !確 @què : real / true
+  行动 !行動 @xíngdòng : to act
+汤姆对这种新生活感到非常不满 : Tom is very unhappy with his new life
+  不满 !不滿 @bùmǎn : to be dissatisfied / to be resentful ; dissatisfied / resentful
+他怀念自己的家乡，那里的语言、食物、习俗都让他感到舒适和熟悉 : he missed his hometown, where language, food, customs made him comfortable and familiar
+  怀念 !懷念 @huáiniàn : to miss
+    怀 !懷 @huái : to think of
+    念 @niàn : to miss
+  家乡 !家鄉 @jiāxiāng : hometown ; native land
+  食物 @shíwù : food
+  舒适 !舒適 @shūshì : comfortable
+    适 !適 @shì : to suit
+  熟悉 @shúxī : familiar
+    熟 @shú : ripe ; cooked
+    悉 @xī : to be informed of
+在这个陌生的国度 : in this strange country
+  陌生 @mòshēng : unfamiliar ; strange
+    陌 @mò : street / path / road
+  国度 !國度 @guódù #formal : nation ; country
+他感到自己被困在了一个看不见的笼子里 : he felt trapped in an invisible cage
+  看不见 !看不見 @kànbujiàn : to be unable to see ; invisible
+  笼子 !籠子 @lóngzi : cage ; basket
+渴望着能够找到属于自己的一席之地 : eager to find a place of one's own
+  渴望 @kěwàng : to long for
+  能够 !能夠 @nénggòu : to be albe to
+  属于 !屬於 @shǔyú : to belong to
+    属 !屬 @shǔ : category
+  一席之地 @yīxízhīdì : small space
+    席 @xí : seat
+    之 @zhī #litary : 's <a formal or obsolete form of 的>
+
+他的命运终于迎来了转机。 : his fate has finally turned
+  命运 !命運 @mìngyùn : fate
+有一天，在学校的语言课上 : one day, in the language class of the school
+  有一天 @yǒuyītiān : one day
+一个名叫王莉的中国女孩注意到了他。 : a Chinese girl named Wang Li noticed him
+  女孩 @nǚhái : girl
+  莉 @lì : =phonetic
+王莉被汤姆笨拙但又坚持不懈的尝试说中文所吸引。 : Wang Li was attraced to Tom's clumsy but persistent attempts to speak Chinese
+  笨拙 @bènzhuō : clumsy
+    笨 @bèn : cumbersome ; stupid
+  但又 : but yet
+  坚持不懈 !堅持不懈 @jiānchíbùxiè : to persevere
+    坚持 !堅持 @jiānchí : to persist with
+      坚 !堅 @jiān : hard ; strong ; resolute
+      持 @chí : to hold
+    不懈 @bùxiè : untiring
+      懈 @xiè #literary : slack / idle / lazy
+  吸引 @xīyǐn : to attrack
+    引 @yǐn : to pull
+她觉得这种努力非常可爱， : she found this effort very lovely
+决定向他伸出友谊之手。 : decided to extend a hand of friendship to him
+  伸出 @shēnchū : to reach out / to extend
+    伸 @shēn : to extned
+  友谊 !友誼 @yǒuyì : friendship
+    谊 !誼 @yì : friendship
 ```
+
