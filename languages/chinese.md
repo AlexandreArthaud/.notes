@@ -1736,7 +1736,7 @@
   早饭 !早飯 @zǎofàn : breakfast
 你吃完了吗？ : have you finished eating?
 我已经看完了这本书。 : I've already finished reading this book
-  已经 !已經 @yǐjīng : already
+  已经 !已經 @yǐjīng : already ; anymore
     已 @yǐ : to finish
    	经 !經 @jīng : to experience
 我正在工作。 : I'm working right now
@@ -3351,8 +3351,6 @@
   馒头 !饅頭 @mántou : steamed bun / mantou
 
 萌 @méng : to sprout ; cute #Internet_slang
-分享 @fēnxiǎng : to share
-  享 @xiǎng : to enjoy
 ```
 
 #### Unit 315
@@ -4022,7 +4020,7 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
     障 @zhàng : to block
     碍 !礙 @ài : to obstruct
 尽管他试图学习中文 : despite his attempts to learn Chinese
-  尽管 !儘管 @jǐnguǎn : despite
+  尽管 !儘管 @jǐnguǎn : despite ; even though
     管 @guǎn : to administer
   试图 !試圖 @shìtú : to attempt
 远远不足以让他能够轻松地交流和结交朋友 : far from enough to allow him to easily communicate and make friends
@@ -4167,7 +4165,7 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
   笼子 !籠子 @lóngzi : cage ; basket
 渴望着能够找到属于自己的一席之地 : eager to find a place of one's own
   渴望 @kěwàng : to long for
-  能够 !能夠 @nénggòu : to be albe to
+  能够 !能夠 @nénggòu : to be able to
   属于 !屬於 @shǔyú : to belong to
     属 !屬 @shǔ : category
   一席之地 @yīxízhīdì : small space
@@ -4199,5 +4197,112 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
     伸 @shēn : to extned
   友谊 !友誼 @yǒuyì : friendship
     谊 !誼 @yì : friendship
+王莉用她流利的英语和汤姆交流， : Wang Li communicated with Tom in her fluent English
+这让汤姆感到既惊讶又欣慰。 : this surprised and relieved Tom
+  既 @jì : both...and <with 又 for 'and'>
+  惊讶 !驚訝 @jīngyà : surprised
+    惊 !驚 @jīng : to fear ; to be startled
+    讶 !訝 @yà : to be surprised
+  欣慰 @xīnwèi : happy and content
+    欣 @xīn : happy
+    慰 @wèi : to comfort
+他们开始在课间休息时交谈， : they started talking during the breaks
+  课间休息 !課間休息 @kèjiānxiūxī : recess <break between class>
+    课间 !課間 @kèjiān : break
+  交谈 !交談 @jiāotán : to talk
+王莉耐心地纠正汤姆的中文发音， : Wang Li patiently corrected Tom's Chinese pronunciation
+  耐心 @nàixīn : patient
+    耐 @nài : to endure
+  纠正 !糾正 @jiūzhèng : to correct
+    纠 !糾 @jiū : to inspect
+  发音 !發音 @fāyīn : pronunciation
+并教他一些简单的词汇和短语。 : he was taught simple words and phrases
+  并 !並 @bìng : at the same time
+  词汇 !詞彙 @cíhuì : vocabulary / lexicon
+  短语 !短語 @duǎnyǔ : phrase
+汤姆感到非常感激， : Tom was very grateful
+  感激 @gǎnjī : to be grateful
+    激 @jī : to arouse
+他终于找到了一个能够理解他挣扎的人。 : he finally found someone who could understand his struggles
+  挣扎 !掙扎 @zhēngzhá : to struggle ; struglge
+    挣 !掙 @zhèng : to struggle ; to earn
+    扎 !紮 @zā/zhá : to tie
+通过与王莉的交流， : by communicating with Li
+汤姆渐渐地学到了更多的中文词汇和表达方式。 : Tom gradually learned more Chinese words and expressions
+  表达方式 !表達方式 @biǎodáfāngshì : means of expression
+    表达 !表達 @biǎodá : to express
+      达 !達 @dá #literary : to reach
+    方式 @fāngshì : way / means
+      式 @shì #literary : pattern
+他开始对中文产生了兴趣， : he became interested in Chinese
+  产生 !產生 @chǎnshēng : to produce
+    产 !產/産 @chǎn : to give birth ; to produce
+因为现在他有了一个能够分享学习经历的朋友。 : because now he has a friend who can share his learning experience
+  分享 @fēnxiǎng : to share
+    享 @xiǎng : to enjoy
+  经历 !經歷 @jīnglì : to experience ; experience
+王莉也介绍汤姆给她的其他朋友， : Wang Li also introduced Tom to her other friends
+虽然最初他们之间的交流充满了误解和笑声， : although initially their communication was filled with misunderstandings and laughter
+  最初 @zuìchū : beginning ; initial ; initally
+  之间 !之間 @zhījiān : between
+  误解 !誤解 @wùjiě : to misunderstand; misunderstanding
+  笑声 !笑聲 @xiàoshēng : laughter
+这些经历让汤姆感到更加融入了这个新环境。 : these experiences made Tom feel more integrated into the new environment 
+  更加 @gèngjiā : even more
+  融入 @róngrù : to integrate
+随着时间的推移，汤姆的中文逐渐改善。 : over time, Tom's Chinese improved gradually
+  随着 !隨著 @suízhe : along with
+  推移 @tuīyí : to elapse
+    推 @tuī : to push
+    移 @yí : to move
+  逐渐 !逐漸 @zhújiàn : gradually
+    逐 @zhú : to chase ; gradually
+  改善 @gǎishàn : to improve
+    改 @gǎi : to change
+    善 @shàn : good
+他开始能够参与到更复杂的对话中， : he began to be able to engage in more complex conversations
+  参与 !參與 @cānyù : to take part in
+  对话 !對話 @duìhuà : conversation / dialogue
+尽管还是会犯错误， : even if you mistakes
+  犯错误 !犯錯誤 @fàncuòwù : to make a mistake
+    犯 @fàn : to infringe on ; to violate
+    错误 !錯誤 @cuòwù : mistake / error
+他已经不再那么在乎了。 : he doesn't care that much anyore
+  不再 @bùzài : no more
+  在乎 @zàihū #colloquial : to care about / to mind
+王莉和她的朋友们对汤姆的态度，以及他们之间的友谊， : the attitude of Wang Li and her friends towards Tom and their friendship
+  态度 !態度 @tàidù : attitude
+    态 !態 @tài : condition
+  以及 @yǐjí : as well as
+    及 @jí : to reach
+让汤姆感到自己在这个曾经陌生的地方找到了一种归属感。 : made Tom feel like he found a sense of belonging in this once strange place
+  曾经 !曾經 @céngjīng : in the past 
+    曾 @céng : previously
+  归属感 ! 歸屬感 @guīshǔgǎn : sense of belonging
+    归属 !歸屬 @guīshǔ : to belong to ; belonging
+      归 !歸 @guī : to come back to
+汤姆和王莉的友谊证明了跨文化交流的力量。 : Tom and Wang Li's friendship is a testament to the power of intercultural communication
+  证明 !證明 @zhèngmíng : proof ; evidence; certificate
+  跨文化 @kuàwénhuà #attributive : intercultural
+    跨 @kuà : to step across
+  力量 @lìliàng : strength ; power
+他们的故事不仅是关于语言学习的挑战， : their story is not just about the challenges of language learning
+  不仅 !不僅 @bùjǐn : not only
+    仅 !僅 @jǐn : only
+更是关于理解、接纳和友谊的重要性 : it is more about the importance of understanding, acceptance and friendship
+  接纳 !接納 @jiēnà : to admit ; to accept
+    纳 !納 @nà : to admit
+  重要性 @zhòngyàoxìng : importance
+    性 @xìng : personality ; -ness / -ity <suffix to form noun>
+汤姆开始用不同的眼光看待他在中国的生活 : Tom began to look at his life in China differently
+  眼光 @yǎnguāng : eyes
+  看待 @kàndài : to regard
+    待 @dài : to wait for ; to treat
+他的不满和沮丧逐渐转化为对这个新文化的好奇和欣赏。 : his discontent and frustration gradually translate curiosity and appreciation of this new culture
+  转化 !轉化 @zhuǎnhuà : to transform
+  好奇 @hàoqí : curious
+    奇 @qí : strange / odd
+  欣赏 !欣賞 @xīnshǎng : to appreciate
+    赏 !賞 @shǎng #formal : to bestow
 ```
 
