@@ -526,4 +526,74 @@
 
 неудо́бный : uncomfortable
 лёгкий : light ; easy
+
+
+
+в семье Дурсль, начинается очередное утро : in the Dursley family, another morning begins
+неуемной жаждой знаний : unquenchable thirst for knowledge
+  неуёмный : indefatigable
+его комната мала, но аккуратна : his room is small but neat
+  аккура́тный : accurate ; tidy
+ученик с отличными оценками : outstanding student
+  оце́нка : feedback ; grade #school
+ни шума, доносящегося с улицы : nor the noise coming from the street
+  доноси́ться {доношу́сь доно́сишься} | донести́сь {донесу́сь донесёшься} : to be worn out <of clothes> ; to reach one's ears
+в этом новом изложении менее агрессивен, но все еще склонен к насилию : in this new narrative less aggressive but still prone to violence
+  изложе́ние : statement ; essay
+  скло́нный [к = to] : inclined
+  наси́лие : violence ; rape
+не такой уж и глупый, как могло показаться : not as stupid as he looked
+  пока́зываться | показа́ться {покажу́сь пока́жешься} : to appear
+он вступает в споры с Гарри : he gets into arguments with Harry
+  вступа́ть | вступи́ть {вступлю́ всту́пишь} : to enter
+  спор : dispute ; argument
+но это скорее дружеская ссора, чем что-то серьезное : but it's more of a friendly fight than something serious
+  ссо́ра : quarrel
+они даже объединяются ради общего дела : they even unite for a common cause
+  объединя́ться | объедини́ться : to unite
+что-то, что предполагает небольшое нарушение правил ради забавы : something that involves a little rule breaking for fun
+  предполага́ть | предположи́ть : to assume ; to imply
+  наруше́ние : breach / violation
+  заба́ва : fun / amusement
+ожидание обыденного, но в то же время уютного дня : expectation of an ordinary but cozy day
+  обы́денный : ordinary
+  в то́ же вре́мя : at the same time
+  ую́тный : comfortable
+Петуния перебрасывается несколькими словами с Верноном,  : Petunia has a few words with Vernon
+  перебра́сываться | перебро́ситься {перебро́шусь перебро́сишься} : to throw at each other [INS]
+пытаясь привлечь его внимание к предстоящим делам дня : trying to draw his attentio to the upcoming matters of the day
+  привлека́ть | привле́чь {привлеку́ привлечёшь} : to attract
+  предстоя́щий : forthcoming
+в то время как Дадли мечтательно смотрит на улицу : while Dudley stares dreamily down the street
+  мечта́тельный : dreamy
+листает свою любимую книгу : flipping through his favorite book
+  листа́ть #colloquial : to leaf through ; to skim
+время от времени отвлекаясь на разговоры взрослых : from time to time distracted by adult conversations
+  отвлека́ться | отвле́чься {отвлеку́сь отвлечёшься} : to be distracted
+наливая ему чашку чая : pouring him a cup of tea
+  налива́ть | нали́ть {налью́ нальёшь} : to pour
+не отрывая глаз от страницы : without taking his eyes off the page
+он прекрасно знает, что успеет все сделать, ведь учеба дается ему легко : he knows very well that he'll have time to do everything, because studying is easy for him
+надеясь на положительный ответ : hoping for a positive response
+  положи́тельный : positive
+Вернон внезапно поднимает взгляд с газеты и вступает в разговор : Vernon suddenly looks up from the paper and starts talking
+  поднима́ть | подня́ть {подниму́ подни́мешь} : to raise
+те двое постоянно попадают в неприятности? Звучит забавно : those two get in trouble all the time? sounds fun
+жизнь в доме Дурсль течет своим чередом : life in the Dursley household runs its course
+  те́чь {теку́ течёшь} | вы́течь / стечь : to flow
+  черёд : turn ; course
+ногда перебивая друг друга, но без особых конфликтов : sometimes interrupting each other, but without much conflict
+  перебива́ть | переби́ть {перебью́ перебьёшь} : to interrupt
+  осо́бый : special ; distinct
+Петуния старается поддерживать порядок : Petunia tries to maintain order
+  подде́рживать | поддержа́ть {поддержу́ подде́ржишь}:  to support ; to maintain
+предпочитает оставаться в стороне от семейных дел,  : prefers to stay away from family business
+  предпочита́ть | предпоче́сть {предпочту́ предпочтёшь} : to prefer
+пока не придет время отправляться на работу : until it's time to go to work
+  отправля́ться | отпра́виться {отпра́влюсь отпра́вишься} : to set off
+далеко еще не знающего о своем волшебном происхождении : far from knowing his magical origins
+  волше́бный : magic
+  происхожде́ние : origin
+и о том, какие приключения его ждут в будущем : and what adventures await him
+  приключе́ние : adventure
 ```

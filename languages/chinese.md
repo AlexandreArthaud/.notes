@@ -1335,7 +1335,7 @@
 坐出租车去那里贵不贵？ : is it expensive to take a taxi here?
   出租车 !出租車 @chūzūchē : taxi / cab
     出租 @chūzū : to rent out
-      出 @chū : to go out
+      出 @chū : to go out ; =vc <outward movement or completion like 'out' in English>
       租 @zū : to rent
   坐车 !坐車 @zuòchē #vo : to get on a vehicle
 请问，地铁站在哪儿？ : excuse me, where is the subway station?
@@ -2686,7 +2686,7 @@
     留 @liú : to leave behind
 你们周末打算做什么？ : what are you all planning to do on the weekend?
   打算 @dǎsuàn : to plan
-    	算 @suàn : to plan ; to calculate
+    算 @suàn : to plan ; to calculate
 你愿意跟我结婚吗？ : will you marry me?
   愿意 !願意 @yuànyì : to be willing
     愿 !願 @yuàn : to wish
@@ -2716,7 +2716,7 @@
   安静 !安靜 @ānjìng : quiet
     静 !靜 @jìng : quiet
 音乐的声音太大，会影响其他人。 : the music volume is too loud, it might disturb others
-  声音 !聲音 @shēngyīn : sound ; volume
+  声音 !聲音 @shēngyīn : sound ; volume ; voice
     声 !聲 @shēng : sound
   影响 !影響 @yǐngxiǎng : to disturb
     响 !響 @xiǎng : to make a sound
@@ -2970,7 +2970,7 @@
 我用多邻国学习中文。 : I use Duolingo to learn Chinese
 你怎么翻译这个句子？ : how do you translate this sentence?
   翻译 !翻譯 @fānyì : to translate
-    翻 @fān : to translate
+    翻 @fān : to translate ; to flip over
     译 !譯 @yì : to translate
   句子 @jùzi : sentence
     句 @jù : sentence #counter
@@ -3233,7 +3233,7 @@
 我们的老板很麻烦。 : our boss is annoying
   老板 !老闆 @lǎobǎn : shop owner ; boss
     板 !闆 @bǎn : =phonetic
-  麻烦 !麻煩 @máfan : annoying
+  麻烦 !麻煩 @máfan : annoying ; trouble
     烦 !煩 @fán : vexed
 恭喜发财！ : Happy New Year <literally: congratulations for becoming rich, ref to the red envelopes?>
   恭喜 @gōngxǐ : to congratulate ; congratulations!
@@ -4125,6 +4125,7 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
     显 !顯 @xiǎn : to appear
   格格不入 @gégébùrù : inharmonious
     格格 @gégé : conflicting ; troubled
+      格 @gé #literary : pattern
     入 @rù : to enter
 他对于中国的礼仪和习俗感到困惑 : he was confused by the Chinese manners and customs
   对于 !對於 @duìyú : concerning / regardng
@@ -4304,5 +4305,217 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
     奇 @qí : strange / odd
   欣赏 !欣賞 @xīnshǎng : to appreciate
     赏 !賞 @shǎng #formal : to bestow
+
+
+在英格兰郊外的一个小镇上，  : in England, in a town in the suburbs
+  英格兰 !英格蘭 @Yīnggélán : England
+    兰 !蘭 @lán : orchid
+  郊外 @jiāowài : outskirts of a city / suburbs
+    郊 @jiāo : suburbs / outskirts
+哈利·波特与德思礼一家住在一起， : Harry Potter lived with the Dursleys
+  哈利 @Hālì : Harry
+    哈 @hā : ha
+  波特 @Bōtè : Potter
+  德思礼一家 : Dursley family
+  在一起 @zàiyīqǐ : together
+这个家庭虽然看起来很普通， : this family, though it seems ordinary
+  普通 @pǔtōng : ordinary ; common
+    普 @pǔ : general
+但却有着它们独特的功能不全。 : but they have unique features that are not completely so
+  却 !卻 @què : but <sentence medially>
+  独特 !獨特 @dútè : unique / distinctive
+    独 !獨 @dú : single
+  功能 @gōngnéng : feature
+  不全 @bùquán : incomplete
+哈利，一个大约十岁的男孩，与他的表哥达力同住在这个家中。 : Harry, a ten year old boy, live in the house with his cousin Dudley
+  表哥 @biǎogē : cousin <from mother's side, or father's sister's son, older than oneself>
+  达力 : Dudley
+他们的关系复杂，时而像朋友，时而像敌人， : their  relationships are complex, sometimes like friends, sometimes like enemies
+  时而 !時而 @shí'ér : sometimes
+但总是充满了小孩子的恶作剧和争执。 : but it's always full of children's pranks and feuds
+  小孩子 @xiǎoháizi : child
+  恶作剧 !惡作劇 @èzuòjù : prank
+    恶 !惡 @è : evil
+    剧 !劇 @jù : theatrical work
+  争执 !爭執 @zhēngzhí : to argue / to quarrel ; argument / quarrel
+    争 !爭 @zhēng : to fight
+    执 !執 @zhí : to carry out ; to grasp
+一个阳光明媚的早晨， : a sunny morning
+  阳光 !陽光 @yángguāng : sunlight
+  明媚 @míngmèi : bright and beautiful
+    媚 @mèi : charming
+  早晨 @zǎochen : early morning <usually from around 4 to 9>
+    晨 @chén : daybreak
+家里的每个人都在忙着各自的事情。 : everyone at home is busy with their business
+  各自 @gèzì : each respectively
+    各 @gè : each
+哈利早早地起床了， : Harry got up early
+  早早 @zǎozǎo : as soon as possible
+他坐在厨房的桌子旁， : he sat at the kitchen table
+专心致志地看着一本书， : looking intently at a book
+  专心致志 !專心致志 @zhuānxīnzhìzhì : to be wholly focused
+    专心 !專心 @zhuānxīn #vo : to concentrate
+      专 !專 @zhuān : to monopolize
+    致志 @zhìzhì #literary : to concentrate
+      致 @zhì : to send
+      志 @zhì : will
+尽管他并不是一味追求学术成就的孩子， : even though he was not a child to pursue academic achievement
+  味 @wèi : =counter <for ingredients in Chinese medicine prescriptions, dishes, types?> 
+  并不 !並不 @bìngbù : not at all / by no means
+  追求 @zhuīqiú : to pursue
+    追 @zhuī : to pursue
+  学术 !學術 @xuéshù : academics
+  成就 @chéngjiù : to achieve ; achievement
+他对学习有着天生的好奇心和热情。 : he had a natural curiosity and passion for learning
+  天生 @tiānshēng : innate
+  好奇心 @hàoqíxīn : curiosity
+此时，他的表情专注，仿佛周围的世界都消失了。 : at this point, his expression was focused, as if the world arround him had disappeared
+  此时 !此時 @cǐshí : this moment / right now
+  表情 @biǎoqíng : expression <on one's face>
+  专注 !專注 @zhuānzhù : to be absorbed in
+  仿佛 !彷彿 @fǎngfú : as if
+    仿 !彷 @fǎng : =phonetic
+    佛 !彿 @fú : =phonetic
+  消失 @xiāoshī : to dissapear / to vanish
+达力则在客厅里， : Dudley is in the living room
+一边看电视一边大声地嚼着早餐， : watching TV and chewing breakfast loudly
+  大声 !大聲 @dàshēng : loud
+  嚼 @jiáo : to chew
+  早餐 @zǎocān : breakfast
+电视机前的场景与他的嘴里的食物一样， : the scene in the television was like the food in his mouth
+  电视机 !電視機 @diànshìjī : television set / TV set
+  场景 !場景 @chǎngjǐng : scene
+充满了动感和活力。 : full of movement and energy
+  动感 !動感 @dònggǎn : liveliness
+  活力 @huólì : energy
+尽管他不像哈利那样聪明， : although he is not as clever as Harry
+  那样 !那樣 @nàyàng : so / that ; that manner
+但达力也有他的聪明之处， : but Dudley also had his cleverness
+  处 !處 @chù : place ; aspect
+特别是在制造小恶作剧上。 : especially in making small mischief
+  制造 !製造 @zhìzào : to make ; to manufacture
+    制 !製 @zhì : to manufacture
+    造 @zào : to manufa ture
+弗农·德思礼， : Vernon Dursley
+  弗农 !弗農 @Fúnóng : Vernon
+    弗 @fú : =phonetic <"not" in Classical Chinese>
+    农 !農 @nóng : to cultivate
+家庭的顶梁柱， : the backbone of the family
+  顶梁柱 !頂樑柱 @dǐngliángzhù : key pillar ; backbone
+    顶 !頂 @dǐng : peak 
+    梁 !樑 @liáng : roof beam
+    柱 @zhù : pillar
+正坐在餐厅阅读报纸， : sitting in the dining room reading a newspaper
+  正坐 @zhèngzuò #literary : to sit upright
+  餐厅 !餐廳 @cāntīng : dining room ; restaurant
+  阅读 !閱讀 @yuèdú : to read
+    阅 !閱/閲 @yuè #literary : to read
+偶尔抬头看看钟表， : occasionally looking up at the clock
+  偶尔 !偶爾 @ǒu'ěr : now and then / from time to time / sometimes
+    偶 @ǒu : pair
+    尔 !爾 @ěr #literary : thus
+  抬头 !抬頭 @táitóu #vo : to look up
+    抬 !擡 @tái : to lift
+  钟表 !鐘錶 @zhōngbiǎo : timepiece / clock
+仿佛他的一天完全被工作和家庭琐事填满， : as if his day was completely filled with work and family chores
+  完全 @wánquán : completely
+  琐事 !瑣事 @suǒshì : trivial things / trifling matter / trifle
+    琐 !瑣 @suǒ : petty
+  填满 !填滿 @tiánmǎn : to fill in
+对于两个孩子之间的小摩擦和恶作剧似乎并不太关心。 : did not seem to care much about the little friction and mischief between the two children 
+  摩擦 @mócā : to rub ; friction ; clash
+    摩 @mó : to rub
+    擦 @cā : to rub
+  似乎 @sìhū : as if
+    似 @sì : to be similar to
+佩妮·德思礼则在厨房忙前忙后， : Petunia Dursley was busy in the kitchen
+  佩妮 @pèinī #transcription : Petunia
+    佩 @pèi : pendant
+    妮 @nī : servant girl
+  忙前忙后 !忙前忙後 @mángqiánmánghòu : to be busy as a bee
+她是家里的实际管理者， : she's the actual manager of the house
+  实际 !實際 @shíjì : actual
+  管理者 @guǎnlǐzhě : manager
+总是尽力维持着家庭的秩序。 : always trying to keep the family in order
+  尽力 !盡力 @jìnlì : to strive one's hardest to
+  维持 !維持 @wéichí : to maintain
+    维 !維 @wéi : to hold together
+  秩序 @zhìxù : order
+    秩 @zhì #literary : order
+    序 @xù : order
+在准备早餐的同时， : while preparing breakfast
+  同时 !同時 @tóngshí : at the smae time
+她还不时地用眼角余光监视着哈利和达力， : she also watched Harry and Dudley from time to time
+  不时 !不時 @bùshí : from time to time
+  眼角 @yǎnjiǎo : corner of the eye
+  余光 @yúguāng : peripheral vision
+    余 @yú #literary : I
+  监视 !監視 @jiānshì : to monitor / to keep tabs on
+    监 !監 @jiān : to supervise
+确保他们不会搞出太大的麻烦。 : making sure they don't get into too much trouble
+  搞 @gǎo : to do <usually bad things>
+  确保 !確保 @quèbǎo : to ensure
+“哈利，记得今天下午要做作业，” : Harry, remember to do your homework this afternoon
+佩妮一边翻着煎蛋一边说，语气既是提醒也是关心。 : Petunia said as she flipped over the fried eggs, her tone was both remindful and concerned
+  煎蛋 @jiāndàn : fried egg
+    煎 @jiān  to pan-fry
+  语气 !語氣 @yǔqì : tone
+露出一个有点自以为是的微笑 : a somewhat self-righteous smile
+  露出 @lùchū/lòuchū : to show
+    露 @lòu/lù : to be in the open
+  自以为是 !自以為是 @zìyǐwéishì : self-righteous ; to consider oneself in the right
+    以为 !以為 @yǐwéi : to mistakenly believe
+  微笑 @wēixiào : to smile ; smile
+“当然了，阿姨，我总是做得比达力更早，更好。” : of course, aunt, I always do it earlier and better than Dudley
+他的话语中透露出一丝竞争和自豪。 : a touch of competition and pride was revealed in his words
+  话语 !話語 @huàyǔ : spoken words
+  透露 @tòulù : to reveal
+    透 @tòu : to penetrate
+  一丝 !一絲 @yīsī : a tiny bit
+  竞争 !競爭 @jìngzhēng : to compete
+    竞 !競 @jìng : to compeete
+  自豪 @zìháo : proud
+达力听到这话， : Dudley heard this
+从客厅里嚷嚷着回应 : responding shouting from the living room
+  嚷嚷 @rāngrang #colloquial : to yell
+    嚷 @rāng : to shout
+  回应 !回應 @huíyìng : to answer / to respond
+“哼，就算你学习好，也没我玩得开心。” : humph, even if you study well, I don't have much fun  
+  哼 @hng : humph
+  就算 @jiùsuàn #colloquial : even if
+他的声音充满了挑战和不甘示弱。 : his voice was challenging and unyielding
+  不甘示弱 @ùgānshìruò : to be unwilling to be outdone
+    不甘 @bùgān #literary : to be unwilling to
+      甘 @gān : sweet
+    示弱 @shìruò : to take something lying down
+      示 @shì : to show
+      弱 @ruò : weak
+轻声对佩妮说 : whispered to Petunia
+  轻声 !輕聲 @qīngshēng : quietly / softly
+“他们总是这样，你觉得我们应该担心吗？” : they always like this, do you think we should worry?
+  这样 !這樣 @zhèyàng : in this way
+佩妮微笑着回答 : Petunia answered with a smile
+“只要他们不把房子弄塌，我想我们可以放心。” : as long as they don't crumble the house, I think we can rest assured
+  只要 @zhǐyào : as long as
+  房子 @fángzi : house
+  弄 @nòng : to play with
+  塌 @tā : to collapse
+这个家庭的早晨， : this family's morning, 
+就像很多家庭一样， : like many families
+充满了喧闹和生活的琐碎， : full of noise and trivial life
+  喧闹 !喧鬧 @xuānnào : noisy ; to make noise
+    喧 !諠 @xuān : noisy
+    闹 !鬧 @nào : to be noisy
+  琐碎 !瑣碎 @suǒsuì : trifling / trivial
+    碎 @suì : shattered
+但对于哈利来说， : but for Harry
+这里是他成长的地方， : this is where he grew up
+  成长 !成長 @chéngzhǎng : to grow up
+即使他还不知道自己的真正身份和未来的命运。 : even though he does not yet know his true identiy and future fate
+  真正 @zhēnzhèng : genuine / real / true
+  身份 @shēnfèn : identity
+    份 @fèn : portion
+  未来 !未來 @wèilái : future
+    未 @wèi : not yet
 ```
 
