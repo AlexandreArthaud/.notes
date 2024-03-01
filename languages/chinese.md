@@ -4458,7 +4458,7 @@ Usually, 分 is used to say a "point" in education, and a perfect score is "100�
 “哈利，记得今天下午要做作业，” : Harry, remember to do your homework this afternoon
 佩妮一边翻着煎蛋一边说，语气既是提醒也是关心。 : Petunia said as she flipped over the fried eggs, her tone was both remindful and concerned
   煎蛋 @jiāndàn : fried egg
-    煎 @jiān  to pan-fry
+    煎 @jiān : to pan-fry
   语气 !語氣 @yǔqì : tone
 露出一个有点自以为是的微笑 : a somewhat self-righteous smile
   露出 @lùchū/lòuchū : to show

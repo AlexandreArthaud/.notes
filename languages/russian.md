@@ -586,7 +586,7 @@
   перебива́ть | переби́ть {перебью́ перебьёшь} : to interrupt
   осо́бый : special ; distinct
 Петуния старается поддерживать порядок : Petunia tries to maintain order
-  подде́рживать | поддержа́ть {поддержу́ подде́ржишь}:  to support ; to maintain
+  подде́рживать | поддержа́ть {поддержу́ подде́ржишь} :  to support ; to maintain
 предпочитает оставаться в стороне от семейных дел,  : prefers to stay away from family business
   предпочита́ть | предпоче́сть {предпочту́ предпочтёшь} : to prefer
 пока не придет время отправляться на работу : until it's time to go to work
